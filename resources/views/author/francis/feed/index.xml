@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+
+	<channel>
+		<title>Francis, Author at Kemnet Technologies Limited</title>
+		<atom:link href="https://kemnet.co.ke/author/francis/feed/" rel="self" type="application/rss+xml" />
+		<link>https://kemnet.co.ke/author/francis/</link>
+		<description>powered by TECHNOLOGY, driven by SERVICE</description>
+		<lastBuildDate>Thu, 02 Nov 2023 04:10:07 +0000</lastBuildDate>
+		<language>en-US</language>
+		<sy:updatePeriod>
+			hourly </sy:updatePeriod>
+		<sy:updateFrequency>
+			1 </sy:updateFrequency>
+		<generator>https://wordpress.org/?v=6.9</generator>
+
+		<image>
+			<url>https://kemnet.co.ke/wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD-32x32.png</url>
+			<title>Francis, Author at Kemnet Technologies Limited</title>
+			<link>https://kemnet.co.ke/author/francis/</link>
+			<width>32</width>
+			<height>32</height>
+		</image>
+		<item>
+			<title>Understanding Redundancy : The Backbone of Reliable Internet</title>
+			<link>https://kemnet.co.ke/understanding-redundancy-the-backbone-of-reliable-internet/</link>
+			<comments>https://kemnet.co.ke/understanding-redundancy-the-backbone-of-reliable-internet/#respond
+			</comments>
+
+			<dc:creator>
+				<![CDATA[Francis]]>
+			</dc:creator>
+			<pubDate>Thu, 26 Oct 2023 09:39:23 +0000</pubDate>
+			<category>
+				<![CDATA[Internet]]>
+			</category>
+			<guid isPermaLink="false">http://kemnet.co.ke/?p=15227</guid>
+
+			<description>
+				<![CDATA[<p>Understanding Redundancy : The Backbone of Reliable Internet Understanding Redundancy: The Backbone of Reliable Internet Understanding Redundancy At KEMNET, we have put in place a robust redundancy strategy. At KEMNET, we have put in place a robust redundancy strategy In an increasingly digital age, reliable internet connectivity is not just a luxury; it&#8217;s a necessity.</p>
+<p>The post <a href="https://kemnet.co.ke/understanding-redundancy-the-backbone-of-reliable-internet/">Understanding Redundancy : The Backbone of Reliable Internet</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+]]>
+			</description>
+			<content:encoded>
+				<![CDATA[<div data-elementor-type="wp-post" data-elementor-id="15227" class="elementor elementor-15227">
+				<div class="elementor-element elementor-element-2b179e01 e-flex e-con-boxed e-con e-parent" data-id="2b179e01" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-22a1c211 elementor-widget elementor-widget-text-editor" data-id="22a1c211" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p></p>
+<p><strong>Understanding Redundancy : The Backbone of Reliable Internet</strong></p>
+<p></p>								</div>
+				</div>
+					</div>
+				</div>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-29d5ef8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="29d5ef8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-31a27fc" data-id="31a27fc" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4bd7cea elementor-widget elementor-widget-satenetsectiontitle" data-id="4bd7cea" data-element_type="widget" data-widget_type="satenetsectiontitle.default">
+				<div class="elementor-widget-container">
+					<div class="section-title-wrapper text-center"><div class="title-wrap"><h2 class="section-title">Understanding Redundancy: </h2><span class="sub-title">The Backbone of Reliable Internet</span></div><!-- .title-wrap --><div class="section-description">
+<blockquote>
+<p class="quote-author">Understanding Redundancy</p>
+<p >At KEMNET, we have put in place a robust redundancy strategy.
+</blockquote></div><!-- .section-description --></div><!-- .section-title-wrapper -->				</div>
+				</div>
+				<div class="elementor-element elementor-element-cd76ef6 elementor-widget elementor-widget-satenetsectiontitle" data-id="cd76ef6" data-element_type="widget" data-widget_type="satenetsectiontitle.default">
+				<div class="elementor-widget-container">
+					<div class="section-title-wrapper text-center"><div class="title-wrap"><h5 class="section-title">At KEMNET, we have put in place a robust redundancy strategy</h5></div><!-- .title-wrap --><div class="section-description"><p style="text-align:justify;">In an increasingly digital age, reliable internet connectivity is not just a luxury; it's a necessity. Whether you're running a business, attending a virtual meeting, or simply streaming your favorite show, unexpected downtimes are a nightmare. This is where the concept of redundancy comes into play. 
+</p>
+<p style="text-align:justify;">Simply put, redundancy means having backup systems in place to ensure uninterrupted service even if one part of the system fails. This calls for heavy investment in infrastructure to guarantee multiple levels of redundancy, promising users unmatched uptime. 
+</p>
+<p style="text-align:justify;">
+At KEMNET, we have put in place a robust redundancy strategy. We maintain backup hardware components like servers and switches, ensuring immediate replacement when required for continuous service. 
+</p>
+<p style="text-align:justify;">
+Our network design incorporates multiple pathways ensuring intelligent failover; if one link encounters issues, traffic is immediately redirected to another. Power interruptions are addressed by our multiple power sources, complemented by backup generators. 
+</p>
+<p style="text-align:justify;">
+We've also established partnerships with various upstream providers, ensuring a hassle-free transition if one faces challenges. Additionally, our backup data centers ensure that any disruption in one location doesn't impact our overall service.
+</p>
+</p>
+<p style="text-align:justify;">
+Ongoing road constructions, sometimes pose potential threats to the physical network infrastructure like underground cables. We have taken various steps to minimize exposure:
+</p></div><!-- .section-description --></div><!-- .section-title-wrapper -->				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-b89d39f elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="b89d39f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wide">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3d2b561" data-id="3d2b561" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-24db894 elementor-widget elementor-widget-satenetsectiontitle" data-id="24db894" data-element_type="widget" data-widget_type="satenetsectiontitle.default">
+				<div class="elementor-widget-container">
+					<div class="section-title-wrapper text-left"><div class="title-wrap"><h6 class="section-title"></h6><span class="sub-title">•	Strategic Cable Placement</span><span class="title-separator separator-border theme-color-bg"></span></div><!-- .title-wrap --><div class="section-description"><p style="text-align:justify;">by studying construction blueprints and rerouting cables accordingly.
+</p></div><!-- .section-description --></div><!-- .section-title-wrapper -->				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b1023f5" data-id="b1023f5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3e8d875 elementor-widget elementor-widget-satenetsectiontitle" data-id="3e8d875" data-element_type="widget" data-widget_type="satenetsectiontitle.default">
+				<div class="elementor-widget-container">
+					<div class="section-title-wrapper text-left"><div class="title-wrap"><h6 class="section-title"></h6><span class="sub-title">•	Establishing Multiple Backup Links</span><span class="title-separator separator-border theme-color-bg"></span></div><!-- .title-wrap --><div class="section-description"><p style="text-align:justify;">by creating several backup pathways. We have ensured that even if a few face issues due to external factors, others are ready to take charge.</p></div><!-- .section-description --></div><!-- .section-title-wrapper -->				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-41562b9 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="41562b9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wide">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-666fb43" data-id="666fb43" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-aaa9431 elementor-widget elementor-widget-satenetsectiontitle" data-id="aaa9431" data-element_type="widget" data-widget_type="satenetsectiontitle.default">
+				<div class="elementor-widget-container">
+					<div class="section-title-wrapper text-left"><div class="title-wrap"><h6 class="section-title"></h6><span class="sub-title">•	Network Monitoring Systems</span><span class="title-separator separator-border theme-color-bg"></span></div><!-- .title-wrap --><div class="section-description"><p style="text-align:justify;">allow us to swiftly detect issues and address them in real-time.
+</p></div><!-- .section-description --></div><!-- .section-title-wrapper -->				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6263495" data-id="6263495" data-element_type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+		<div class="elementor-element elementor-element-9bad191 e-flex e-con-boxed e-con e-parent" data-id="9bad191" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-2d8a5e9 elementor-widget elementor-widget-satenetsectiontitle" data-id="2d8a5e9" data-element_type="widget" data-widget_type="satenetsectiontitle.default">
+				<div class="elementor-widget-container">
+					<div class="section-title-wrapper text-center"><div class="title-wrap"><h5 class="section-title"></h5></div><!-- .title-wrap --><div class="section-description"><p style="text-align:justify;">Redundancy is more than a term; it's a commitment from ISPs to their users, promising reliability in the face of adversities. In the digital age we are living in, the reliability of internet connectivity has transcended from being a mere convenience to an essential cornerstone of our daily lives. Whether it's business, education, or entertainment, the importance of redundancy in ISP services cannot be understated. Choose a provider that prioritizes such robust infrastructure is not just about uninterrupted browsing; it's about ensuring seamless experiences, bridging communication gaps, and fostering a world where digital interactions are as reliable as physical ones. 
+</p>
+<p style="text-align:justify;">As we continue to navigate this interconnected era, KEMNET remains committed to upholding the highest standards of service and resilience for its users.
+</p></div><!-- .section-description --></div><!-- .section-title-wrapper -->				</div>
+				</div>
+					</div>
+				</div>		</div><p>The post <a href="https://kemnet.co.ke/understanding-redundancy-the-backbone-of-reliable-internet/">Understanding Redundancy : The Backbone of Reliable Internet</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+]]>
+			</content:encoded>
+
+			<wfw:commentRss>https://kemnet.co.ke/understanding-redundancy-the-backbone-of-reliable-internet/feed/
+			</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+
+
+		</item>
+	</channel>
+</rss>
