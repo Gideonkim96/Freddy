@@ -9,19 +9,19 @@
 	</div>
 @endsection
 <link rel='stylesheet' id='brands-styles-css'
-	href='https://kemnet.co.ke/wp-content/plugins/woocommerce/assets/css/brands.css' type='text/css' media='all' />
+	href='wp-content/plugins/woocommerce/assets/css/brands.css' type='text/css' media='all' />
 <link rel='stylesheet' id='bootstrap-css'
-	href='https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/css/bootstrap.min.css' type='text/css'
+	href='wp-content/themes/satenet-wp/satenet/assets/css/bootstrap.min.css' type='text/css'
 	media='all' />
 <link rel='stylesheet' id='themify-icons-css'
-	href='https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/css/themify-icons.css' type='text/css'
+	href='wp-content/themes/satenet-wp/satenet/assets/css/themify-icons.css' type='text/css'
 	media='all' />
 <link rel='stylesheet' id='animate-css'
-	href='https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/css/animate.min.css' type='text/css'
+	href='wp-content/themes/satenet-wp/satenet/assets/css/animate.min.css' type='text/css'
 	media='all' />
 <link rel='stylesheet' id='elementor-frontend-css'
-	href='https://kemnet.co.ke/wp-content/plugins/elementor/assets/css/frontend.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='satenet-style-css' href='https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/style.css'
+	href='wp-content/plugins/elementor/assets/css/frontend.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='satenet-style-css' href='wp-content/themes/satenet-wp/satenet/style.css'
 	type='text/css' media='all' />
 <style id='satenet-style-inline-css' type='text/css'>
 	body {
@@ -458,7 +458,7 @@
 
 	.satenet-single-post .page-title-wrap-inner {
 		color: #ffffff;
-		background-image: url(https://kemnet.co.ke/wp-content/uploads/2019/11/page-title-bgn.jpg);
+		background-image: url(wp-content/uploads/2019/11/page-title-bgn.jpg);
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: cover;
@@ -484,7 +484,7 @@
 
 	.satenet-blog .page-title-wrap-inner {
 		color: #ffffff;
-		background-image: url(https://kemnet.co.ke/wp-content/uploads/2024/06/page-title-bgn.jpg);
+		background-image: url(wp-content/uploads/2024/06/page-title-bgn.jpg);
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: cover
@@ -508,7 +508,7 @@
 
 	.satenet-page .page-title-wrap-inner {
 		color: #ffffff;
-		background-image: url(https://kemnet.co.ke/wp-content/uploads/2019/11/page-title-bgn.jpg);
+		background-image: url(wp-content/uploads/2019/11/page-title-bgn.jpg);
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: cover;
@@ -565,7 +565,7 @@
 
 	.satenet-single-product .page-title-wrap-inner {
 		color: #ffffff;
-		background-image: url(https://kemnet.co.ke/wp-content/uploads/2019/11/page-title-bgn.jpg);
+		background-image: url(wp-content/uploads/2019/11/page-title-bgn.jpg);
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: cover;
@@ -649,7 +649,7 @@
 
 	.site-footer {
 		background-color: #004682;
-		background-image: url(https://kemnet.co.ke/wp-content/uploads/2020/01/pattern-1.jpg);
+		background-image: url(wp-content/uploads/2020/01/pattern-1.jpg);
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: cover
@@ -1320,7 +1320,7 @@
 	}
 
 	.testimonial-list .testimonial-list-item .testimonial-excerpt::before {
-		background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
+		background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
 	}
 
 	.events-date {
@@ -1661,7 +1661,7 @@
 	}
 
 	.ct-lt .feature-box-inner>*.feature-box-btn a::before {
-		background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
+		background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
 	}
 
 	[class^='imghvr-shutter-out-']:before,
@@ -1814,7 +1814,7 @@
 	}
 
 	select.wpcf7-form-control {
-		background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
+		background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
 	}
 
 	.content-carousel-wrapper .owl-nav>*:hover {
@@ -1932,7 +1932,7 @@
 	}
 
 	.woo-top-meta select {
-		background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
+		background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
 	}
 
 	.woocommerce ul.products li.product .loop-product-wrap .woo-thumb-wrap .product-icons-pack>a {
@@ -2155,7 +2155,7 @@
 	/*# sourceURL=satenet-style-inline-css */
 </style>
 <link rel='stylesheet' id='satenet-woo-style-css'
-	href='https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/css/woo-styles.css' type='text/css'
+	href='wp-content/themes/satenet-wp/satenet/assets/css/woo-styles.css' type='text/css'
 	media='all' />
 <script type="text/javascript" id="woocommerce-google-analytics-integration-gtag-js-after">
 	/* <![CDATA[ */
@@ -2174,26 +2174,26 @@
 </script>
 <script type="text/javascript" id="wpo_min-header-0-js-extra">
 	/* <![CDATA[ */
-	var _ckyConfig = { "_ipData": [], "_assetsURL": "https://kemnet.co.ke/wp-content/plugins/cookie-law-info/lite/frontend/images/", "_publicURL": "https://kemnet.co.ke", "_expiry": "365", "_categories": [{ "name": "Necessary", "slug": "necessary", "isNecessary": true, "ccpaDoNotSell": true, "cookies": [], "active": true, "defaultConsent": { "gdpr": true, "ccpa": true } }, { "name": "Functional", "slug": "functional", "isNecessary": false, "ccpaDoNotSell": true, "cookies": [], "active": true, "defaultConsent": { "gdpr": false, "ccpa": false } }, { "name": "Analytics", "slug": "analytics", "isNecessary": false, "ccpaDoNotSell": true, "cookies": [], "active": true, "defaultConsent": { "gdpr": false, "ccpa": false } }, { "name": "Performance", "slug": "performance", "isNecessary": false, "ccpaDoNotSell": true, "cookies": [], "active": true, "defaultConsent": { "gdpr": false, "ccpa": false } }, { "name": "Advertisement", "slug": "advertisement", "isNecessary": false, "ccpaDoNotSell": true, "cookies": [], "active": true, "defaultConsent": { "gdpr": false, "ccpa": false } }], "_activeLaw": "gdpr", "_rootDomain": "", "_block": "1", "_showBanner": "1", "_bannerConfig": { "settings": { "type": "box", "preferenceCenterType": "popup", "position": "bottom-left", "applicableLaw": "gdpr" }, "behaviours": { "reloadBannerOnAccept": false, "loadAnalyticsByDefault": false, "animations": { "onLoad": "animate", "onHide": "sticky" } }, "config": { "revisitConsent": { "status": true, "tag": "revisit-consent", "position": "bottom-left", "meta": { "url": "#" }, "styles": { "background-color": "#0056A7" }, "elements": { "title": { "type": "text", "tag": "revisit-consent-title", "status": true, "styles": { "color": "#0056a7" } } } }, "preferenceCenter": { "toggle": { "status": true, "tag": "detail-category-toggle", "type": "toggle", "states": { "active": { "styles": { "background-color": "#1863DC" } }, "inactive": { "styles": { "background-color": "#D0D5D2" } } } } }, "categoryPreview": { "status": false, "toggle": { "status": true, "tag": "detail-category-preview-toggle", "type": "toggle", "states": { "active": { "styles": { "background-color": "#1863DC" } }, "inactive": { "styles": { "background-color": "#D0D5D2" } } } } }, "videoPlaceholder": { "status": true, "styles": { "background-color": "#000000", "border-color": "#000000", "color": "#ffffff" } }, "readMore": { "status": false, "tag": "readmore-button", "type": "link", "meta": { "noFollow": true, "newTab": true }, "styles": { "color": "#1863DC", "background-color": "transparent", "border-color": "transparent" } }, "auditTable": { "status": true }, "optOption": { "status": true, "toggle": { "status": true, "tag": "optout-option-toggle", "type": "toggle", "states": { "active": { "styles": { "background-color": "#1863dc" } }, "inactive": { "styles": { "background-color": "#FFFFFF" } } } } } } }, "_version": "3.2.9", "_logConsent": "1", "_tags": [{ "tag": "accept-button", "styles": { "color": "#FFFFFF", "background-color": "#1863DC", "border-color": "#1863DC" } }, { "tag": "reject-button", "styles": { "color": "#1863DC", "background-color": "transparent", "border-color": "#1863DC" } }, { "tag": "settings-button", "styles": { "color": "#1863DC", "background-color": "transparent", "border-color": "#1863DC" } }, { "tag": "readmore-button", "styles": { "color": "#1863DC", "background-color": "transparent", "border-color": "transparent" } }, { "tag": "donotsell-button", "styles": { "color": "#1863DC", "background-color": "transparent", "border-color": "transparent" } }, { "tag": "accept-button", "styles": { "color": "#FFFFFF", "background-color": "#1863DC", "border-color": "#1863DC" } }, { "tag": "revisit-consent", "styles": { "background-color": "#0056A7" } }], "_shortCodes": [{ "key": "cky_readmore", "content": "\u003Ca href=\"#\" class=\"cky-policy\" aria-label=\"Cookie Policy\" target=\"_blank\" rel=\"noopener\" data-cky-tag=\"readmore-button\"\u003ECookie Policy\u003C/a\u003E", "tag": "readmore-button", "status": false, "attributes": { "rel": "nofollow", "target": "_blank" } }, { "key": "cky_show_desc", "content": "\u003Cbutton class=\"cky-show-desc-btn\" data-cky-tag=\"show-desc-button\" aria-label=\"Show more\"\u003EShow more\u003C/button\u003E", "tag": "show-desc-button", "status": true, "attributes": [] }, { "key": "cky_hide_desc", "content": "\u003Cbutton class=\"cky-show-desc-btn\" data-cky-tag=\"hide-desc-button\" aria-label=\"Show less\"\u003EShow less\u003C/button\u003E", "tag": "hide-desc-button", "status": true, "attributes": [] }, { "key": "cky_category_toggle_label", "content": "[cky_{{status}}_category_label] [cky_preference_{{category_slug}}_title]", "tag": "", "status": true, "attributes": [] }, { "key": "cky_enable_category_label", "content": "Enable", "tag": "", "status": true, "attributes": [] }, { "key": "cky_disable_category_label", "content": "Disable", "tag": "", "status": true, "attributes": [] }, { "key": "cky_video_placeholder", "content": "\u003Cdiv class=\"video-placeholder-normal\" data-cky-tag=\"video-placeholder\" id=\"[UNIQUEID]\"\u003E\u003Cp class=\"video-placeholder-text-normal\" data-cky-tag=\"placeholder-title\"\u003EPlease accept cookies to access this content\u003C/p\u003E\u003C/div\u003E", "tag": "", "status": true, "attributes": [] }, { "key": "cky_enable_optout_label", "content": "Enable", "tag": "", "status": true, "attributes": [] }, { "key": "cky_disable_optout_label", "content": "Disable", "tag": "", "status": true, "attributes": [] }, { "key": "cky_optout_toggle_label", "content": "[cky_{{status}}_optout_label] [cky_optout_option_title]", "tag": "", "status": true, "attributes": [] }, { "key": "cky_optout_option_title", "content": "Do Not Sell or Share My Personal Information", "tag": "", "status": true, "attributes": [] }, { "key": "cky_optout_close_label", "content": "Close", "tag": "", "status": true, "attributes": [] }], "_rtl": "", "_language": "en", "_providersToBlock": [] };
+	var _ckyConfig = { "_ipData": [], "_assetsURL": "wp-content/plugins/cookie-law-info/lite/frontend/images/", "_publicURL": "", "_expiry": "365", "_categories": [{ "name": "Necessary", "slug": "necessary", "isNecessary": true, "ccpaDoNotSell": true, "cookies": [], "active": true, "defaultConsent": { "gdpr": true, "ccpa": true } }, { "name": "Functional", "slug": "functional", "isNecessary": false, "ccpaDoNotSell": true, "cookies": [], "active": true, "defaultConsent": { "gdpr": false, "ccpa": false } }, { "name": "Analytics", "slug": "analytics", "isNecessary": false, "ccpaDoNotSell": true, "cookies": [], "active": true, "defaultConsent": { "gdpr": false, "ccpa": false } }, { "name": "Performance", "slug": "performance", "isNecessary": false, "ccpaDoNotSell": true, "cookies": [], "active": true, "defaultConsent": { "gdpr": false, "ccpa": false } }, { "name": "Advertisement", "slug": "advertisement", "isNecessary": false, "ccpaDoNotSell": true, "cookies": [], "active": true, "defaultConsent": { "gdpr": false, "ccpa": false } }], "_activeLaw": "gdpr", "_rootDomain": "", "_block": "1", "_showBanner": "1", "_bannerConfig": { "settings": { "type": "box", "preferenceCenterType": "popup", "position": "bottom-left", "applicableLaw": "gdpr" }, "behaviours": { "reloadBannerOnAccept": false, "loadAnalyticsByDefault": false, "animations": { "onLoad": "animate", "onHide": "sticky" } }, "config": { "revisitConsent": { "status": true, "tag": "revisit-consent", "position": "bottom-left", "meta": { "url": "#" }, "styles": { "background-color": "#0056A7" }, "elements": { "title": { "type": "text", "tag": "revisit-consent-title", "status": true, "styles": { "color": "#0056a7" } } } }, "preferenceCenter": { "toggle": { "status": true, "tag": "detail-category-toggle", "type": "toggle", "states": { "active": { "styles": { "background-color": "#1863DC" } }, "inactive": { "styles": { "background-color": "#D0D5D2" } } } } }, "categoryPreview": { "status": false, "toggle": { "status": true, "tag": "detail-category-preview-toggle", "type": "toggle", "states": { "active": { "styles": { "background-color": "#1863DC" } }, "inactive": { "styles": { "background-color": "#D0D5D2" } } } } }, "videoPlaceholder": { "status": true, "styles": { "background-color": "#000000", "border-color": "#000000", "color": "#ffffff" } }, "readMore": { "status": false, "tag": "readmore-button", "type": "link", "meta": { "noFollow": true, "newTab": true }, "styles": { "color": "#1863DC", "background-color": "transparent", "border-color": "transparent" } }, "auditTable": { "status": true }, "optOption": { "status": true, "toggle": { "status": true, "tag": "optout-option-toggle", "type": "toggle", "states": { "active": { "styles": { "background-color": "#1863dc" } }, "inactive": { "styles": { "background-color": "#FFFFFF" } } } } } } }, "_version": "3.2.9", "_logConsent": "1", "_tags": [{ "tag": "accept-button", "styles": { "color": "#FFFFFF", "background-color": "#1863DC", "border-color": "#1863DC" } }, { "tag": "reject-button", "styles": { "color": "#1863DC", "background-color": "transparent", "border-color": "#1863DC" } }, { "tag": "settings-button", "styles": { "color": "#1863DC", "background-color": "transparent", "border-color": "#1863DC" } }, { "tag": "readmore-button", "styles": { "color": "#1863DC", "background-color": "transparent", "border-color": "transparent" } }, { "tag": "donotsell-button", "styles": { "color": "#1863DC", "background-color": "transparent", "border-color": "transparent" } }, { "tag": "accept-button", "styles": { "color": "#FFFFFF", "background-color": "#1863DC", "border-color": "#1863DC" } }, { "tag": "revisit-consent", "styles": { "background-color": "#0056A7" } }], "_shortCodes": [{ "key": "cky_readmore", "content": "\u003Ca href=\"#\" class=\"cky-policy\" aria-label=\"Cookie Policy\" target=\"_blank\" rel=\"noopener\" data-cky-tag=\"readmore-button\"\u003ECookie Policy\u003C/a\u003E", "tag": "readmore-button", "status": false, "attributes": { "rel": "nofollow", "target": "_blank" } }, { "key": "cky_show_desc", "content": "\u003Cbutton class=\"cky-show-desc-btn\" data-cky-tag=\"show-desc-button\" aria-label=\"Show more\"\u003EShow more\u003C/button\u003E", "tag": "show-desc-button", "status": true, "attributes": [] }, { "key": "cky_hide_desc", "content": "\u003Cbutton class=\"cky-show-desc-btn\" data-cky-tag=\"hide-desc-button\" aria-label=\"Show less\"\u003EShow less\u003C/button\u003E", "tag": "hide-desc-button", "status": true, "attributes": [] }, { "key": "cky_category_toggle_label", "content": "[cky_{{status}}_category_label] [cky_preference_{{category_slug}}_title]", "tag": "", "status": true, "attributes": [] }, { "key": "cky_enable_category_label", "content": "Enable", "tag": "", "status": true, "attributes": [] }, { "key": "cky_disable_category_label", "content": "Disable", "tag": "", "status": true, "attributes": [] }, { "key": "cky_video_placeholder", "content": "\u003Cdiv class=\"video-placeholder-normal\" data-cky-tag=\"video-placeholder\" id=\"[UNIQUEID]\"\u003E\u003Cp class=\"video-placeholder-text-normal\" data-cky-tag=\"placeholder-title\"\u003EPlease accept cookies to access this content\u003C/p\u003E\u003C/div\u003E", "tag": "", "status": true, "attributes": [] }, { "key": "cky_enable_optout_label", "content": "Enable", "tag": "", "status": true, "attributes": [] }, { "key": "cky_disable_optout_label", "content": "Disable", "tag": "", "status": true, "attributes": [] }, { "key": "cky_optout_toggle_label", "content": "[cky_{{status}}_optout_label] [cky_optout_option_title]", "tag": "", "status": true, "attributes": [] }, { "key": "cky_optout_option_title", "content": "Do Not Sell or Share My Personal Information", "tag": "", "status": true, "attributes": [] }, { "key": "cky_optout_close_label", "content": "Close", "tag": "", "status": true, "attributes": [] }], "_rtl": "", "_language": "en", "_providersToBlock": [] };
 	var _ckyStyles = { "css": ".cky-overlay{background: #000000; opacity: 0.4; position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 99999999;}.cky-hide{display: none;}.cky-btn-revisit-wrapper{display: flex; align-items: center; justify-content: center; background: #0056a7; width: 45px; height: 45px; border-radius: 50%; position: fixed; z-index: 999999; cursor: pointer;}.cky-revisit-bottom-left{bottom: 15px; left: 15px;}.cky-revisit-bottom-right{bottom: 15px; right: 15px;}.cky-btn-revisit-wrapper .cky-btn-revisit{display: flex; align-items: center; justify-content: center; background: none; border: none; cursor: pointer; position: relative; margin: 0; padding: 0;}.cky-btn-revisit-wrapper .cky-btn-revisit img{max-width: fit-content; margin: 0; height: 30px; width: 30px;}.cky-revisit-bottom-left:hover::before{content: attr(data-tooltip); position: absolute; background: #4e4b66; color: #ffffff; left: calc(100% + 7px); font-size: 12px; line-height: 16px; width: max-content; padding: 4px 8px; border-radius: 4px;}.cky-revisit-bottom-left:hover::after{position: absolute; content: \"\"; border: 5px solid transparent; left: calc(100% + 2px); border-left-width: 0; border-right-color: #4e4b66;}.cky-revisit-bottom-right:hover::before{content: attr(data-tooltip); position: absolute; background: #4e4b66; color: #ffffff; right: calc(100% + 7px); font-size: 12px; line-height: 16px; width: max-content; padding: 4px 8px; border-radius: 4px;}.cky-revisit-bottom-right:hover::after{position: absolute; content: \"\"; border: 5px solid transparent; right: calc(100% + 2px); border-right-width: 0; border-left-color: #4e4b66;}.cky-revisit-hide{display: none;}.cky-consent-container{position: fixed; width: 440px; box-sizing: border-box; z-index: 9999999; border-radius: 6px;}.cky-consent-container .cky-consent-bar{background: #ffffff; border: 1px solid; padding: 20px 26px; box-shadow: 0 -1px 10px 0 #acabab4d; border-radius: 6px;}.cky-box-bottom-left{bottom: 40px; left: 40px;}.cky-box-bottom-right{bottom: 40px; right: 40px;}.cky-box-top-left{top: 40px; left: 40px;}.cky-box-top-right{top: 40px; right: 40px;}.cky-custom-brand-logo-wrapper .cky-custom-brand-logo{width: 100px; height: auto; margin: 0 0 12px 0;}.cky-notice .cky-title{color: #212121; font-weight: 700; font-size: 18px; line-height: 24px; margin: 0 0 12px 0;}.cky-notice-des *,.cky-preference-content-wrapper *,.cky-accordion-header-des *,.cky-gpc-wrapper .cky-gpc-desc *{font-size: 14px;}.cky-notice-des{color: #212121; font-size: 14px; line-height: 24px; font-weight: 400;}.cky-notice-des img{height: 25px; width: 25px;}.cky-consent-bar .cky-notice-des p,.cky-gpc-wrapper .cky-gpc-desc p,.cky-preference-body-wrapper .cky-preference-content-wrapper p,.cky-accordion-header-wrapper .cky-accordion-header-des p,.cky-cookie-des-table li div:last-child p{color: inherit; margin-top: 0; overflow-wrap: break-word;}.cky-notice-des P:last-child,.cky-preference-content-wrapper p:last-child,.cky-cookie-des-table li div:last-child p:last-child,.cky-gpc-wrapper .cky-gpc-desc p:last-child{margin-bottom: 0;}.cky-notice-des a.cky-policy,.cky-notice-des button.cky-policy{font-size: 14px; color: #1863dc; white-space: nowrap; cursor: pointer; background: transparent; border: 1px solid; text-decoration: underline;}.cky-notice-des button.cky-policy{padding: 0;}.cky-notice-des a.cky-policy:focus-visible,.cky-notice-des button.cky-policy:focus-visible,.cky-preference-content-wrapper .cky-show-desc-btn:focus-visible,.cky-accordion-header .cky-accordion-btn:focus-visible,.cky-preference-header .cky-btn-close:focus-visible,.cky-switch input[type=\"checkbox\"]:focus-visible,.cky-footer-wrapper a:focus-visible,.cky-btn:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}.cky-btn:focus:not(:focus-visible),.cky-accordion-header .cky-accordion-btn:focus:not(:focus-visible),.cky-preference-content-wrapper .cky-show-desc-btn:focus:not(:focus-visible),.cky-btn-revisit-wrapper .cky-btn-revisit:focus:not(:focus-visible),.cky-preference-header .cky-btn-close:focus:not(:focus-visible),.cky-consent-bar .cky-banner-btn-close:focus:not(:focus-visible){outline: 0;}button.cky-show-desc-btn:not(:hover):not(:active){color: #1863dc; background: transparent;}button.cky-accordion-btn:not(:hover):not(:active),button.cky-banner-btn-close:not(:hover):not(:active),button.cky-btn-revisit:not(:hover):not(:active),button.cky-btn-close:not(:hover):not(:active){background: transparent;}.cky-consent-bar button:hover,.cky-modal.cky-modal-open button:hover,.cky-consent-bar button:focus,.cky-modal.cky-modal-open button:focus{text-decoration: none;}.cky-notice-btn-wrapper{display: flex; justify-content: flex-start; align-items: center; flex-wrap: wrap; margin-top: 16px;}.cky-notice-btn-wrapper .cky-btn{text-shadow: none; box-shadow: none;}.cky-btn{flex: auto; max-width: 100%; font-size: 14px; font-family: inherit; line-height: 24px; padding: 8px; font-weight: 500; margin: 0 8px 0 0; border-radius: 2px; cursor: pointer; text-align: center; text-transform: none; min-height: 0;}.cky-btn:hover{opacity: 0.8;}.cky-btn-customize{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-btn-reject{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-btn-accept{background: #1863dc; color: #ffffff; border: 2px solid #1863dc;}.cky-btn:last-child{margin-right: 0;}@media (max-width: 576px){.cky-box-bottom-left{bottom: 0; left: 0;}.cky-box-bottom-right{bottom: 0; right: 0;}.cky-box-top-left{top: 0; left: 0;}.cky-box-top-right{top: 0; right: 0;}}@media (max-width: 440px){.cky-box-bottom-left, .cky-box-bottom-right, .cky-box-top-left, .cky-box-top-right{width: 100%; max-width: 100%;}.cky-consent-container .cky-consent-bar{padding: 20px 0;}.cky-custom-brand-logo-wrapper, .cky-notice .cky-title, .cky-notice-des, .cky-notice-btn-wrapper{padding: 0 24px;}.cky-notice-des{max-height: 40vh; overflow-y: scroll;}.cky-notice-btn-wrapper{flex-direction: column; margin-top: 0;}.cky-btn{width: 100%; margin: 10px 0 0 0;}.cky-notice-btn-wrapper .cky-btn-customize{order: 2;}.cky-notice-btn-wrapper .cky-btn-reject{order: 3;}.cky-notice-btn-wrapper .cky-btn-accept{order: 1; margin-top: 16px;}}@media (max-width: 352px){.cky-notice .cky-title{font-size: 16px;}.cky-notice-des *{font-size: 12px;}.cky-notice-des, .cky-btn{font-size: 12px;}}.cky-modal.cky-modal-open{display: flex; visibility: visible; -webkit-transform: translate(-50%, -50%); -moz-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); -o-transform: translate(-50%, -50%); transform: translate(-50%, -50%); top: 50%; left: 50%; transition: all 1s ease;}.cky-modal{box-shadow: 0 32px 68px rgba(0, 0, 0, 0.3); margin: 0 auto; position: fixed; max-width: 100%; background: #ffffff; top: 50%; box-sizing: border-box; border-radius: 6px; z-index: 999999999; color: #212121; -webkit-transform: translate(-50%, 100%); -moz-transform: translate(-50%, 100%); -ms-transform: translate(-50%, 100%); -o-transform: translate(-50%, 100%); transform: translate(-50%, 100%); visibility: hidden; transition: all 0s ease;}.cky-preference-center{max-height: 79vh; overflow: hidden; width: 845px; overflow: hidden; flex: 1 1 0; display: flex; flex-direction: column; border-radius: 6px;}.cky-preference-header{display: flex; align-items: center; justify-content: space-between; padding: 22px 24px; border-bottom: 1px solid;}.cky-preference-header .cky-preference-title{font-size: 18px; font-weight: 700; line-height: 24px;}.cky-preference-header .cky-btn-close{margin: 0; cursor: pointer; vertical-align: middle; padding: 0; background: none; border: none; width: auto; height: auto; min-height: 0; line-height: 0; text-shadow: none; box-shadow: none;}.cky-preference-header .cky-btn-close img{margin: 0; height: 10px; width: 10px;}.cky-preference-body-wrapper{padding: 0 24px; flex: 1; overflow: auto; box-sizing: border-box;}.cky-preference-content-wrapper,.cky-gpc-wrapper .cky-gpc-desc{font-size: 14px; line-height: 24px; font-weight: 400; padding: 12px 0;}.cky-preference-content-wrapper{border-bottom: 1px solid;}.cky-preference-content-wrapper img{height: 25px; width: 25px;}.cky-preference-content-wrapper .cky-show-desc-btn{font-size: 14px; font-family: inherit; color: #1863dc; text-decoration: none; line-height: 24px; padding: 0; margin: 0; white-space: nowrap; cursor: pointer; background: transparent; border-color: transparent; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.cky-accordion-wrapper{margin-bottom: 10px;}.cky-accordion{border-bottom: 1px solid;}.cky-accordion:last-child{border-bottom: none;}.cky-accordion .cky-accordion-item{display: flex; margin-top: 10px;}.cky-accordion .cky-accordion-body{display: none;}.cky-accordion.cky-accordion-active .cky-accordion-body{display: block; padding: 0 22px; margin-bottom: 16px;}.cky-accordion-header-wrapper{cursor: pointer; width: 100%;}.cky-accordion-item .cky-accordion-header{display: flex; justify-content: space-between; align-items: center;}.cky-accordion-header .cky-accordion-btn{font-size: 16px; font-family: inherit; color: #212121; line-height: 24px; background: none; border: none; font-weight: 700; padding: 0; margin: 0; cursor: pointer; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.cky-accordion-header .cky-always-active{color: #008000; font-weight: 600; line-height: 24px; font-size: 14px;}.cky-accordion-header-des{font-size: 14px; line-height: 24px; margin: 10px 0 16px 0;}.cky-accordion-chevron{margin-right: 22px; position: relative; cursor: pointer;}.cky-accordion-chevron-hide{display: none;}.cky-accordion .cky-accordion-chevron i::before{content: \"\"; position: absolute; border-right: 1.4px solid; border-bottom: 1.4px solid; border-color: inherit; height: 6px; width: 6px; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -ms-transform: rotate(-45deg); -o-transform: rotate(-45deg); transform: rotate(-45deg); transition: all 0.2s ease-in-out; top: 8px;}.cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg);}.cky-audit-table{background: #f4f4f4; border-radius: 6px;}.cky-audit-table .cky-empty-cookies-text{color: inherit; font-size: 12px; line-height: 24px; margin: 0; padding: 10px;}.cky-audit-table .cky-cookie-des-table{font-size: 12px; line-height: 24px; font-weight: normal; padding: 15px 10px; border-bottom: 1px solid; border-bottom-color: inherit; margin: 0;}.cky-audit-table .cky-cookie-des-table:last-child{border-bottom: none;}.cky-audit-table .cky-cookie-des-table li{list-style-type: none; display: flex; padding: 3px 0;}.cky-audit-table .cky-cookie-des-table li:first-child{padding-top: 0;}.cky-cookie-des-table li div:first-child{width: 100px; font-weight: 600; word-break: break-word; word-wrap: break-word;}.cky-cookie-des-table li div:last-child{flex: 1; word-break: break-word; word-wrap: break-word; margin-left: 8px;}.cky-footer-shadow{display: block; width: 100%; height: 40px; background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #ffffff 100%); position: absolute; bottom: calc(100% - 1px);}.cky-footer-wrapper{position: relative;}.cky-prefrence-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px; border-top: 1px solid;}.cky-prefrence-btn-wrapper .cky-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.cky-btn-preferences{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-preference-header,.cky-preference-body-wrapper,.cky-preference-content-wrapper,.cky-accordion-wrapper,.cky-accordion,.cky-accordion-wrapper,.cky-footer-wrapper,.cky-prefrence-btn-wrapper{border-color: inherit;}@media (max-width: 845px){.cky-modal{max-width: calc(100% - 16px);}}@media (max-width: 576px){.cky-modal{max-width: 100%;}.cky-preference-center{max-height: 100vh;}.cky-prefrence-btn-wrapper{flex-direction: column;}.cky-accordion.cky-accordion-active .cky-accordion-body{padding-right: 0;}.cky-prefrence-btn-wrapper .cky-btn{width: 100%; margin: 10px 0 0 0;}.cky-prefrence-btn-wrapper .cky-btn-reject{order: 3;}.cky-prefrence-btn-wrapper .cky-btn-accept{order: 1; margin-top: 0;}.cky-prefrence-btn-wrapper .cky-btn-preferences{order: 2;}}@media (max-width: 425px){.cky-accordion-chevron{margin-right: 15px;}.cky-notice-btn-wrapper{margin-top: 0;}.cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 15px;}}@media (max-width: 352px){.cky-preference-header .cky-preference-title{font-size: 16px;}.cky-preference-header{padding: 16px 24px;}.cky-preference-content-wrapper *, .cky-accordion-header-des *{font-size: 12px;}.cky-preference-content-wrapper, .cky-preference-content-wrapper .cky-show-more, .cky-accordion-header .cky-always-active, .cky-accordion-header-des, .cky-preference-content-wrapper .cky-show-desc-btn, .cky-notice-des a.cky-policy{font-size: 12px;}.cky-accordion-header .cky-accordion-btn{font-size: 14px;}}.cky-switch{display: flex;}.cky-switch input[type=\"checkbox\"]{position: relative; width: 44px; height: 24px; margin: 0; background: #d0d5d2; -webkit-appearance: none; border-radius: 50px; cursor: pointer; outline: 0; border: none; top: 0;}.cky-switch input[type=\"checkbox\"]:checked{background: #1863dc;}.cky-switch input[type=\"checkbox\"]:before{position: absolute; content: \"\"; height: 20px; width: 20px; left: 2px; bottom: 2px; border-radius: 50%; background-color: white; -webkit-transition: 0.4s; transition: 0.4s; margin: 0;}.cky-switch input[type=\"checkbox\"]:after{display: none;}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(20px); -ms-transform: translateX(20px); transform: translateX(20px);}@media (max-width: 425px){.cky-switch input[type=\"checkbox\"]{width: 38px; height: 21px;}.cky-switch input[type=\"checkbox\"]:before{height: 17px; width: 17px;}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(17px); -ms-transform: translateX(17px); transform: translateX(17px);}}.cky-consent-bar .cky-banner-btn-close{position: absolute; right: 9px; top: 5px; background: none; border: none; cursor: pointer; padding: 0; margin: 0; min-height: 0; line-height: 0; height: auto; width: auto; text-shadow: none; box-shadow: none;}.cky-consent-bar .cky-banner-btn-close img{height: 9px; width: 9px; margin: 0;}.cky-notice-group{font-size: 14px; line-height: 24px; font-weight: 400; color: #212121;}.cky-notice-btn-wrapper .cky-btn-do-not-sell{font-size: 14px; line-height: 24px; padding: 6px 0; margin: 0; font-weight: 500; background: none; border-radius: 2px; border: none; cursor: pointer; text-align: left; color: #1863dc; background: transparent; border-color: transparent; box-shadow: none; text-shadow: none;}.cky-consent-bar .cky-banner-btn-close:focus-visible,.cky-notice-btn-wrapper .cky-btn-do-not-sell:focus-visible,.cky-opt-out-btn-wrapper .cky-btn:focus-visible,.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}@media (max-width: 440px){.cky-consent-container{width: 100%;}}@media (max-width: 352px){.cky-notice-des a.cky-policy, .cky-notice-btn-wrapper .cky-btn-do-not-sell{font-size: 12px;}}.cky-opt-out-wrapper{padding: 12px 0;}.cky-opt-out-wrapper .cky-opt-out-checkbox-wrapper{display: flex; align-items: center;}.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size: 16px; font-weight: 700; line-height: 24px; margin: 0 0 0 12px; cursor: pointer;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox{background-color: #ffffff; border: 1px solid black; width: 20px; height: 18.5px; margin: 0; -webkit-appearance: none; position: relative; display: flex; align-items: center; justify-content: center; border-radius: 2px; cursor: pointer;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked{background-color: #1863dc; border: none;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked::after{left: 6px; bottom: 4px; width: 7px; height: 13px; border: solid #ffffff; border-width: 0 3px 3px 0; border-radius: 2px; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); content: \"\"; position: absolute; box-sizing: border-box;}.cky-opt-out-checkbox-wrapper.cky-disabled .cky-opt-out-checkbox-label,.cky-opt-out-checkbox-wrapper.cky-disabled input[type=\"checkbox\"].cky-opt-out-checkbox{cursor: no-drop;}.cky-gpc-wrapper{margin: 0 0 0 32px;}.cky-footer-wrapper .cky-opt-out-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px;}.cky-opt-out-btn-wrapper .cky-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.cky-opt-out-btn-wrapper .cky-btn-cancel{border: 1px solid #dedfe0; background: transparent; color: #858585;}.cky-opt-out-btn-wrapper .cky-btn-confirm{background: #1863dc; color: #ffffff; border: 1px solid #1863dc;}@media (max-width: 352px){.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size: 14px;}.cky-gpc-wrapper .cky-gpc-desc, .cky-gpc-wrapper .cky-gpc-desc *{font-size: 12px;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox{width: 16px; height: 16px;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked::after{left: 5px; bottom: 4px; width: 3px; height: 9px;}.cky-gpc-wrapper{margin: 0 0 0 28px;}}.video-placeholder-youtube{background-size: 100% 100%; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: center; justify-content: center; max-width: 100%;}.video-placeholder-text-youtube{text-align: center; align-items: center; padding: 10px 16px; background-color: #000000cc; color: #ffffff; border: 1px solid; border-radius: 2px; cursor: pointer;}.video-placeholder-normal{background-image: url(\"/wp-content/plugins/cookie-law-info/lite/frontend/images/placeholder.svg\"); background-size: 80px; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: flex-end; justify-content: center; max-width: 100%;}.video-placeholder-text-normal{align-items: center; padding: 10px 16px; text-align: center; border: 1px solid; border-radius: 2px; cursor: pointer;}.cky-rtl{direction: rtl; text-align: right;}.cky-rtl .cky-banner-btn-close{left: 9px; right: auto;}.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right: 8px;}.cky-rtl .cky-notice-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-notice-btn-wrapper{margin-left: 0; margin-right: 15px;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right: 8px;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-accordion .cky-accordion-chevron i::before{border: none; border-left: 1.4px solid; border-top: 1.4px solid; left: 12px;}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform: rotate(-135deg); -moz-transform: rotate(-135deg); -ms-transform: rotate(-135deg); -o-transform: rotate(-135deg); transform: rotate(-135deg);}@media (max-width: 768px){.cky-rtl .cky-notice-btn-wrapper{margin-right: 0;}}@media (max-width: 576px){.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right: 0;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right: 0;}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 22px 0 0;}}@media (max-width: 425px){.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 15px 0 0;}}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn{margin-right: 12px;}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{margin: 0 12px 0 0;}" };
 	//# sourceURL=wpo_min-header-0-js-extra
 	/* ]]> */
 </script>
 <script type="text/javascript"
-	src="https://kemnet.co.ke/wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-header-80dc161c.min.js"
+	src="wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-header-80dc161c.min.js"
 	id="wpo_min-header-0-js"></script>
 <script type="text/javascript" id="wpo_min-header-2-js-extra">
 	/* <![CDATA[ */
-	var wc_add_to_cart_params = { "ajax_url": "/wp-admin/admin-ajax.php", "wc_ajax_url": "/?wc-ajax=%%endpoint%%", "i18n_view_cart": "View cart", "cart_url": "https://kemnet.co.ke/cart/", "is_cart": "", "cart_redirect_after_add": "no" };
+	var wc_add_to_cart_params = { "ajax_url": "/wp-admin/admin-ajax.php", "wc_ajax_url": "/?wc-ajax=%%endpoint%%", "i18n_view_cart": "View cart", "cart_url": "/cart/", "is_cart": "", "cart_redirect_after_add": "no" };
 	var woocommerce_params = { "ajax_url": "/wp-admin/admin-ajax.php", "wc_ajax_url": "/?wc-ajax=%%endpoint%%", "i18n_password_show": "Show password", "i18n_password_hide": "Hide password" };
 	//# sourceURL=wpo_min-header-2-js-extra
 	/* ]]> */
 </script>
 <script type="text/javascript"
-	src="https://kemnet.co.ke/wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-header-b4c93216.min.js"
+	src="wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-header-b4c93216.min.js"
 	id="wpo_min-header-2-js" defer="defer" data-wp-strategy="defer"></script>
-<link rel="https://api.w.org/" href="https://kemnet.co.ke/wp-json/" />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://kemnet.co.ke/xmlrpc.php?rsd" />
+<link rel="https://api.w.org/" href="/wp-json/" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 6.9" />
 <meta name="generator" content="WooCommerce 9.8.6" />
 <style id="cky-style-inline">
@@ -2202,7 +2202,7 @@
 	}
 </style><!-- start Simple Custom CSS and JS -->
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-QEBBJX2D8D">
+<script async src="/gtag/js?id=G-QEBBJX2D8D">
 </script>
 <script>
 	window.dataLayer = window.dataLayer || [];
@@ -2265,14 +2265,14 @@
 </style>
 <meta name="generator"
 	content="Powered by Slider Revolution 6.6.15 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-<link rel="icon" href="https://kemnet.co.ke/wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD-32x32.png"
+<link rel="icon" href="wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD-32x32.png"
 	sizes="32x32" />
-<link rel="icon" href="https://kemnet.co.ke/wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD-192x192.png"
+<link rel="icon" href="wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD-192x192.png"
 	sizes="192x192" />
 <link rel="apple-touch-icon"
-	href="https://kemnet.co.ke/wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD-180x180.png" />
+	href="wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD-180x180.png" />
 <meta name="msapplication-TileImage"
-	content="https://kemnet.co.ke/wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD-270x270.png" />
+	content="wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD-270x270.png" />
 <script>function setREVStartSize(e) {
 		//window.requestAnimationFrame(function() {
 		window.RSIW = window.RSIW === undefined ? window.innerWidth : window.RSIW;
@@ -2338,7 +2338,7 @@
 	}
 </style>
 <link rel='stylesheet' id='wc-blocks-style-css'
-	href='https://kemnet.co.ke/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css' type='text/css'
+	href='wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css' type='text/css'
 	media='all' />
 <style id='global-styles-inline-css' type='text/css'>
 	:root {
@@ -2649,7 +2649,7 @@
 	/*# sourceURL=global-styles-inline-css */
 </style>
 <link rel='stylesheet' id='rs-plugin-settings-css'
-	href='https://kemnet.co.ke/wp-content/plugins/revslider/public/assets/css/rs6.css' type='text/css' media='all' />
+	href='wp-content/plugins/revslider/public/assets/css/rs6.css' type='text/css' media='all' />
 <style id='rs-plugin-settings-inline-css' type='text/css'>
 	#rs-demo-id {}
 
@@ -2674,9 +2674,9 @@
 						<ul class="mobile-header-items nav pull-center">
 							<li class="nav-item">
 								<div class="nav-item-inner">
-									<div class="mobile-logo"><a href="https://kemnet.co.ke/"
+									<div class="mobile-logo"><a href="/"
 											title="Kemnet Technologies Limited"><img class="img-responsive"
-												src="https://kemnet.co.ke/wp-content/uploads/2023/08/KEMNET-LOGO-TECHNOLOGIES.png"
+												src="wp-content/uploads/2023/08/KEMNET-LOGO-TECHNOLOGIES.png"
 												alt="Kemnet Technologies Limited"
 												title="Kemnet Technologies Limited" /></a></div>
 								</div>
@@ -2701,9 +2701,9 @@
 				<ul class="mobile-bar-items nav flex-column mobile-bar-top">
 					<li class="nav-item">
 						<div class="nav-item-inner">
-							<div class="mobile-logo"><a href="https://kemnet.co.ke/"
+							<div class="mobile-logo"><a href="/"
 									title="Kemnet Technologies Limited"><img class="img-responsive"
-										src="https://kemnet.co.ke/wp-content/uploads/2023/08/KEMNET-LOGO-TECHNOLOGIES.png"
+										src="wp-content/uploads/2023/08/KEMNET-LOGO-TECHNOLOGIES.png"
 										alt="Kemnet Technologies Limited" title="Kemnet Technologies Limited" /></a>
 							</div>
 						</div>
@@ -2720,7 +2720,7 @@
 					<li class="nav-item">
 						<div class="nav-item-inner">
 
-							<form method="get" class="search-form" action="https://kemnet.co.ke/">
+							<form method="get" class="search-form" action="/">
 								<div class="input-group">
 									<input type="text" class="form-control" name="s" value=""
 										placeholder="Search for...">
@@ -2785,15 +2785,15 @@
 								<div class="nav-item-inner">
 
 									<div class="main-logo">
-										<a href="https://kemnet.co.ke/" title="Kemnet Technologies Limited"><img
+										<a href="/" title="Kemnet Technologies Limited"><img
 												class="custom-logo img-responsive"
-												src="https://kemnet.co.ke/wp-content/uploads/2023/08/KEMNET-LOGO-TECHNOLOGIES.png"
+												src="wp-content/uploads/2023/08/KEMNET-LOGO-TECHNOLOGIES.png"
 												alt="Kemnet Technologies Limited"
 												title="Kemnet Technologies Limited" /></a>
 									</div>
-									<div class="sticky-logo"><a href="https://kemnet.co.ke/"
+									<div class="sticky-logo"><a href="/"
 											title="Kemnet Technologies Limited"><img class="img-responsive"
-												src="https://kemnet.co.ke/wp-content/uploads/2023/08/KEMNET-LOGO-TECHNOLOGIES.png"
+												src="wp-content/uploads/2023/08/KEMNET-LOGO-TECHNOLOGIES.png"
 												alt="Kemnet Technologies Limited"
 												title="Kemnet Technologies Limited" /></a></div>
 								</div>
@@ -2845,107 +2845,107 @@
 									<ul id="satenet-main-menu" class="nav satenet-main-menu">
 										<li id="menu-item-11692"
 											class="cus-img-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-home nav-item menu-item-11692">
-											<a href="https://kemnet.co.ke/" class="nav-link">Home</a></li>
+											<a href="/" class="nav-link">Home</a></li>
 										<li id="menu-item-11693"
 											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav-item menu-item-11693 dropdown">
-											<a href="https://kemnet.co.ke/about-us/"
+											<a href="/about-us/"
 												class="nav-link dropdown-toggle">About Us</a>
 											<ul role="menu" class=" dropdown-menu">
 												<li id="menu-item-14535"
 													class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-14535">
-													<a href="https://kemnet.co.ke/vision-and-mission/"
+													<a href="/vision-and-mission/"
 														class="nav-link">Vision and Mission</a></li>
 												<li id="menu-item-11703"
 													class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-11703">
-													<a href="https://kemnet.co.ke/partners-memberships/"
+													<a href="/partners-memberships/"
 														class="nav-link">Partners &#038; Memberships</a></li>
 												<li id="menu-item-11696"
 													class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-11696">
-													<a href="https://kemnet.co.ke/careers/" class="nav-link">Careers</a>
+													<a href="/careers/" class="nav-link">Careers</a>
 												</li>
 
 											</ul>
 										</li>
 										<li id="menu-item-14602"
 											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav-item menu-item-14602 dropdown">
-											<a href="https://kemnet.co.ke/services/"
+											<a href="/services/"
 												class="nav-link dropdown-toggle">Our Services</a>
 											<ul role="menu" class=" dropdown-menu">
 												<li id="menu-item-15075"
 													class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav-item menu-item-15075 dropdown">
-													<a href="https://kemnet.co.ke/services/infrastructure-networking/"
+													<a href="/services/infrastructure-networking/"
 														class="nav-link">Infrastructure &amp; Networking</a>
 													<ul role="menu" class=" dropdown-menu">
 														<li id="menu-item-14896"
 															class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-14896">
-															<a href="https://kemnet.co.ke/services/infrastructure-networking/dark-fiber/"
+															<a href="/services/infrastructure-networking/dark-fiber/"
 																class="nav-link">Dark Fiber</a></li>
 														<li id="menu-item-15906"
 															class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-15906">
-															<a href="https://kemnet.co.ke/services/fiber-optic-cabling/"
+															<a href="/services/fiber-optic-cabling/"
 																class="nav-link">Fiber Optic Cabling</a></li>
 
 													</ul>
 												</li>
 												<li id="menu-item-15037"
 													class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav-item menu-item-15037 dropdown">
-													<a href="https://kemnet.co.ke/services/software-hardware/"
+													<a href="/services/software-hardware/"
 														class="nav-link">Software &#038; Hardware</a>
 													<ul role="menu" class=" dropdown-menu">
 														<li id="menu-item-14788"
 															class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-14788">
-															<a href="https://kemnet.co.ke/services/software-hardware/custom-software-solutions/"
+															<a href="/services/software-hardware/custom-software-solutions/"
 																class="nav-link">Custom Software Solutions</a></li>
 														<li id="menu-item-15036"
 															class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-15036">
-															<a href="https://kemnet.co.ke/services/software-hardware/hardware-solutions/"
+															<a href="/services/software-hardware/hardware-solutions/"
 																class="nav-link">Hardware Solutions</a></li>
 
 													</ul>
 												</li>
 												<li id="menu-item-14974"
 													class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav-item menu-item-14974 dropdown">
-													<a href="https://kemnet.co.ke/services/web-cloud-solutions/"
+													<a href="/services/web-cloud-solutions/"
 														class="nav-link">Web &amp; Cloud Solutions</a>
 													<ul role="menu" class=" dropdown-menu">
 														<li id="menu-item-14794"
 															class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-14794">
-															<a href="https://kemnet.co.ke/services/web-cloud-solutions/domains-web-hosting/"
+															<a href="/services/web-cloud-solutions/domains-web-hosting/"
 																class="nav-link">Domains &#038; Web Hosting</a></li>
 														<li id="menu-item-14889"
 															class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-14889">
-															<a href="https://kemnet.co.ke/services/web-cloud-solutions/cloud-hosting-solutions/"
+															<a href="/services/web-cloud-solutions/cloud-hosting-solutions/"
 																class="nav-link">Cloud Hosting Solutions</a></li>
 														<li id="menu-item-14995"
 															class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-14995">
-															<a href="https://kemnet.co.ke/services/web-cloud-solutions/google-integrated-solutions/"
+															<a href="/services/web-cloud-solutions/google-integrated-solutions/"
 																class="nav-link">Google Integrated Solutions</a></li>
 
 													</ul>
 												</li>
 												<li id="menu-item-15065"
 													class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav-item menu-item-15065 dropdown">
-													<a href="https://kemnet.co.ke/services/smart-home-security-solutions/"
+													<a href="/services/smart-home-security-solutions/"
 														class="nav-link">Smart Home &#038; Security Solutions</a>
 													<ul role="menu" class=" dropdown-menu">
 														<li id="menu-item-15066"
 															class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-15066">
-															<a href="https://kemnet.co.ke/services/smart-home-security-solutions/cctv-installation/"
+															<a href="/services/smart-home-security-solutions/cctv-installation/"
 																class="nav-link">CCTV Installation</a></li>
 														<li id="menu-item-15094"
 															class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-15094">
-															<a href="https://kemnet.co.ke/services/smart-home-security-solutions/access-control/"
+															<a href="/services/smart-home-security-solutions/access-control/"
 																class="nav-link">Access Control</a></li>
 														<li id="menu-item-15119"
 															class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-15119">
-															<a href="https://kemnet.co.ke/services/smart-home-security-solutions/home-automation/"
+															<a href="/services/smart-home-security-solutions/home-automation/"
 																class="nav-link">Home Automation</a></li>
 
 													</ul>
 												</li>
 												<li id="menu-item-15318"
 													class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-15318">
-													<a href="https://kemnet.co.ke/services/ict-consultancy-training/"
+													<a href="/services/ict-consultancy-training/"
 														class="nav-link">AI &#038; ICT Consultancy &#038; Training</a>
 												</li>
 
@@ -2953,34 +2953,34 @@
 										</li>
 										<li id="menu-item-14707"
 											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav-item menu-item-14707 dropdown">
-											<a href="https://kemnet.co.ke/services/internet-services/"
+											<a href="/services/internet-services/"
 												class="nav-link dropdown-toggle">Internet Services</a>
 											<ul role="menu" class=" dropdown-menu">
 												<li id="menu-item-15742"
 													class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-15742">
-													<a href="https://kemnet.co.ke/kemnet-home-wireless/"
+													<a href="/kemnet-home-wireless/"
 														class="nav-link">Home Wireless</a></li>
 												<li id="menu-item-11707"
 													class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-11707">
-													<a href="https://kemnet.co.ke/kemnet-home-fiber/"
+													<a href="/kemnet-home-fiber/"
 														class="nav-link">Home Fiber</a></li>
 												<li id="menu-item-15874"
 													class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-15874">
-													<a href="https://kemnet.co.ke/kemnet-business-internet/"
+													<a href="/kemnet-business-internet/"
 														class="nav-link">Business Internet</a></li>
 
 											</ul>
 										</li>
 										<li id="menu-item-16422"
 											class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-16422">
-											<a href="https://kemnet.co.ke/web-and-cloud-services/" class="nav-link">Web
+											<a href="/web-and-cloud-services/" class="nav-link">Web
 												&#038; Cloud Services</a></li>
 										<li id="menu-item-14034"
 											class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-14034">
-											<a href="https://kemnet.co.ke/faq/" class="nav-link">FAQs</a></li>
+											<a href="/faq/" class="nav-link">FAQs</a></li>
 										<li id="menu-item-11695"
 											class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-11695">
-											<a href="https://kemnet.co.ke/contact-us/" class="nav-link">Contact Us</a>
+											<a href="/contact-us/" class="nav-link">Contact Us</a>
 										</li>
 									</ul>
 								</div>
@@ -2997,7 +2997,7 @@
 					</div>
 
 					<div class="full-bar-search-wrap">
-						<form method="get" class="search-form" action="https://kemnet.co.ke/">
+						<form method="get" class="search-form" action="/">
 							<div class="input-group">
 								<input name="s" type="text" class="form-control" value=""
 									placeholder="Search and hit enter..">
@@ -3024,7 +3024,7 @@
 												<div class="pull-left">
 													<h1 class="page-title">Error</h1>
 													<div id="breadcrumb" class="breadcrumb"><a
-															href="https://kemnet.co.ke/">Home</a> <span
+															href="/">Home</a> <span
 															class="current">Error 404</span></div>
 												</div>
 											</div>
@@ -3039,7 +3039,7 @@
 								<header class="page-header">
 
 									<div class="image-wrap-404">
-										<img src="https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/404.png"
+										<img src="wp-content/themes/satenet-wp/satenet/assets/images/404.png"
 											alt="image-404">
 
 									</div>
@@ -3049,7 +3049,7 @@
 									</div>
 									<p class="error-description">
 										Sorry we cannot find that page! Go back to home </p>
-									<a class="home-link" href="https://kemnet.co.ke/">
+									<a class="home-link" href="/">
 										Home Page </a>
 								</header><!-- .page-header -->
 							</div><!-- .container -->
@@ -3077,22 +3077,22 @@
 										<ul id="menu-footer1" class="menu">
 											<li id="menu-item-14086"
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14086">
-												<a href="https://kemnet.co.ke/coverage/">Coverage</a></li>
+												<a href="/coverage/">Coverage</a></li>
 											<li id="menu-item-14087"
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14087">
-												<a href="https://kemnet.co.ke/careers/">Careers</a></li>
+												<a href="/careers/">Careers</a></li>
 											<li id="menu-item-14104"
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14104">
-												<a href="https://kemnet.co.ke/faq/">FAQs</a></li>
+												<a href="/faq/">FAQs</a></li>
 											<li id="menu-item-14337"
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14337">
-												<a href="https://kemnet.co.ke/shop/">Shop</a></li>
+												<a href="/shop/">Shop</a></li>
 											<li id="menu-item-14340"
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14340">
-												<a href="https://kemnet.co.ke/contact-us/">Contact Us</a></li>
+												<a href="/contact-us/">Contact Us</a></li>
 											<li id="menu-item-14342"
 												class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-14342">
-												<a href="https://kemnet.co.ke/blog/">Blog</a></li>
+												<a href="/blog/">Blog</a></li>
 										</ul>
 									</div>
 								</section>
@@ -3106,34 +3106,34 @@
 										<ul id="menu-footer2-services" class="menu">
 											<li id="menu-item-14898"
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14898">
-												<a href="https://kemnet.co.ke/services/">Our Services</a>
+												<a href="/services/">Our Services</a>
 												<ul class="sub-menu">
 													<li id="menu-item-15320"
 														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15320">
-														<a href="https://kemnet.co.ke/services/internet-services/">Internet
+														<a href="/services/internet-services/">Internet
 															Services</a></li>
 													<li id="menu-item-15324"
 														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15324">
 														<a
-															href="https://kemnet.co.ke/services/infrastructure-networking/">Infrastructure
+															href="/services/infrastructure-networking/">Infrastructure
 															&amp; Networking</a></li>
 													<li id="menu-item-15321"
 														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15321">
-														<a href="https://kemnet.co.ke/services/web-cloud-solutions/">Web
+														<a href="/services/web-cloud-solutions/">Web
 															&amp; Cloud Solutions</a></li>
 													<li id="menu-item-15325"
 														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15325">
-														<a href="https://kemnet.co.ke/services/software-hardware/">Software
+														<a href="/services/software-hardware/">Software
 															&#038; Hardware</a></li>
 													<li id="menu-item-15322"
 														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15322">
 														<a
-															href="https://kemnet.co.ke/services/smart-home-security-solutions/">Smart
+															href="/services/smart-home-security-solutions/">Smart
 															Home &#038; Security Solutions</a></li>
 													<li id="menu-item-15323"
 														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15323">
 														<a
-															href="https://kemnet.co.ke/services/ict-consultancy-training/">ICT
+															href="/services/ict-consultancy-training/">ICT
 															Consultancy &amp; Training</a></li>
 												</ul>
 											</li>
@@ -3150,15 +3150,15 @@
 										<ul id="menu-footer3-packages" class="menu">
 											<li id="menu-item-15741"
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15741">
-												<a href="https://kemnet.co.ke/kemnet-home-wireless/">Kemnet Home
+												<a href="/kemnet-home-wireless/">Kemnet Home
 													Wireless</a></li>
 											<li id="menu-item-14100"
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14100">
-												<a href="https://kemnet.co.ke/kemnet-home-fiber/">Kemnet Home Fiber</a>
+												<a href="/kemnet-home-fiber/">Kemnet Home Fiber</a>
 											</li>
 											<li id="menu-item-15896"
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15896">
-												<a href="https://kemnet.co.ke/kemnet-business-internet/">Kemnet Business
+												<a href="/kemnet-business-internet/">Kemnet Business
 													Internet</a></li>
 										</ul>
 									</div>
@@ -3178,18 +3178,18 @@
 										<ul
 											class="nav social-icons footer-bottom-social social-circled social-white social-h-own social-bg-transparent social-hbg-transparent">
 											<li class="nav-item">
-												<a href="https://www.facebook.com/KemnetLtd" class="nav-link social-fb">
+												<a href="/KemnetLtd" class="nav-link social-fb">
 													<i class=" ti-facebook"></i>
 												</a>
 											</li>
 											<li class="nav-item">
-												<a href="https://www.instagram.com/kemnet_ltd/"
+												<a href="/kemnet_ltd/"
 													class="nav-link social-instagram">
 													<i class=" ti-instagram"></i>
 												</a>
 											</li>
 											<li class="nav-item">
-												<a href="https://www.linkedin.com/company/kemnetltd/"
+												<a href="/company/kemnetltd/"
 													class="nav-link social-linkedin">
 													<i class=" ti-linkedin"></i>
 												</a>
@@ -3203,7 +3203,7 @@
 									<div class="nav-item-inner">
 										<div class="copyright-text-wrap">Copyrights ©
 											<script>document.write(new Date().getFullYear());</script> <a
-												href="http://kemnet.co.ke/" class="theme-color" target="_blank">KEMNET
+												href="/" class="theme-color" target="_blank">KEMNET
 												TECHNOLOGIES</a>, driven by TECHNOLOGY, powered by SERVICE, All Rights
 											Reserved.
 										</div>
@@ -3222,7 +3222,7 @@
 	<div class="full-search-wrapper">
 		<a class="full-search-toggle close" href="#"></a>
 
-		<form method="get" class="search-form" action="https://kemnet.co.ke/">
+		<form method="get" class="search-form" action="/">
 			<div class="input-group">
 				<input type="text" class="form-control" name="s" value="" placeholder="Search for...">
 				<span class="input-group-btn">
@@ -3279,7 +3279,7 @@
 		}, false);
 	</script>
 	<script id="ckyBannerTemplate"
-		type="text/template"><div class="cky-overlay cky-hide"></div><div class="cky-btn-revisit-wrapper cky-revisit-hide" data-cky-tag="revisit-consent" data-tooltip="Cookie Settings" style="background-color:#0056a7"> <button class="cky-btn-revisit" aria-label="Cookie Settings"> <img src="http://kemnet.co.ke/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg" alt="Revisit consent button"> </button></div><div class="cky-consent-container cky-hide" tabindex="0"> <div class="cky-consent-bar" data-cky-tag="notice" style="background-color:#FFFFFF;border-color:#f4f4f4;color:#212121">  <div class="cky-notice"> <p class="cky-title" role="heading" aria-level="1" data-cky-tag="title" style="color:#212121">We value your privacy</p><div class="cky-notice-group"> <div class="cky-notice-des" data-cky-tag="description" style="color:#212121"> <p>We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies.</p> </div><div class="cky-notice-btn-wrapper" data-cky-tag="notice-buttons"> <button class="cky-btn cky-btn-customize" aria-label="Customize" data-cky-tag="settings-button" style="color:#1863dc;background-color:transparent;border-color:#1863dc">Customize</button> <button class="cky-btn cky-btn-reject" aria-label="Reject All" data-cky-tag="reject-button" style="color:#1863dc;background-color:transparent;border-color:#1863dc">Reject All</button> <button class="cky-btn cky-btn-accept" aria-label="Accept All" data-cky-tag="accept-button" style="color:#FFFFFF;background-color:#1863dc;border-color:#1863dc">Accept All</button>  </div></div></div></div></div><div class="cky-modal" tabindex="0"> <div class="cky-preference-center" data-cky-tag="detail" style="color:#212121;background-color:#FFFFFF;border-color:#F4F4F4"> <div class="cky-preference-header"> <span class="cky-preference-title" role="heading" aria-level="1" data-cky-tag="detail-title" style="color:#212121">Customize Consent Preferences</span> <button class="cky-btn-close" aria-label="[cky_preference_close_label]" data-cky-tag="detail-close"> <img src="http://kemnet.co.ke/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg" alt="Close"> </button> </div><div class="cky-preference-body-wrapper"> <div class="cky-preference-content-wrapper" data-cky-tag="detail-description" style="color:#212121"> <p>We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.</p><p>The cookies that are categorized as "Necessary" are stored on your browser as they are essential for enabling the basic functionalities of the site. </p><p>We also use third-party cookies that help us analyze how you use this website, store your preferences, and provide the content and advertisements that are relevant to you. These cookies will only be stored in your browser with your prior consent.</p><p>You can choose to enable or disable some or all of these cookies but disabling some of them may affect your browsing experience.</p> </div><div class="cky-accordion-wrapper" data-cky-tag="detail-categories"> <div class="cky-accordion" id="ckyDetailCategorynecessary"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Necessary" data-cky-tag="detail-category-title" style="color:#212121">Necessary</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchnecessary"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryfunctional"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Functional" data-cky-tag="detail-category-title" style="color:#212121">Functional</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchfunctional"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryanalytics"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Analytics" data-cky-tag="detail-category-title" style="color:#212121">Analytics</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchanalytics"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryperformance"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Performance" data-cky-tag="detail-category-title" style="color:#212121">Performance</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchperformance"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryadvertisement"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Advertisement" data-cky-tag="detail-category-title" style="color:#212121">Advertisement</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchadvertisement"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Advertisement cookies are used to provide visitors with customized advertisements based on the pages you visited previously and to analyze the effectiveness of the ad campaigns.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div> </div></div><div class="cky-footer-wrapper"> <span class="cky-footer-shadow"></span> <div class="cky-prefrence-btn-wrapper" data-cky-tag="detail-buttons"> <button class="cky-btn cky-btn-reject" aria-label="Reject All" data-cky-tag="detail-reject-button" style="color:#1863dc;background-color:transparent;border-color:#1863dc"> Reject All </button> <button class="cky-btn cky-btn-preferences" aria-label="Save My Preferences" data-cky-tag="detail-save-button" style="color:#1863dc;background-color:transparent;border-color:#1863dc"> Save My Preferences </button> <button class="cky-btn cky-btn-accept" aria-label="Accept All" data-cky-tag="detail-accept-button" style="color:#ffffff;background-color:#1863dc;border-color:#1863dc"> Accept All </button> </div></div></div></div></script>
+		type="text/template"><div class="cky-overlay cky-hide"></div><div class="cky-btn-revisit-wrapper cky-revisit-hide" data-cky-tag="revisit-consent" data-tooltip="Cookie Settings" style="background-color:#0056a7"> <button class="cky-btn-revisit" aria-label="Cookie Settings"> <img src="/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg" alt="Revisit consent button"> </button></div><div class="cky-consent-container cky-hide" tabindex="0"> <div class="cky-consent-bar" data-cky-tag="notice" style="background-color:#FFFFFF;border-color:#f4f4f4;color:#212121">  <div class="cky-notice"> <p class="cky-title" role="heading" aria-level="1" data-cky-tag="title" style="color:#212121">We value your privacy</p><div class="cky-notice-group"> <div class="cky-notice-des" data-cky-tag="description" style="color:#212121"> <p>We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies.</p> </div><div class="cky-notice-btn-wrapper" data-cky-tag="notice-buttons"> <button class="cky-btn cky-btn-customize" aria-label="Customize" data-cky-tag="settings-button" style="color:#1863dc;background-color:transparent;border-color:#1863dc">Customize</button> <button class="cky-btn cky-btn-reject" aria-label="Reject All" data-cky-tag="reject-button" style="color:#1863dc;background-color:transparent;border-color:#1863dc">Reject All</button> <button class="cky-btn cky-btn-accept" aria-label="Accept All" data-cky-tag="accept-button" style="color:#FFFFFF;background-color:#1863dc;border-color:#1863dc">Accept All</button>  </div></div></div></div></div><div class="cky-modal" tabindex="0"> <div class="cky-preference-center" data-cky-tag="detail" style="color:#212121;background-color:#FFFFFF;border-color:#F4F4F4"> <div class="cky-preference-header"> <span class="cky-preference-title" role="heading" aria-level="1" data-cky-tag="detail-title" style="color:#212121">Customize Consent Preferences</span> <button class="cky-btn-close" aria-label="[cky_preference_close_label]" data-cky-tag="detail-close"> <img src="/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg" alt="Close"> </button> </div><div class="cky-preference-body-wrapper"> <div class="cky-preference-content-wrapper" data-cky-tag="detail-description" style="color:#212121"> <p>We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.</p><p>The cookies that are categorized as "Necessary" are stored on your browser as they are essential for enabling the basic functionalities of the site. </p><p>We also use third-party cookies that help us analyze how you use this website, store your preferences, and provide the content and advertisements that are relevant to you. These cookies will only be stored in your browser with your prior consent.</p><p>You can choose to enable or disable some or all of these cookies but disabling some of them may affect your browsing experience.</p> </div><div class="cky-accordion-wrapper" data-cky-tag="detail-categories"> <div class="cky-accordion" id="ckyDetailCategorynecessary"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Necessary" data-cky-tag="detail-category-title" style="color:#212121">Necessary</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchnecessary"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryfunctional"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Functional" data-cky-tag="detail-category-title" style="color:#212121">Functional</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchfunctional"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryanalytics"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Analytics" data-cky-tag="detail-category-title" style="color:#212121">Analytics</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchanalytics"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryperformance"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Performance" data-cky-tag="detail-category-title" style="color:#212121">Performance</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchperformance"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryadvertisement"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Advertisement" data-cky-tag="detail-category-title" style="color:#212121">Advertisement</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchadvertisement"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Advertisement cookies are used to provide visitors with customized advertisements based on the pages you visited previously and to analyze the effectiveness of the ad campaigns.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div> </div></div><div class="cky-footer-wrapper"> <span class="cky-footer-shadow"></span> <div class="cky-prefrence-btn-wrapper" data-cky-tag="detail-buttons"> <button class="cky-btn cky-btn-reject" aria-label="Reject All" data-cky-tag="detail-reject-button" style="color:#1863dc;background-color:transparent;border-color:#1863dc"> Reject All </button> <button class="cky-btn cky-btn-preferences" aria-label="Save My Preferences" data-cky-tag="detail-save-button" style="color:#1863dc;background-color:transparent;border-color:#1863dc"> Save My Preferences </button> <button class="cky-btn cky-btn-accept" aria-label="Accept All" data-cky-tag="detail-accept-button" style="color:#ffffff;background-color:#1863dc;border-color:#1863dc"> Accept All </button> </div></div></div></div></script>
 	<!-- Click to Chat - https://holithemes.com/plugins/click-to-chat/  v4.20 -->
 	<div class="ht-ctc ht-ctc-chat ctc-analytics ctc_wp_desktop style-2  " id="ht-ctc-chat"
 		style="display: none;  position: fixed; bottom: 15%; right: 2.3%;">
@@ -3352,37 +3352,37 @@
 	</script>
 	<script type="text/javascript" id="wpo_min-footer-0-js-extra">
 		/* <![CDATA[ */
-		var ht_ctc_chat_var = { "number": "254700638585", "pre_filled": "Hello Kemnet,\r\n\r\nLike to know more information about your services at https://kemnet.co.ke/what-is-latency/", "dis_m": "show", "dis_d": "show", "css": "display: none; cursor: pointer; z-index: 99999999;", "pos_d": "position: fixed; bottom: 15%; right: 2.3%;", "pos_m": "position: fixed; bottom: 15%; right: 2.3%;", "schedule": "no", "se": "150", "ani": "no-animation", "url_target_d": "_blank", "ga": "yes", "fb": "yes", "g_init": "default", "g_an_event_name": "chat: {number}", "pixel_event_name": "Click to Chat by HoliThemes" };
+		var ht_ctc_chat_var = { "number": "254700638585", "pre_filled": "Hello Kemnet,\r\n\r\nLike to know more information about your services at /what-is-latency/", "dis_m": "show", "dis_d": "show", "css": "display: none; cursor: pointer; z-index: 99999999;", "pos_d": "position: fixed; bottom: 15%; right: 2.3%;", "pos_m": "position: fixed; bottom: 15%; right: 2.3%;", "schedule": "no", "se": "150", "ani": "no-animation", "url_target_d": "_blank", "ga": "yes", "fb": "yes", "g_init": "default", "g_an_event_name": "chat: {number}", "pixel_event_name": "Click to Chat by HoliThemes" };
 		var ht_ctc_variables = { "g_an_event_name": "chat: {number}", "pixel_event_type": "trackCustom", "pixel_event_name": "Click to Chat by HoliThemes", "g_an_params": ["g_an_param_1", "g_an_param_2", "g_an_param_3"], "g_an_param_1": { "key": "number", "value": "{number}" }, "g_an_param_2": { "key": "title", "value": "{title}" }, "g_an_param_3": { "key": "url", "value": "{url}" }, "pixel_params": ["pixel_param_1", "pixel_param_2", "pixel_param_3", "pixel_param_4"], "pixel_param_1": { "key": "Category", "value": "Click to Chat for WhatsApp" }, "pixel_param_2": { "key": "ID", "value": "{number}" }, "pixel_param_3": { "key": "Title", "value": "{title}" }, "pixel_param_4": { "key": "URL", "value": "{url}" } };
 		//# sourceURL=wpo_min-footer-0-js-extra
 		/* ]]> */
 	</script>
 	<script type="text/javascript"
-		src="https://kemnet.co.ke/wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-0c9a1ccf.min.js"
+		src="wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-0c9a1ccf.min.js"
 		id="wpo_min-footer-0-js"></script>
-	<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-3R3FWM6ELV"
+	<script type="text/javascript" src="/gtag/js?id=G-3R3FWM6ELV"
 		id="google-tag-manager-js" data-wp-strategy="async"></script>
 	<script type="text/javascript"
-		src="https://kemnet.co.ke/wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-034d157f.min.js"
+		src="wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-034d157f.min.js"
 		id="wpo_min-footer-2-js"></script>
 	<script type="text/javascript" id="wpo_min-footer-3-js-extra">
 		/* <![CDATA[ */
-		var satenet_ajax_var = { "admin_ajax_url": "https://kemnet.co.ke/wp-admin/admin-ajax.php", "like_nonce": "c0362a7da2", "fav_nonce": "5166e34209", "wishlist_remove": "e7d72c8df3", "product_view": "3167a6c9a6", "infinite_loader": { "id": "11741", "url": "https://kemnet.co.ke/wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD.png" }, "load_posts": "Loading next set of posts.", "no_posts": "No more posts to load.", "cmt_nonce": "38bc275b72", "mc_nounce": "368577ac9d", "wait": "Wait..", "must_fill": "Must Fill Required Details.", "valid_email": "Enter Valid Email ID.", "cart_update_pbm": "Cart Update Problem.", "gmap_stat": "1", "user_logged": "0", "add_to_cart": "eaaaf097dc", "remove_from_cart": "306fc4756a", "body_atts": { "scroll_time": "", "scroll_dist": "", "res_width": 1025, "core_stat": false } };
-		var wc_order_attribution = { "params": { "lifetime": 1.0e-5, "session": 30, "base64": false, "ajaxurl": "https://kemnet.co.ke/wp-admin/admin-ajax.php", "prefix": "wc_order_attribution_", "allowTracking": true }, "fields": { "source_type": "current.typ", "referrer": "current_add.rf", "utm_campaign": "current.cmp", "utm_source": "current.src", "utm_medium": "current.mdm", "utm_content": "current.cnt", "utm_id": "current.id", "utm_term": "current.trm", "utm_source_platform": "current.plt", "utm_creative_format": "current.fmt", "utm_marketing_tactic": "current.tct", "session_entry": "current_add.ep", "session_start_time": "current_add.fd", "session_pages": "session.pgs", "session_count": "udata.vst", "user_agent": "udata.uag" } };
+		var satenet_ajax_var = { "admin_ajax_url": "/wp-admin/admin-ajax.php", "like_nonce": "c0362a7da2", "fav_nonce": "5166e34209", "wishlist_remove": "e7d72c8df3", "product_view": "3167a6c9a6", "infinite_loader": { "id": "11741", "url": "wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD.png" }, "load_posts": "Loading next set of posts.", "no_posts": "No more posts to load.", "cmt_nonce": "38bc275b72", "mc_nounce": "368577ac9d", "wait": "Wait..", "must_fill": "Must Fill Required Details.", "valid_email": "Enter Valid Email ID.", "cart_update_pbm": "Cart Update Problem.", "gmap_stat": "1", "user_logged": "0", "add_to_cart": "eaaaf097dc", "remove_from_cart": "306fc4756a", "body_atts": { "scroll_time": "", "scroll_dist": "", "res_width": 1025, "core_stat": false } };
+		var wc_order_attribution = { "params": { "lifetime": 1.0e-5, "session": 30, "base64": false, "ajaxurl": "/wp-admin/admin-ajax.php", "prefix": "wc_order_attribution_", "allowTracking": true }, "fields": { "source_type": "current.typ", "referrer": "current_add.rf", "utm_campaign": "current.cmp", "utm_source": "current.src", "utm_medium": "current.mdm", "utm_content": "current.cnt", "utm_id": "current.id", "utm_term": "current.trm", "utm_source_platform": "current.plt", "utm_creative_format": "current.fmt", "utm_marketing_tactic": "current.tct", "session_entry": "current_add.ep", "session_start_time": "current_add.fd", "session_pages": "session.pgs", "session_count": "udata.vst", "user_agent": "udata.uag" } };
 		//# sourceURL=wpo_min-footer-3-js-extra
 		/* ]]> */
 	</script>
 	<script type="text/javascript"
-		src="https://kemnet.co.ke/wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-ae994d4f.min.js"
+		src="wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-ae994d4f.min.js"
 		id="wpo_min-footer-3-js"></script>
 	<script type="text/javascript"
-		src="https://www.google.com/recaptcha/api.js?render=6Lfn4X0qAAAAAOvFqOP4V_3SLg_r9OKF6yhrRQnm&amp;ver=3.0"
+		src="/recaptcha/api.js?render=6Lfn4X0qAAAAAOvFqOP4V_3SLg_r9OKF6yhrRQnm&amp;ver=3.0"
 		id="google-recaptcha-js"></script>
 	<script type="text/javascript"
-		src="https://kemnet.co.ke/wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-52fa0690.min.js"
+		src="wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-52fa0690.min.js"
 		id="wpo_min-footer-5-js"></script>
 	<script type="text/javascript"
-		src="https://kemnet.co.ke/wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-6cb70def.min.js"
+		src="wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-6cb70def.min.js"
 		id="wpo_min-footer-6-js"></script>
 </body>
 

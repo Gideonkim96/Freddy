@@ -47,7 +47,7 @@
 	<p>Web hosting is the foundation upon which your online presence is built. By understanding its fundamentals and
 		selecting the right hosting, you can ensure your website has a reliable, secure, and high-performing home on the
 		internet.</p>
-	<p>Ready to launch your website? <a href="https://kemnet.co.ke/contact-us/">Click here to get started</a>.</p>
+	<p>Ready to launch your website? <a href="/contact-us/">Click here to get started</a>.</p>
 
 	<h2>How to choose a domain name, 6 Expert tips</h2>
 	<p>Choosing the right domain name is crucial for your website’s success. Let’s dive into six expert tips to ensure you
@@ -70,15 +70,15 @@
 	<h4>Conclusion:</h4>
 	<p>Your domain name is the gateway to your online presence. By following these expert tips, you can select a domain name
 		that reflects your brand, attracts visitors, and sets you up for success in the digital world. We’ll help you get a
-		new fresh domain, tap here – <strong><a href="http://domains.kemnet.co.ke/">GET A DOMAIN</a></strong> Happy domain
+		new fresh domain, tap here – <strong><a href="/">GET A DOMAIN</a></strong> Happy domain
 		hunting!</p>
-	<p>Your perfect domain name awaits! <a href="http://domains.kemnet.co.ke/"><b>TAKE ME THERE</b></a></p>
+	<p>Your perfect domain name awaits! <a href="/"><b>TAKE ME THERE</b></a></p>
 
 @endsection
 <item>
 	<title>What is web hosting</title>
-	<link>https://kemnet.co.ke/what-is-web-hosting/</link>
-	<comments>https://kemnet.co.ke/what-is-web-hosting/#respond</comments>
+	<link>/what-is-web-hosting/</link>
+	<comments>/what-is-web-hosting/#respond</comments>
 
 	<dc:creator>
 		<![CDATA[Patton]]>
@@ -90,11 +90,11 @@
 	<category>
 		<![CDATA[website]]>
 	</category>
-	<guid isPermaLink="false">http://kemnet.co.ke/?p=15631</guid>
+	<guid isPermaLink="false">/?p=15631</guid>
 
 	<description>
 		<![CDATA[<p>Your Website&#8217;s Home on the Internet In the vast landscape of the internet, every website needs a home — a place where its files, images, and data can reside and be accessed by visitors. This virtual real estate is provided by web hosting services. In this article, we&#8217;ll unravel the mystery of web hosting and</p>
-<p>The post <a href="https://kemnet.co.ke/what-is-web-hosting/">What is web hosting</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+<p>The post <a href="/what-is-web-hosting/">What is web hosting</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</description>
 	<content:encoded>
@@ -196,7 +196,7 @@
 				<div class="elementor-element elementor-element-eed3532 elementor-align-center elementor-widget elementor-widget-button" data-id="eed3532" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://kemnet.co.ke/contact-us/">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="/contact-us/">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon">
 				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path></svg>			</span>
@@ -208,19 +208,19 @@
 				</div>
 					</div>
 				</div>
-				</div><p>The post <a href="https://kemnet.co.ke/what-is-web-hosting/">What is web hosting</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+				</div><p>The post <a href="/what-is-web-hosting/">What is web hosting</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</content:encoded>
 
-	<wfw:commentRss>https://kemnet.co.ke/what-is-web-hosting/feed/</wfw:commentRss>
+	<wfw:commentRss>/what-is-web-hosting/feed/</wfw:commentRss>
 	<slash:comments>0</slash:comments>
 
 
 </item>
 <item>
 	<title>How to choose a domain name</title>
-	<link>https://kemnet.co.ke/how-to-choose-a-domain-name/</link>
-	<comments>https://kemnet.co.ke/how-to-choose-a-domain-name/#respond</comments>
+	<link>/how-to-choose-a-domain-name/</link>
+	<comments>/how-to-choose-a-domain-name/#respond</comments>
 
 	<dc:creator>
 		<![CDATA[Patton]]>
@@ -232,11 +232,11 @@
 	<category>
 		<![CDATA[website]]>
 	</category>
-	<guid isPermaLink="false">http://kemnet.co.ke/?p=15577</guid>
+	<guid isPermaLink="false">/?p=15577</guid>
 
 	<description>
 		<![CDATA[<p>How to choose a domain name, 6 Expert tips Choosing the right domain name is crucial for your website&#8217;s success. Let&#8217;s dive into six expert tips to ensure you pick the perfect website name. Tips for Choosing the Right Domain Name: Keep it Simple: Aim for a domain name that is easy to spell, pronounce,</p>
-<p>The post <a href="https://kemnet.co.ke/how-to-choose-a-domain-name/">How to choose a domain name</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+<p>The post <a href="/how-to-choose-a-domain-name/">How to choose a domain name</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</description>
 	<content:encoded>
@@ -269,16 +269,16 @@
 				</div>
 				<div class="elementor-element elementor-element-e6d3eb5 elementor-widget elementor-widget-text-editor" data-id="e6d3eb5" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>Your domain name is the gateway to your online presence. By following these expert tips, you can select a domain name that reflects your brand, attracts visitors, and sets you up for success in the digital world. We&#8217;ll help you get&nbsp;a new fresh domain, tap here &#8211;&nbsp;<strong><a href="http://domains.kemnet.co.ke/">GET A DOMAIN</a></strong> Happy domain hunting!</p>
-<p>Your perfect domain name awaits! <a href="http://domains.kemnet.co.ke/"><b>TAKE ME THERE</b></a></p>								</div>
+									<p>Your domain name is the gateway to your online presence. By following these expert tips, you can select a domain name that reflects your brand, attracts visitors, and sets you up for success in the digital world. We&#8217;ll help you get&nbsp;a new fresh domain, tap here &#8211;&nbsp;<strong><a href="/">GET A DOMAIN</a></strong> Happy domain hunting!</p>
+<p>Your perfect domain name awaits! <a href="/"><b>TAKE ME THERE</b></a></p>								</div>
 				</div>
 					</div>
 				</div>
-				</div><p>The post <a href="https://kemnet.co.ke/how-to-choose-a-domain-name/">How to choose a domain name</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+				</div><p>The post <a href="/how-to-choose-a-domain-name/">How to choose a domain name</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</content:encoded>
 
-	<wfw:commentRss>https://kemnet.co.ke/how-to-choose-a-domain-name/feed/</wfw:commentRss>
+	<wfw:commentRss>/how-to-choose-a-domain-name/feed/</wfw:commentRss>
 	<slash:comments>0</slash:comments>
 
 

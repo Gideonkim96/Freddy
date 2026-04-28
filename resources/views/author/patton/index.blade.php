@@ -8,7 +8,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="profile" href="/xfn/11">
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v24.8.1 - https://yoast.com/wordpress/plugins/seo/ -->
@@ -23,11 +23,11 @@
 		content="https://secure.gravatar.com/avatar/4d8af0c88c97fcf6ca6aca755cfeb2d6206e913801c566e6e3751d7522131da9?s=500&amp;d=mm&amp;r=g" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<script type="application/ld+json"
-		class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"ProfilePage","@id":"https://kemnet.co.ke/author/patton/","url":"https://kemnet.co.ke/author/patton/","name":"Patton, Author at Kemnet Technologies Limited","isPartOf":{"@id":"https://kemnet.co.ke/#website"},"primaryImageOfPage":{"@id":"https://kemnet.co.ke/author/patton/#primaryimage"},"image":{"@id":"https://kemnet.co.ke/author/patton/#primaryimage"},"thumbnailUrl":"https://kemnet.co.ke/wp-content/uploads/2024/05/What-is-latency-1.png","breadcrumb":{"@id":"https://kemnet.co.ke/author/patton/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://kemnet.co.ke/author/patton/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://kemnet.co.ke/author/patton/#primaryimage","url":"https://kemnet.co.ke/wp-content/uploads/2024/05/What-is-latency-1.png","contentUrl":"https://kemnet.co.ke/wp-content/uploads/2024/05/What-is-latency-1.png","width":1920,"height":1080,"caption":"Internet Latency"},{"@type":"BreadcrumbList","@id":"https://kemnet.co.ke/author/patton/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://kemnet.co.ke/"},{"@type":"ListItem","position":2,"name":"Archives for Patton"}]},{"@type":"WebSite","@id":"https://kemnet.co.ke/#website","url":"https://kemnet.co.ke/","name":"Kemnet Technologies Limited","description":"powered by TECHNOLOGY, driven by SERVICE","publisher":{"@id":"https://kemnet.co.ke/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://kemnet.co.ke/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://kemnet.co.ke/#organization","name":"Kemnet Technologies Limited","url":"https://kemnet.co.ke/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://kemnet.co.ke/#/schema/logo/image/","url":"https://kemnet.co.ke/wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD.png","contentUrl":"https://kemnet.co.ke/wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD.png","width":512,"height":512,"caption":"Kemnet Technologies Limited"},"image":{"@id":"https://kemnet.co.ke/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/KemnetLtd","https://www.linkedin.com/company/kemnetltd/","https://www.instagram.com/kemnet_ltd/"]},{"@type":"Person","@id":"https://kemnet.co.ke/#/schema/person/4218f1e7a4692843b33b48685006abfc","name":"Patton","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://kemnet.co.ke/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/4d8af0c88c97fcf6ca6aca755cfeb2d6206e913801c566e6e3751d7522131da9?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/4d8af0c88c97fcf6ca6aca755cfeb2d6206e913801c566e6e3751d7522131da9?s=96&d=mm&r=g","caption":"Patton"},"mainEntityOfPage":{"@id":"https://kemnet.co.ke/author/patton/"}}]}</script>
+		class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"ProfilePage","@id":"/author/patton/","url":"/author/patton/","name":"Patton, Author at Kemnet Technologies Limited","isPartOf":{"@id":"/#website"},"primaryImageOfPage":{"@id":"/author/patton/#primaryimage"},"image":{"@id":"/author/patton/#primaryimage"},"thumbnailUrl":"wp-content/uploads/2024/05/What-is-latency-1.png","breadcrumb":{"@id":"/author/patton/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["/author/patton/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"/author/patton/#primaryimage","url":"wp-content/uploads/2024/05/What-is-latency-1.png","contentUrl":"wp-content/uploads/2024/05/What-is-latency-1.png","width":1920,"height":1080,"caption":"Internet Latency"},{"@type":"BreadcrumbList","@id":"/author/patton/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"/"},{"@type":"ListItem","position":2,"name":"Archives for Patton"}]},{"@type":"WebSite","@id":"/#website","url":"/","name":"Kemnet Technologies Limited","description":"powered by TECHNOLOGY, driven by SERVICE","publisher":{"@id":"/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"/#organization","name":"Kemnet Technologies Limited","url":"/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"/#/schema/logo/image/","url":"wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD.png","contentUrl":"wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD.png","width":512,"height":512,"caption":"Kemnet Technologies Limited"},"image":{"@id":"/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/KemnetLtd","https://www.linkedin.com/company/kemnetltd/","https://www.instagram.com/kemnet_ltd/"]},{"@type":"Person","@id":"/#/schema/person/4218f1e7a4692843b33b48685006abfc","name":"Patton","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/4d8af0c88c97fcf6ca6aca755cfeb2d6206e913801c566e6e3751d7522131da9?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/4d8af0c88c97fcf6ca6aca755cfeb2d6206e913801c566e6e3751d7522131da9?s=96&d=mm&r=g","caption":"Patton"},"mainEntityOfPage":{"@id":"/author/patton/"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
-	<link rel='dns-prefetch' href='http://www.googletagmanager.com/' />
+	<link rel='dns-prefetch' href='/' />
 	<link rel="alternate" type="application/rss+xml" title="Kemnet Technologies Limited &raquo; Feed"
 		href="../../feed/index.html" />
 	<link rel="alternate" type="application/rss+xml" title="Kemnet Technologies Limited &raquo; Comments Feed"
@@ -71,7 +71,7 @@
 			text-decoration: none
 		}
 
-		/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+		/*# sourceURL=wp-includes/css/classic-themes.min.css */
 	</style>
 	<link rel='stylesheet' id='contact-form-7-css'
 		href='../../wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
@@ -562,7 +562,7 @@
 
 		.satenet-blog .page-title-wrap-inner {
 			color: #ffffff;
-			background-image: url(https://kemnet.co.ke/wp-content/uploads/2024/06/page-title-bgn.jpg);
+			background-image: url(wp-content/uploads/2024/06/page-title-bgn.jpg);
 			background-repeat: no-repeat;
 			background-position: center center;
 			background-size: cover
@@ -586,7 +586,7 @@
 
 		.satenet-page .page-title-wrap-inner {
 			color: #ffffff;
-			background-image: url(https://kemnet.co.ke/wp-content/uploads/2019/11/page-title-bgn.jpg);
+			background-image: url(wp-content/uploads/2019/11/page-title-bgn.jpg);
 			background-repeat: no-repeat;
 			background-position: center center;
 			background-size: cover;
@@ -643,7 +643,7 @@
 
 		.satenet-single-product .page-title-wrap-inner {
 			color: #ffffff;
-			background-image: url(https://kemnet.co.ke/wp-content/uploads/2019/11/page-title-bgn.jpg);
+			background-image: url(wp-content/uploads/2019/11/page-title-bgn.jpg);
 			background-repeat: no-repeat;
 			background-position: center center;
 			background-size: cover;
@@ -727,7 +727,7 @@
 
 		.site-footer {
 			background-color: #004682;
-			background-image: url(https://kemnet.co.ke/wp-content/uploads/2020/01/pattern-1.jpg);
+			background-image: url(wp-content/uploads/2020/01/pattern-1.jpg);
 			background-repeat: no-repeat;
 			background-position: center center;
 			background-size: cover
@@ -1398,7 +1398,7 @@
 		}
 
 		.testimonial-list .testimonial-list-item .testimonial-excerpt::before {
-			background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
+			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
 		}
 
 		.events-date {
@@ -1735,7 +1735,7 @@
 		}
 
 		.ct-lt .feature-box-inner>*.feature-box-btn a::before {
-			background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
+			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
 		}
 
 		[class^='imghvr-shutter-out-']:before,
@@ -1888,7 +1888,7 @@
 		}
 
 		select.wpcf7-form-control {
-			background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
+			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
 		}
 
 		.content-carousel-wrapper .owl-nav>*:hover {
@@ -2006,7 +2006,7 @@
 		}
 
 		.woo-top-meta select {
-			background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
+			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
 		}
 
 		.woocommerce ul.products li.product .loop-product-wrap .woo-thumb-wrap .product-icons-pack>a {
@@ -2689,7 +2689,7 @@
 		}
 
 		.testimonial-list .testimonial-list-item .testimonial-excerpt::before {
-			background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
+			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
 		}
 
 		.events-date {
@@ -3026,7 +3026,7 @@
 		}
 
 		.ct-lt .feature-box-inner>*.feature-box-btn a::before {
-			background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
+			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
 		}
 
 		[class^='imghvr-shutter-out-']:before,
@@ -3179,7 +3179,7 @@
 		}
 
 		select.wpcf7-form-control {
-			background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
+			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
 		}
 
 		.content-carousel-wrapper .owl-nav>*:hover {
@@ -3297,7 +3297,7 @@
 		}
 
 		.woo-top-meta select {
-			background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
+			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
 		}
 
 		.woocommerce ul.products li.product .loop-product-wrap .woo-thumb-wrap .product-icons-pack>a {
@@ -3980,7 +3980,7 @@
 		}
 
 		.testimonial-list .testimonial-list-item .testimonial-excerpt::before {
-			background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
+			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
 		}
 
 		.events-date {
@@ -4317,7 +4317,7 @@
 		}
 
 		.ct-lt .feature-box-inner>*.feature-box-btn a::before {
-			background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
+			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
 		}
 
 		[class^='imghvr-shutter-out-']:before,
@@ -4470,7 +4470,7 @@
 		}
 
 		select.wpcf7-form-control {
-			background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
+			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
 		}
 
 		.content-carousel-wrapper .owl-nav>*:hover {
@@ -4588,7 +4588,7 @@
 		}
 
 		.woo-top-meta select {
-			background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
+			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
 		}
 
 		.woocommerce ul.products li.product .loop-product-wrap .woo-thumb-wrap .product-icons-pack>a {
@@ -5271,7 +5271,7 @@
 		}
 
 		.testimonial-list .testimonial-list-item .testimonial-excerpt::before {
-			background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
+			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
 		}
 
 		.events-date {
@@ -5608,7 +5608,7 @@
 		}
 
 		.ct-lt .feature-box-inner>*.feature-box-btn a::before {
-			background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
+			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
 		}
 
 		[class^='imghvr-shutter-out-']:before,
@@ -5761,7 +5761,7 @@
 		}
 
 		select.wpcf7-form-control {
-			background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
+			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
 		}
 
 		.content-carousel-wrapper .owl-nav>*:hover {
@@ -5879,7 +5879,7 @@
 		}
 
 		.woo-top-meta select {
-			background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
+			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
 		}
 
 		.woocommerce ul.products li.product .loop-product-wrap .woo-thumb-wrap .product-icons-pack>a {
@@ -6562,7 +6562,7 @@
 		}
 
 		.testimonial-list .testimonial-list-item .testimonial-excerpt::before {
-			background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
+			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
 		}
 
 		.events-date {
@@ -6899,7 +6899,7 @@
 		}
 
 		.ct-lt .feature-box-inner>*.feature-box-btn a::before {
-			background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
+			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
 		}
 
 		[class^='imghvr-shutter-out-']:before,
@@ -7052,7 +7052,7 @@
 		}
 
 		select.wpcf7-form-control {
-			background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
+			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
 		}
 
 		.content-carousel-wrapper .owl-nav>*:hover {
@@ -7170,7 +7170,7 @@
 		}
 
 		.woo-top-meta select {
-			background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
+			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
 		}
 
 		.woocommerce ul.products li.product .loop-product-wrap .woo-thumb-wrap .product-icons-pack>a {
@@ -7853,7 +7853,7 @@
 		}
 
 		.testimonial-list .testimonial-list-item .testimonial-excerpt::before {
-			background-image: url(https://kemnet.co.ke/wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
+			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
 		}
 
 		.events-date {

@@ -143,7 +143,7 @@
 @endsection
 <item>
 	<title>What is Latency</title>
-	<link>https://kemnet.co.ke/what-is-latency/</link>
+	<link>/what-is-latency/</link>
 
 	<dc:creator>
 		<![CDATA[Patton]]>
@@ -152,11 +152,11 @@
 	<category>
 		<![CDATA[Internet]]>
 	</category>
-	<guid isPermaLink="false">http://kemnet.co.ke/?p=15648</guid>
+	<guid isPermaLink="false">/?p=15648</guid>
 
 	<description>
 		<![CDATA[<p>What is Latency? Latency refers to the time delay between the initiation of a request and the response to that request. In simpler terms, it&#8217;s the time it takes for data to travel from its source to its destination. This delay can occur for various reasons, including network congestion, distance between servers, and the processing</p>
-<p>The post <a href="https://kemnet.co.ke/what-is-latency/">What is Latency</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+<p>The post <a href="/what-is-latency/">What is Latency</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</description>
 	<content:encoded>
@@ -245,7 +245,7 @@
 				</div>
 					</div>
 				</div>
-				</div><p>The post <a href="https://kemnet.co.ke/what-is-latency/">What is Latency</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+				</div><p>The post <a href="/what-is-latency/">What is Latency</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</content:encoded>
 
@@ -254,8 +254,8 @@
 </item>
 <item>
 	<title>What is web hosting</title>
-	<link>https://kemnet.co.ke/what-is-web-hosting/</link>
-	<comments>https://kemnet.co.ke/what-is-web-hosting/#respond</comments>
+	<link>/what-is-web-hosting/</link>
+	<comments>/what-is-web-hosting/#respond</comments>
 
 	<dc:creator>
 		<![CDATA[Patton]]>
@@ -267,11 +267,11 @@
 	<category>
 		<![CDATA[website]]>
 	</category>
-	<guid isPermaLink="false">http://kemnet.co.ke/?p=15631</guid>
+	<guid isPermaLink="false">/?p=15631</guid>
 
 	<description>
 		<![CDATA[<p>Your Website&#8217;s Home on the Internet In the vast landscape of the internet, every website needs a home — a place where its files, images, and data can reside and be accessed by visitors. This virtual real estate is provided by web hosting services. In this article, we&#8217;ll unravel the mystery of web hosting and</p>
-<p>The post <a href="https://kemnet.co.ke/what-is-web-hosting/">What is web hosting</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+<p>The post <a href="/what-is-web-hosting/">What is web hosting</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</description>
 	<content:encoded>
@@ -373,7 +373,7 @@
 				<div class="elementor-element elementor-element-eed3532 elementor-align-center elementor-widget elementor-widget-button" data-id="eed3532" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://kemnet.co.ke/contact-us/">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="/contact-us/">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon">
 				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path></svg>			</span>
@@ -385,19 +385,19 @@
 				</div>
 					</div>
 				</div>
-				</div><p>The post <a href="https://kemnet.co.ke/what-is-web-hosting/">What is web hosting</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+				</div><p>The post <a href="/what-is-web-hosting/">What is web hosting</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</content:encoded>
 
-	<wfw:commentRss>https://kemnet.co.ke/what-is-web-hosting/feed/</wfw:commentRss>
+	<wfw:commentRss>/what-is-web-hosting/feed/</wfw:commentRss>
 	<slash:comments>0</slash:comments>
 
 
 </item>
 <item>
 	<title>How to stay safe online</title>
-	<link>https://kemnet.co.ke/how-to-stay-safe-online/</link>
-	<comments>https://kemnet.co.ke/how-to-stay-safe-online/#respond</comments>
+	<link>/how-to-stay-safe-online/</link>
+	<comments>/how-to-stay-safe-online/#respond</comments>
 
 	<dc:creator>
 		<![CDATA[Patton]]>
@@ -406,11 +406,11 @@
 	<category>
 		<![CDATA[Internet]]>
 	</category>
-	<guid isPermaLink="false">http://kemnet.co.ke/?p=15615</guid>
+	<guid isPermaLink="false">/?p=15615</guid>
 
 	<description>
 		<![CDATA[<p>Staying Safe Online? In the vast digital landscape of the internet, dangers lurk around every corner, from cybercriminals seeking to steal your personal information to malicious software waiting to infect your devices. But fear not! With a few simple precautions and best practices, you can navigate the digital wild west safely and securely. In this</p>
-<p>The post <a href="https://kemnet.co.ke/how-to-stay-safe-online/">How to stay safe online</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+<p>The post <a href="/how-to-stay-safe-online/">How to stay safe online</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</description>
 	<content:encoded>
@@ -419,7 +419,7 @@
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-9dc5274 elementor-widget elementor-widget-heading" data-id="9dc5274" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Staying Safe Online<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f310.png" alt="🌐" class="wp-smiley" style="height: 1em; max-height: 1em;" /></h2>				</div>
+					<h2 class="elementor-heading-title elementor-size-default">Staying Safe Online<img src="/images/core/emoji/17.0.2/72x72/1f310.png" alt="🌐" class="wp-smiley" style="height: 1em; max-height: 1em;" /></h2>				</div>
 				</div>
 					</div>
 				</div>
@@ -545,19 +545,19 @@
 				</div>
 					</div>
 				</div>
-				</div><p>The post <a href="https://kemnet.co.ke/how-to-stay-safe-online/">How to stay safe online</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+				</div><p>The post <a href="/how-to-stay-safe-online/">How to stay safe online</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</content:encoded>
 
-	<wfw:commentRss>https://kemnet.co.ke/how-to-stay-safe-online/feed/</wfw:commentRss>
+	<wfw:commentRss>/how-to-stay-safe-online/feed/</wfw:commentRss>
 	<slash:comments>0</slash:comments>
 
 
 </item>
 <item>
 	<title>How to optimize your WiFi</title>
-	<link>https://kemnet.co.ke/how-to-optimize-your-wifi/</link>
-	<comments>https://kemnet.co.ke/how-to-optimize-your-wifi/#respond</comments>
+	<link>/how-to-optimize-your-wifi/</link>
+	<comments>/how-to-optimize-your-wifi/#respond</comments>
 
 	<dc:creator>
 		<![CDATA[Patton]]>
@@ -566,11 +566,11 @@
 	<category>
 		<![CDATA[Internet]]>
 	</category>
-	<guid isPermaLink="false">http://kemnet.co.ke/?p=15603</guid>
+	<guid isPermaLink="false">/?p=15603</guid>
 
 	<description>
 		<![CDATA[<p>Understanding and optimizing your internet connection Have you ever found yourself frustrated by slow-loading websites or buffering videos? Understanding internet speed can help alleviate these annoyances and ensure a smoother online experience. In this guide, we&#8217;ll delve into the world of internet speed, exploring what it is, how it works, and what factors can affect</p>
-<p>The post <a href="https://kemnet.co.ke/how-to-optimize-your-wifi/">How to optimize your WiFi</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+<p>The post <a href="/how-to-optimize-your-wifi/">How to optimize your WiFi</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</description>
 	<content:encoded>
@@ -623,19 +623,19 @@
 				</div>
 					</div>
 				</div>
-				</div><p>The post <a href="https://kemnet.co.ke/how-to-optimize-your-wifi/">How to optimize your WiFi</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+				</div><p>The post <a href="/how-to-optimize-your-wifi/">How to optimize your WiFi</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</content:encoded>
 
-	<wfw:commentRss>https://kemnet.co.ke/how-to-optimize-your-wifi/feed/</wfw:commentRss>
+	<wfw:commentRss>/how-to-optimize-your-wifi/feed/</wfw:commentRss>
 	<slash:comments>0</slash:comments>
 
 
 </item>
 <item>
 	<title>How to choose a domain name</title>
-	<link>https://kemnet.co.ke/how-to-choose-a-domain-name/</link>
-	<comments>https://kemnet.co.ke/how-to-choose-a-domain-name/#respond</comments>
+	<link>/how-to-choose-a-domain-name/</link>
+	<comments>/how-to-choose-a-domain-name/#respond</comments>
 
 	<dc:creator>
 		<![CDATA[Patton]]>
@@ -647,11 +647,11 @@
 	<category>
 		<![CDATA[website]]>
 	</category>
-	<guid isPermaLink="false">http://kemnet.co.ke/?p=15577</guid>
+	<guid isPermaLink="false">/?p=15577</guid>
 
 	<description>
 		<![CDATA[<p>How to choose a domain name, 6 Expert tips Choosing the right domain name is crucial for your website&#8217;s success. Let&#8217;s dive into six expert tips to ensure you pick the perfect website name. Tips for Choosing the Right Domain Name: Keep it Simple: Aim for a domain name that is easy to spell, pronounce,</p>
-<p>The post <a href="https://kemnet.co.ke/how-to-choose-a-domain-name/">How to choose a domain name</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+<p>The post <a href="/how-to-choose-a-domain-name/">How to choose a domain name</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</description>
 	<content:encoded>
@@ -684,24 +684,24 @@
 				</div>
 				<div class="elementor-element elementor-element-e6d3eb5 elementor-widget elementor-widget-text-editor" data-id="e6d3eb5" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>Your domain name is the gateway to your online presence. By following these expert tips, you can select a domain name that reflects your brand, attracts visitors, and sets you up for success in the digital world. We&#8217;ll help you get&nbsp;a new fresh domain, tap here &#8211;&nbsp;<strong><a href="http://domains.kemnet.co.ke/">GET A DOMAIN</a></strong> Happy domain hunting!</p>
-<p>Your perfect domain name awaits! <a href="http://domains.kemnet.co.ke/"><b>TAKE ME THERE</b></a></p>								</div>
+									<p>Your domain name is the gateway to your online presence. By following these expert tips, you can select a domain name that reflects your brand, attracts visitors, and sets you up for success in the digital world. We&#8217;ll help you get&nbsp;a new fresh domain, tap here &#8211;&nbsp;<strong><a href="/">GET A DOMAIN</a></strong> Happy domain hunting!</p>
+<p>Your perfect domain name awaits! <a href="/"><b>TAKE ME THERE</b></a></p>								</div>
 				</div>
 					</div>
 				</div>
-				</div><p>The post <a href="https://kemnet.co.ke/how-to-choose-a-domain-name/">How to choose a domain name</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+				</div><p>The post <a href="/how-to-choose-a-domain-name/">How to choose a domain name</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</content:encoded>
 
-	<wfw:commentRss>https://kemnet.co.ke/how-to-choose-a-domain-name/feed/</wfw:commentRss>
+	<wfw:commentRss>/how-to-choose-a-domain-name/feed/</wfw:commentRss>
 	<slash:comments>0</slash:comments>
 
 
 </item>
 <item>
 	<title>How to position your Router</title>
-	<link>https://kemnet.co.ke/how-to-position-your-router/</link>
-	<comments>https://kemnet.co.ke/how-to-position-your-router/#respond</comments>
+	<link>/how-to-position-your-router/</link>
+	<comments>/how-to-position-your-router/#respond</comments>
 
 	<dc:creator>
 		<![CDATA[Patton]]>
@@ -710,11 +710,11 @@
 	<category>
 		<![CDATA[Internet]]>
 	</category>
-	<guid isPermaLink="false">http://kemnet.co.ke/?p=15407</guid>
+	<guid isPermaLink="false">/?p=15407</guid>
 
 	<description>
 		<![CDATA[<p>How to position your Router How to position your Router Signal Strength and Beyond: The Importance of Proper Router Antenna Alignment Why is antenna alignment so crucial? Just like focusing a camera, aligning antennas sharpens your Wi-Fi signal. Why is antenna alignment so crucial? 1. Maximizing Coverage: Proper alignment ensures that your Wi-Fi signal reaches</p>
-<p>The post <a href="https://kemnet.co.ke/how-to-position-your-router/">How to position your Router</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+<p>The post <a href="/how-to-position-your-router/">How to position your Router</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</description>
 	<content:encoded>
@@ -804,7 +804,7 @@
 				</div>
 				<div class="elementor-element elementor-element-041d723 elementor-widget elementor-widget-image" data-id="041d723" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img fetchpriority="high" decoding="async" width="1170" height="434" src="https://kemnet.co.ke/wp-content/uploads/2023/10/Screenshot-2023-10-17-134154-1170x434.png" class="attachment-large size-large wp-image-15170" alt="Wi-Fi Signal Distribution" />															</div>
+															<img fetchpriority="high" decoding="async" width="1170" height="434" src="wp-content/uploads/2023/10/Screenshot-2023-10-17-134154-1170x434.png" class="attachment-large size-large wp-image-15170" alt="Wi-Fi Signal Distribution" />															</div>
 				</div>
 					</div>
 		</div>
@@ -889,19 +889,19 @@
 					</div>
 		</div>
 					</div>
-		</section>		</div><p>The post <a href="https://kemnet.co.ke/how-to-position-your-router/">How to position your Router</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+		</section>		</div><p>The post <a href="/how-to-position-your-router/">How to position your Router</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</content:encoded>
 
-	<wfw:commentRss>https://kemnet.co.ke/how-to-position-your-router/feed/</wfw:commentRss>
+	<wfw:commentRss>/how-to-position-your-router/feed/</wfw:commentRss>
 	<slash:comments>0</slash:comments>
 
 
 </item>
 <item>
 	<title>Understanding Redundancy : The Backbone of Reliable Internet</title>
-	<link>https://kemnet.co.ke/understanding-redundancy-the-backbone-of-reliable-internet/</link>
-	<comments>https://kemnet.co.ke/understanding-redundancy-the-backbone-of-reliable-internet/#respond</comments>
+	<link>/understanding-redundancy-the-backbone-of-reliable-internet/</link>
+	<comments>/understanding-redundancy-the-backbone-of-reliable-internet/#respond</comments>
 
 	<dc:creator>
 		<![CDATA[Francis]]>
@@ -910,11 +910,11 @@
 	<category>
 		<![CDATA[Internet]]>
 	</category>
-	<guid isPermaLink="false">http://kemnet.co.ke/?p=15227</guid>
+	<guid isPermaLink="false">/?p=15227</guid>
 
 	<description>
 		<![CDATA[<p>Understanding Redundancy : The Backbone of Reliable Internet Understanding Redundancy: The Backbone of Reliable Internet Understanding Redundancy At KEMNET, we have put in place a robust redundancy strategy. At KEMNET, we have put in place a robust redundancy strategy In an increasingly digital age, reliable internet connectivity is not just a luxury; it&#8217;s a necessity.</p>
-<p>The post <a href="https://kemnet.co.ke/understanding-redundancy-the-backbone-of-reliable-internet/">Understanding Redundancy : The Backbone of Reliable Internet</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+<p>The post <a href="/understanding-redundancy-the-backbone-of-reliable-internet/">Understanding Redundancy : The Backbone of Reliable Internet</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</description>
 	<content:encoded>
@@ -1013,11 +1013,11 @@ Ongoing road constructions, sometimes pose potential threats to the physical net
 </p></div><!-- .section-description --></div><!-- .section-title-wrapper -->				</div>
 				</div>
 					</div>
-				</div>		</div><p>The post <a href="https://kemnet.co.ke/understanding-redundancy-the-backbone-of-reliable-internet/">Understanding Redundancy : The Backbone of Reliable Internet</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+				</div>		</div><p>The post <a href="/understanding-redundancy-the-backbone-of-reliable-internet/">Understanding Redundancy : The Backbone of Reliable Internet</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</content:encoded>
 
-	<wfw:commentRss>https://kemnet.co.ke/understanding-redundancy-the-backbone-of-reliable-internet/feed/
+	<wfw:commentRss>/understanding-redundancy-the-backbone-of-reliable-internet/feed/
 	</wfw:commentRss>
 	<slash:comments>0</slash:comments>
 
@@ -1025,8 +1025,8 @@ Ongoing road constructions, sometimes pose potential threats to the physical net
 </item>
 <item>
 	<title>The Unstoppable Wave of Internet of Things</title>
-	<link>https://kemnet.co.ke/the-unstoppable-wave-of-internet-of-things/</link>
-	<comments>https://kemnet.co.ke/the-unstoppable-wave-of-internet-of-things/#respond</comments>
+	<link>/the-unstoppable-wave-of-internet-of-things/</link>
+	<comments>/the-unstoppable-wave-of-internet-of-things/#respond</comments>
 
 	<dc:creator>
 		<![CDATA[Marvin]]>
@@ -1048,7 +1048,7 @@ Ongoing road constructions, sometimes pose potential threats to the physical net
 
 	<description>
 		<![CDATA[<p>The Unstoppable Wave of Internet of Things What is IOT? The Internet of Things, commonly abbreviated as IoT, may sound complex, but it&#8217;s fundamentally about enhancing daily life by intertwining it with technology. At its core, IoT refers to a network where everyday devices, from your refrigerator to your car, are connected to the internet</p>
-<p>The post <a href="https://kemnet.co.ke/the-unstoppable-wave-of-internet-of-things/">The Unstoppable Wave of Internet of Things</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+<p>The post <a href="/the-unstoppable-wave-of-internet-of-things/">The Unstoppable Wave of Internet of Things</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</description>
 	<content:encoded>
@@ -1171,17 +1171,17 @@ In conclusion, IoT is not just a buzzword; it's a technological revolution that 
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-176e6bf elementor-widget elementor-widget-image" data-id="176e6bf" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="1041" height="694" src="https://kemnet.co.ke/wp-content/uploads/2019/04/port-4-1.jpg" class="attachment-large size-large wp-image-6488" alt="" />															</div>
+															<img decoding="async" width="1041" height="694" src="wp-content/uploads/2019/04/port-4-1.jpg" class="attachment-large size-large wp-image-6488" alt="" />															</div>
 				</div>
 					</div>
 		</div>
 					</div>
 		</section>
-				</div><p>The post <a href="https://kemnet.co.ke/the-unstoppable-wave-of-internet-of-things/">The Unstoppable Wave of Internet of Things</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+				</div><p>The post <a href="/the-unstoppable-wave-of-internet-of-things/">The Unstoppable Wave of Internet of Things</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</content:encoded>
 
-	<wfw:commentRss>https://kemnet.co.ke/the-unstoppable-wave-of-internet-of-things/feed/</wfw:commentRss>
+	<wfw:commentRss>/the-unstoppable-wave-of-internet-of-things/feed/</wfw:commentRss>
 	<slash:comments>0</slash:comments>
 
 
