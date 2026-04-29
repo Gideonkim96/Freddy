@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Patton, Author at Kemnet Technologies Limited</title>
-	<atom:link href="https://kemnet.co.ke/author/patton/feed/" rel="self" type="application/rss+xml" />
-	<link>https://kemnet.co.ke/author/patton/</link>
+	<atom:link href="/author/patton/feed/" rel="self" type="application/rss+xml" />
+	<link>/author/patton/</link>
 	<description>powered by TECHNOLOGY, driven by SERVICE</description>
 	<lastBuildDate>Tue, 21 Jan 2025 10:43:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=6.9</generator>
 
 <image>
-	<url>https://kemnet.co.ke/wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD-32x32.png</url>
 	<title>Patton, Author at Kemnet Technologies Limited</title>
-	<link>https://kemnet.co.ke/author/patton/</link>
+	<link>/author/patton/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>What is Latency</title>
-		<link>https://kemnet.co.ke/what-is-latency/</link>
+		<link>/what-is-latency/</link>
 		
 		<dc:creator><![CDATA[Patton]]></dc:creator>
 		<pubDate>Tue, 14 May 2024 19:32:00 +0000</pubDate>
 				<category><![CDATA[Internet]]></category>
-		<guid isPermaLink="false">http://kemnet.co.ke/?p=15648</guid>
+		<guid isPermaLink="false">/?p=15648</guid>
 
 					<description><![CDATA[<p>What is Latency? Latency refers to the time delay between the initiation of a request and the response to that request. In simpler terms, it&#8217;s the time it takes for data to travel from its source to its destination. This delay can occur for various reasons, including network congestion, distance between servers, and the processing</p>
-<p>The post <a href="https://kemnet.co.ke/what-is-latency/">What is Latency</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+<p>The post <a href="/what-is-latency/">What is Latency</a> appeared first on <a href="/">Kemnet Technologies Limited</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="15648" class="elementor elementor-15648">
 				<div class="elementor-element elementor-element-61bd62b e-flex e-con-boxed e-con e-parent" data-id="61bd62b" data-element_type="container">
@@ -124,7 +124,7 @@
 				</div>
 					</div>
 				</div>
-				</div><p>The post <a href="https://kemnet.co.ke/what-is-latency/">What is Latency</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+				</div><p>The post <a href="/what-is-latency/">What is Latency</a> appeared first on <a href="/">Kemnet Technologies Limited</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -132,17 +132,17 @@
 			</item>
 		<item>
 		<title>What is web hosting</title>
-		<link>https://kemnet.co.ke/what-is-web-hosting/</link>
-					<comments>https://kemnet.co.ke/what-is-web-hosting/#respond</comments>
+		<link>/what-is-web-hosting/</link>
+					<comments>/what-is-web-hosting/#respond</comments>
 		
 		<dc:creator><![CDATA[Patton]]></dc:creator>
 		<pubDate>Sat, 27 Apr 2024 17:27:30 +0000</pubDate>
 				<category><![CDATA[Internet]]></category>
 		<category><![CDATA[website]]></category>
-		<guid isPermaLink="false">http://kemnet.co.ke/?p=15631</guid>
+		<guid isPermaLink="false">/?p=15631</guid>
 
 					<description><![CDATA[<p>Your Website&#8217;s Home on the Internet In the vast landscape of the internet, every website needs a home — a place where its files, images, and data can reside and be accessed by visitors. This virtual real estate is provided by web hosting services. In this article, we&#8217;ll unravel the mystery of web hosting and</p>
-<p>The post <a href="https://kemnet.co.ke/what-is-web-hosting/">What is web hosting</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+<p>The post <a href="/what-is-web-hosting/">What is web hosting</a> appeared first on <a href="/">Kemnet Technologies Limited</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="15631" class="elementor elementor-15631">
 				<div class="elementor-element elementor-element-576266e e-flex e-con-boxed e-con e-parent" data-id="576266e" data-element_type="container">
@@ -242,7 +242,7 @@
 				<div class="elementor-element elementor-element-eed3532 elementor-align-center elementor-widget elementor-widget-button" data-id="eed3532" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://kemnet.co.ke/contact-us/">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="/contact-us/">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon">
 				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path></svg>			</span>
@@ -254,26 +254,26 @@
 				</div>
 					</div>
 				</div>
-				</div><p>The post <a href="https://kemnet.co.ke/what-is-web-hosting/">What is web hosting</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+				</div><p>The post <a href="/what-is-web-hosting/">What is web hosting</a> appeared first on <a href="/">Kemnet Technologies Limited</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://kemnet.co.ke/what-is-web-hosting/feed/</wfw:commentRss>
+					<wfw:commentRss>/what-is-web-hosting/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>How to stay safe online</title>
-		<link>https://kemnet.co.ke/how-to-stay-safe-online/</link>
-					<comments>https://kemnet.co.ke/how-to-stay-safe-online/#respond</comments>
+		<link>/how-to-stay-safe-online/</link>
+					<comments>/how-to-stay-safe-online/#respond</comments>
 		
 		<dc:creator><![CDATA[Patton]]></dc:creator>
 		<pubDate>Sat, 20 Apr 2024 17:32:28 +0000</pubDate>
 				<category><![CDATA[Internet]]></category>
-		<guid isPermaLink="false">http://kemnet.co.ke/?p=15615</guid>
+		<guid isPermaLink="false">/?p=15615</guid>
 
 					<description><![CDATA[<p>Staying Safe Online? In the vast digital landscape of the internet, dangers lurk around every corner, from cybercriminals seeking to steal your personal information to malicious software waiting to infect your devices. But fear not! With a few simple precautions and best practices, you can navigate the digital wild west safely and securely. In this</p>
-<p>The post <a href="https://kemnet.co.ke/how-to-stay-safe-online/">How to stay safe online</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+<p>The post <a href="/how-to-stay-safe-online/">How to stay safe online</a> appeared first on <a href="/">Kemnet Technologies Limited</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="15615" class="elementor elementor-15615">
 				<div class="elementor-element elementor-element-2313876 e-flex e-con-boxed e-con e-parent" data-id="2313876" data-element_type="container">
@@ -406,26 +406,26 @@
 				</div>
 					</div>
 				</div>
-				</div><p>The post <a href="https://kemnet.co.ke/how-to-stay-safe-online/">How to stay safe online</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+				</div><p>The post <a href="/how-to-stay-safe-online/">How to stay safe online</a> appeared first on <a href="/">Kemnet Technologies Limited</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://kemnet.co.ke/how-to-stay-safe-online/feed/</wfw:commentRss>
+					<wfw:commentRss>/how-to-stay-safe-online/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>How to optimize your WiFi</title>
-		<link>https://kemnet.co.ke/how-to-optimize-your-wifi/</link>
-					<comments>https://kemnet.co.ke/how-to-optimize-your-wifi/#respond</comments>
+		<link>/how-to-optimize-your-wifi/</link>
+					<comments>/how-to-optimize-your-wifi/#respond</comments>
 		
 		<dc:creator><![CDATA[Patton]]></dc:creator>
 		<pubDate>Sat, 13 Apr 2024 17:29:12 +0000</pubDate>
 				<category><![CDATA[Internet]]></category>
-		<guid isPermaLink="false">http://kemnet.co.ke/?p=15603</guid>
+		<guid isPermaLink="false">/?p=15603</guid>
 
 					<description><![CDATA[<p>Understanding and optimizing your internet connection Have you ever found yourself frustrated by slow-loading websites or buffering videos? Understanding internet speed can help alleviate these annoyances and ensure a smoother online experience. In this guide, we&#8217;ll delve into the world of internet speed, exploring what it is, how it works, and what factors can affect</p>
-<p>The post <a href="https://kemnet.co.ke/how-to-optimize-your-wifi/">How to optimize your WiFi</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+<p>The post <a href="/how-to-optimize-your-wifi/">How to optimize your WiFi</a> appeared first on <a href="/">Kemnet Technologies Limited</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="15603" class="elementor elementor-15603">
 				<div class="elementor-element elementor-element-2005a87 e-flex e-con-boxed e-con e-parent" data-id="2005a87" data-element_type="container">
@@ -476,27 +476,27 @@
 				</div>
 					</div>
 				</div>
-				</div><p>The post <a href="https://kemnet.co.ke/how-to-optimize-your-wifi/">How to optimize your WiFi</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+				</div><p>The post <a href="/how-to-optimize-your-wifi/">How to optimize your WiFi</a> appeared first on <a href="/">Kemnet Technologies Limited</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://kemnet.co.ke/how-to-optimize-your-wifi/feed/</wfw:commentRss>
+					<wfw:commentRss>/how-to-optimize-your-wifi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>How to choose a domain name</title>
-		<link>https://kemnet.co.ke/how-to-choose-a-domain-name/</link>
-					<comments>https://kemnet.co.ke/how-to-choose-a-domain-name/#respond</comments>
+		<link>/how-to-choose-a-domain-name/</link>
+					<comments>/how-to-choose-a-domain-name/#respond</comments>
 		
 		<dc:creator><![CDATA[Patton]]></dc:creator>
 		<pubDate>Sun, 07 Apr 2024 12:11:02 +0000</pubDate>
 				<category><![CDATA[Internet]]></category>
 		<category><![CDATA[website]]></category>
-		<guid isPermaLink="false">http://kemnet.co.ke/?p=15577</guid>
+		<guid isPermaLink="false">/?p=15577</guid>
 
 					<description><![CDATA[<p>How to choose a domain name, 6 Expert tips Choosing the right domain name is crucial for your website&#8217;s success. Let&#8217;s dive into six expert tips to ensure you pick the perfect website name. Tips for Choosing the Right Domain Name: Keep it Simple: Aim for a domain name that is easy to spell, pronounce,</p>
-<p>The post <a href="https://kemnet.co.ke/how-to-choose-a-domain-name/">How to choose a domain name</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+<p>The post <a href="/how-to-choose-a-domain-name/">How to choose a domain name</a> appeared first on <a href="/">Kemnet Technologies Limited</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="15577" class="elementor elementor-15577">
 				<div class="elementor-element elementor-element-2e1c44f e-flex e-con-boxed e-con e-parent" data-id="2e1c44f" data-element_type="container">
@@ -532,26 +532,26 @@
 				</div>
 					</div>
 				</div>
-				</div><p>The post <a href="https://kemnet.co.ke/how-to-choose-a-domain-name/">How to choose a domain name</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+				</div><p>The post <a href="/how-to-choose-a-domain-name/">How to choose a domain name</a> appeared first on <a href="/">Kemnet Technologies Limited</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://kemnet.co.ke/how-to-choose-a-domain-name/feed/</wfw:commentRss>
+					<wfw:commentRss>/how-to-choose-a-domain-name/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>How to position your Router</title>
-		<link>https://kemnet.co.ke/how-to-position-your-router/</link>
-					<comments>https://kemnet.co.ke/how-to-position-your-router/#respond</comments>
+		<link>/how-to-position-your-router/</link>
+					<comments>/how-to-position-your-router/#respond</comments>
 		
 		<dc:creator><![CDATA[Patton]]></dc:creator>
 		<pubDate>Wed, 08 Nov 2023 07:25:04 +0000</pubDate>
 				<category><![CDATA[Internet]]></category>
-		<guid isPermaLink="false">http://kemnet.co.ke/?p=15407</guid>
+		<guid isPermaLink="false">/?p=15407</guid>
 
 					<description><![CDATA[<p>How to position your Router How to position your Router Signal Strength and Beyond: The Importance of Proper Router Antenna Alignment Why is antenna alignment so crucial? Just like focusing a camera, aligning antennas sharpens your Wi-Fi signal. Why is antenna alignment so crucial? 1. Maximizing Coverage: Proper alignment ensures that your Wi-Fi signal reaches</p>
-<p>The post <a href="https://kemnet.co.ke/how-to-position-your-router/">How to position your Router</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+<p>The post <a href="/how-to-position-your-router/">How to position your Router</a> appeared first on <a href="/">Kemnet Technologies Limited</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="15407" class="elementor elementor-15407">
 				<div class="elementor-element elementor-element-7f9b721c e-flex e-con-boxed e-con e-parent" data-id="7f9b721c" data-element_type="container">
@@ -639,7 +639,7 @@
 				</div>
 				<div class="elementor-element elementor-element-041d723 elementor-widget elementor-widget-image" data-id="041d723" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img fetchpriority="high" decoding="async" width="1170" height="434" src="https://kemnet.co.ke/wp-content/uploads/2023/10/Screenshot-2023-10-17-134154-1170x434.png" class="attachment-large size-large wp-image-15170" alt="Wi-Fi Signal Distribution" />															</div>
+															<img fetchpriority="high" decoding="async" width="1170" height="434" src="/wp-content/uploads/2023/10/Screenshot-2023-10-17-134154-1170x434.png" class="attachment-large size-large wp-image-15170" alt="Wi-Fi Signal Distribution" />															</div>
 				</div>
 					</div>
 		</div>
@@ -724,10 +724,10 @@
 					</div>
 		</div>
 					</div>
-		</section>		</div><p>The post <a href="https://kemnet.co.ke/how-to-position-your-router/">How to position your Router</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+		</section>		</div><p>The post <a href="/how-to-position-your-router/">How to position your Router</a> appeared first on <a href="/">Kemnet Technologies Limited</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://kemnet.co.ke/how-to-position-your-router/feed/</wfw:commentRss>
+					<wfw:commentRss>/how-to-position-your-router/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

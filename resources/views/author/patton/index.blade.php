@@ -1,3 +1,11 @@
+@extends('layouts.app')
+
+@section('title', 'Patton, Author at Kemnet Technologies Limited')
+
+@section('content')
+
+@verbatim
+@section('content')
 <!DOCTYPE html>
 <html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" class="no-js no-svg">
 
@@ -13,27 +21,27 @@
 
 	<!-- This site is optimized with the Yoast SEO plugin v24.8.1 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Patton, Author at Kemnet Technologies Limited</title>
-	<link rel="canonical" href="index.html" />
+	<link rel="canonical" href="/author/patton" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="profile" />
 	<meta property="og:title" content="Patton, Author at Kemnet Technologies Limited" />
-	<meta property="og:url" content="index.html" />
+	<meta property="og:url" content="index.blade.php" />
 	<meta property="og:site_name" content="Kemnet Technologies Limited" />
 	<meta property="og:image"
 		content="https://secure.gravatar.com/avatar/4d8af0c88c97fcf6ca6aca755cfeb2d6206e913801c566e6e3751d7522131da9?s=500&amp;d=mm&amp;r=g" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<script type="application/ld+json"
-		class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"ProfilePage","@id":"/author/patton/","url":"/author/patton/","name":"Patton, Author at Kemnet Technologies Limited","isPartOf":{"@id":"/#website"},"primaryImageOfPage":{"@id":"/author/patton/#primaryimage"},"image":{"@id":"/author/patton/#primaryimage"},"thumbnailUrl":"wp-content/uploads/2024/05/What-is-latency-1.png","breadcrumb":{"@id":"/author/patton/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["/author/patton/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"/author/patton/#primaryimage","url":"wp-content/uploads/2024/05/What-is-latency-1.png","contentUrl":"wp-content/uploads/2024/05/What-is-latency-1.png","width":1920,"height":1080,"caption":"Internet Latency"},{"@type":"BreadcrumbList","@id":"/author/patton/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"/"},{"@type":"ListItem","position":2,"name":"Archives for Patton"}]},{"@type":"WebSite","@id":"/#website","url":"/","name":"Kemnet Technologies Limited","description":"powered by TECHNOLOGY, driven by SERVICE","publisher":{"@id":"/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"/#organization","name":"Kemnet Technologies Limited","url":"/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"/#/schema/logo/image/","url":"wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD.png","contentUrl":"wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD.png","width":512,"height":512,"caption":"Kemnet Technologies Limited"},"image":{"@id":"/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/KemnetLtd","https://www.linkedin.com/company/kemnetltd/","https://www.instagram.com/kemnet_ltd/"]},{"@type":"Person","@id":"/#/schema/person/4218f1e7a4692843b33b48685006abfc","name":"Patton","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/4d8af0c88c97fcf6ca6aca755cfeb2d6206e913801c566e6e3751d7522131da9?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/4d8af0c88c97fcf6ca6aca755cfeb2d6206e913801c566e6e3751d7522131da9?s=96&d=mm&r=g","caption":"Patton"},"mainEntityOfPage":{"@id":"/author/patton/"}}]}</script>
+		class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"ProfilePage","@id":"/author/patton/","url":"/author/patton/","name":"Patton, Author at Kemnet Technologies Limited","isPartOf":{"@id":"/#website"},"primaryImageOfPage":{"@id":"/author/patton/#primaryimage"},"image":{"@id":"/author/patton/#primaryimage"},"thumbnailUrl":"/wp-content/uploads/2024/05/What-is-latency-1.png","breadcrumb":{"@id":"/author/patton/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["/author/patton/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"/author/patton/#primaryimage","url":"/wp-content/uploads/2024/05/What-is-latency-1.png","contentUrl":"/wp-content/uploads/2024/05/What-is-latency-1.png","width":1920,"height":1080,"caption":"Internet Latency"},{"@type":"BreadcrumbList","@id":"/author/patton/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"/"},{"@type":"ListItem","position":2,"name":"Archives for Patton"}]},{"@type":"WebSite","@id":"/#website","url":"/","name":"Kemnet Technologies Limited","description":"powered by TECHNOLOGY, driven by SERVICE","publisher":{"@id":"/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"/#organization","name":"Kemnet Technologies Limited","url":"/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"/#/schema/logo/image/","url":"/wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD.png","contentUrl":"/wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD.png","width":512,"height":512,"caption":"Kemnet Technologies Limited"},"image":{"@id":"/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/KemnetLtd","https://www.linkedin.com/company/kemnetltd/","https://www.instagram.com/kemnet_ltd/"]},{"@type":"Person","@id":"/#/schema/person/4218f1e7a4692843b33b48685006abfc","name":"Patton","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/4d8af0c88c97fcf6ca6aca755cfeb2d6206e913801c566e6e3751d7522131da9?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/4d8af0c88c97fcf6ca6aca755cfeb2d6206e913801c566e6e3751d7522131da9?s=96&d=mm&r=g","caption":"Patton"},"mainEntityOfPage":{"@id":"/author/patton/"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
-	<link rel='dns-prefetch' href='/' />
+	<link rel='dns-prefetch' href='/author/patton' />
 	<link rel="alternate" type="application/rss+xml" title="Kemnet Technologies Limited &raquo; Feed"
-		href="../../feed/index.html" />
+		href="/feed" />
 	<link rel="alternate" type="application/rss+xml" title="Kemnet Technologies Limited &raquo; Comments Feed"
-		href="../../comments/feed/index.html" />
+		href="/comments/feed" />
 	<link rel="alternate" type="application/rss+xml" title="Kemnet Technologies Limited &raquo; Posts by Patton Feed"
-		href="feed/index.html" />
+		href="/feed" />
 	<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
 		img:is([sizes=auto i], [sizes^="auto," i]) {
 			contain-intrinsic-size: 3000px 1500px
@@ -42,16 +50,16 @@
 		/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
 	</style>
 	<link rel='stylesheet' id='ht_ctc_main_css-css'
-		href='../../wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/css/main.css' type='text/css'
+		href='/wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/css/main.css' type='text/css'
 		media='all' />
 	<link rel='stylesheet' id='image-hover-css'
-		href='../../wp-content/plugins/satenet-core/elementor-supports/assets/css/image-hover.min.css' type='text/css'
+		href='/wp-content/plugins/satenet-core/elementor-supports/assets/css/image-hover.min.css' type='text/css'
 		media='all' />
 	<link rel='stylesheet' id='font-awesome-css'
-		href='../../wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css' type='text/css'
+		href='/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css' type='text/css'
 		media='all' />
 	<link rel='stylesheet' id='satenet-core-style-css'
-		href='../../wp-content/plugins/satenet-core/elementor-supports/assets/css/style.css' type='text/css'
+		href='/wp-content/plugins/satenet-core/elementor-supports/assets/css/style.css' type='text/css'
 		media='all' />
 	<style id='classic-theme-styles-inline-css' type='text/css'>
 		/*! This file is auto-generated */
@@ -71,17 +79,17 @@
 			text-decoration: none
 		}
 
-		/*# sourceURL=wp-includes/css/classic-themes.min.css */
+		/*# sourceURL=/wp-includes/css/classic-themes.min.css */
 	</style>
 	<link rel='stylesheet' id='contact-form-7-css'
-		href='../../wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+		href='/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
 	<link rel='stylesheet' id='woocommerce-layout-css'
-		href='../../wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css' type='text/css' media='all' />
+		href='/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css' type='text/css' media='all' />
 	<link rel='stylesheet' id='woocommerce-smallscreen-css'
-		href='../../wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css' type='text/css'
+		href='/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css' type='text/css'
 		media='only screen and (max-width: 768px)' />
 	<link rel='stylesheet' id='woocommerce-general-css'
-		href='../../wp-content/plugins/woocommerce/assets/css/woocommerce.css' type='text/css' media='all' />
+		href='/wp-content/plugins/woocommerce/assets/css/woocommerce.css' type='text/css' media='all' />
 	<style id='woocommerce-inline-inline-css' type='text/css'>
 		.woocommerce form .form-row .required {
 			visibility: visible;
@@ -89,17 +97,17 @@
 
 		/*# sourceURL=woocommerce-inline-inline-css */
 	</style>
-	<link rel='stylesheet' id='brands-styles-css' href='../../wp-content/plugins/woocommerce/assets/css/brands.css'
+	<link rel='stylesheet' id='brands-styles-css' href='/wp-content/plugins/woocommerce/assets/css/brands.css'
 		type='text/css' media='all' />
 	<link rel='stylesheet' id='bootstrap-css'
-		href='../../wp-content/themes/satenet-wp/satenet/assets/css/bootstrap.min.css' type='text/css' media='all' />
+		href='/wp-content/themes/satenet-wp/satenet/assets/css/bootstrap.min.css' type='text/css' media='all' />
 	<link rel='stylesheet' id='themify-icons-css'
-		href='../../wp-content/themes/satenet-wp/satenet/assets/css/themify-icons.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='animate-css' href='../../wp-content/themes/satenet-wp/satenet/assets/css/animate.min.css'
+		href='/wp-content/themes/satenet-wp/satenet/assets/css/themify-icons.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='animate-css' href='/wp-content/themes/satenet-wp/satenet/assets/css/animate.min.css'
 		type='text/css' media='all' />
 	<link rel='stylesheet' id='elementor-frontend-css'
-		href='../../wp-content/plugins/elementor/assets/css/frontend.min.css' type='text/css' media='all' />
-	<link rel='stylesheet' id='satenet-style-css' href='../../wp-content/themes/satenet-wp/satenet/style.css'
+		href='/wp-content/plugins/elementor/assets/css/frontend.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='satenet-style-css' href='/wp-content/themes/satenet-wp/satenet/style.css'
 		type='text/css' media='all' />
 	<style id='satenet-style-inline-css' type='text/css'>
 		body {
@@ -536,7 +544,7 @@
 
 		.satenet-single-post .page-title-wrap-inner {
 			color: #ffffff;
-			background-image: url(../../wp-content/uploads/2019/11/page-title-bgn.jpg);
+			background-image: url(/wp-content/uploads/2019/11/page-title-bgn.jpg);
 			background-repeat: no-repeat;
 			background-position: center center;
 			background-size: cover;
@@ -562,7 +570,7 @@
 
 		.satenet-blog .page-title-wrap-inner {
 			color: #ffffff;
-			background-image: url(wp-content/uploads/2024/06/page-title-bgn.jpg);
+			background-image: url(/wp-content/uploads/2024/06/page-title-bgn.jpg);
 			background-repeat: no-repeat;
 			background-position: center center;
 			background-size: cover
@@ -586,7 +594,7 @@
 
 		.satenet-page .page-title-wrap-inner {
 			color: #ffffff;
-			background-image: url(wp-content/uploads/2019/11/page-title-bgn.jpg);
+			background-image: url(/wp-content/uploads/2019/11/page-title-bgn.jpg);
 			background-repeat: no-repeat;
 			background-position: center center;
 			background-size: cover;
@@ -643,7 +651,7 @@
 
 		.satenet-single-product .page-title-wrap-inner {
 			color: #ffffff;
-			background-image: url(wp-content/uploads/2019/11/page-title-bgn.jpg);
+			background-image: url(/wp-content/uploads/2019/11/page-title-bgn.jpg);
 			background-repeat: no-repeat;
 			background-position: center center;
 			background-size: cover;
@@ -727,7 +735,7 @@
 
 		.site-footer {
 			background-color: #004682;
-			background-image: url(wp-content/uploads/2020/01/pattern-1.jpg);
+			background-image: url(/wp-content/uploads/2020/01/pattern-1.jpg);
 			background-repeat: no-repeat;
 			background-position: center center;
 			background-size: cover
@@ -1398,7 +1406,7 @@
 		}
 
 		.testimonial-list .testimonial-list-item .testimonial-excerpt::before {
-			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
+			background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
 		}
 
 		.events-date {
@@ -1735,7 +1743,7 @@
 		}
 
 		.ct-lt .feature-box-inner>*.feature-box-btn a::before {
-			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
+			background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
 		}
 
 		[class^='imghvr-shutter-out-']:before,
@@ -1888,7 +1896,7 @@
 		}
 
 		select.wpcf7-form-control {
-			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
+			background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
 		}
 
 		.content-carousel-wrapper .owl-nav>*:hover {
@@ -2006,7 +2014,7 @@
 		}
 
 		.woo-top-meta select {
-			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
+			background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
 		}
 
 		.woocommerce ul.products li.product .loop-product-wrap .woo-thumb-wrap .product-icons-pack>a {
@@ -2689,7 +2697,7 @@
 		}
 
 		.testimonial-list .testimonial-list-item .testimonial-excerpt::before {
-			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
+			background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
 		}
 
 		.events-date {
@@ -3026,7 +3034,7 @@
 		}
 
 		.ct-lt .feature-box-inner>*.feature-box-btn a::before {
-			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
+			background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
 		}
 
 		[class^='imghvr-shutter-out-']:before,
@@ -3179,7 +3187,7 @@
 		}
 
 		select.wpcf7-form-control {
-			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
+			background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
 		}
 
 		.content-carousel-wrapper .owl-nav>*:hover {
@@ -3297,7 +3305,7 @@
 		}
 
 		.woo-top-meta select {
-			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
+			background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
 		}
 
 		.woocommerce ul.products li.product .loop-product-wrap .woo-thumb-wrap .product-icons-pack>a {
@@ -3980,7 +3988,7 @@
 		}
 
 		.testimonial-list .testimonial-list-item .testimonial-excerpt::before {
-			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
+			background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
 		}
 
 		.events-date {
@@ -4317,7 +4325,7 @@
 		}
 
 		.ct-lt .feature-box-inner>*.feature-box-btn a::before {
-			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
+			background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
 		}
 
 		[class^='imghvr-shutter-out-']:before,
@@ -4470,7 +4478,7 @@
 		}
 
 		select.wpcf7-form-control {
-			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
+			background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
 		}
 
 		.content-carousel-wrapper .owl-nav>*:hover {
@@ -4588,7 +4596,7 @@
 		}
 
 		.woo-top-meta select {
-			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
+			background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
 		}
 
 		.woocommerce ul.products li.product .loop-product-wrap .woo-thumb-wrap .product-icons-pack>a {
@@ -5271,7 +5279,7 @@
 		}
 
 		.testimonial-list .testimonial-list-item .testimonial-excerpt::before {
-			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
+			background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
 		}
 
 		.events-date {
@@ -5608,7 +5616,7 @@
 		}
 
 		.ct-lt .feature-box-inner>*.feature-box-btn a::before {
-			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
+			background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
 		}
 
 		[class^='imghvr-shutter-out-']:before,
@@ -5761,7 +5769,7 @@
 		}
 
 		select.wpcf7-form-control {
-			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
+			background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
 		}
 
 		.content-carousel-wrapper .owl-nav>*:hover {
@@ -5879,7 +5887,7 @@
 		}
 
 		.woo-top-meta select {
-			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
+			background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
 		}
 
 		.woocommerce ul.products li.product .loop-product-wrap .woo-thumb-wrap .product-icons-pack>a {
@@ -6562,7 +6570,7 @@
 		}
 
 		.testimonial-list .testimonial-list-item .testimonial-excerpt::before {
-			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
+			background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
 		}
 
 		.events-date {
@@ -6899,7 +6907,7 @@
 		}
 
 		.ct-lt .feature-box-inner>*.feature-box-btn a::before {
-			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
+			background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
 		}
 
 		[class^='imghvr-shutter-out-']:before,
@@ -7052,7 +7060,7 @@
 		}
 
 		select.wpcf7-form-control {
-			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
+			background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
 		}
 
 		.content-carousel-wrapper .owl-nav>*:hover {
@@ -7170,7 +7178,7 @@
 		}
 
 		.woo-top-meta select {
-			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
+			background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
 		}
 
 		.woocommerce ul.products li.product .loop-product-wrap .woo-thumb-wrap .product-icons-pack>a {
@@ -7853,7 +7861,7 @@
 		}
 
 		.testimonial-list .testimonial-list-item .testimonial-excerpt::before {
-			background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
+			background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
 		}
 
 		.events-date {
@@ -8144,3 +8152,9 @@
 		.feature-box-wrapper.radius-design:hover,
 		.feature-box-wrapper.radius-design.section-active {
 			background-color
+@endverbatim
+
+@endsection
+
+
+

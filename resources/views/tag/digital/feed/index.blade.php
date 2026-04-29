@@ -3,9 +3,11 @@
 @section('title', 'Digital Archives - Kemnet Technologies Limited')
 
 @section('content')
-	<h2>Digital Tag Feed</h2>
+	@verbatim
+<h2>Digital Tag Feed</h2>
 	<p>powered by TECHNOLOGY, driven by SERVICE</p>
 	<p>This is the digital tag feed for Kemnet Technologies Limited.</p>
+@endverbatim
 @endsection
 <item>
 	<title>The Unstoppable Wave of Internet of Things</title>
@@ -32,7 +34,7 @@
 
 	<description>
 		<![CDATA[<p>The Unstoppable Wave of Internet of Things What is IOT? The Internet of Things, commonly abbreviated as IoT, may sound complex, but it&#8217;s fundamentally about enhancing daily life by intertwining it with technology. At its core, IoT refers to a network where everyday devices, from your refrigerator to your car, are connected to the internet</p>
-<p>The post <a href="/the-unstoppable-wave-of-internet-of-things/">The Unstoppable Wave of Internet of Things</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
+<p>The post <a href="/the-unstoppable-wave-of-internet-of-things">The Unstoppable Wave of Internet of Things</a> appeared first on <a href="/">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</description>
 	<content:encoded>
@@ -155,13 +157,13 @@ In conclusion, IoT is not just a buzzword; it's a technological revolution that 
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-176e6bf elementor-widget elementor-widget-image" data-id="176e6bf" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img fetchpriority="high" decoding="async" width="1041" height="694" src="wp-content/uploads/2019/04/port-4-1.jpg" class="attachment-large size-large wp-image-6488" alt="" />															</div>
+															<img fetchpriority="high" decoding="async" width="1041" height="694" src="/wp-content/uploads/2019/04/port-4-1.jpg" class="attachment-large size-large wp-image-6488" alt="" />															</div>
 				</div>
 					</div>
 		</div>
 					</div>
 		</section>
-				</div><p>The post <a href="/the-unstoppable-wave-of-internet-of-things/">The Unstoppable Wave of Internet of Things</a> appeared first on <a href="">Kemnet Technologies Limited</a>.</p>
+				</div><p>The post <a href="/the-unstoppable-wave-of-internet-of-things">The Unstoppable Wave of Internet of Things</a> appeared first on <a href="/">Kemnet Technologies Limited</a>.</p>
 ]]>
 	</content:encoded>
 

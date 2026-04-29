@@ -102,6 +102,21 @@ Route::prefix('services')->group(function () {
     });
 });
 
+$legacyServiceViews = [
+    'our-services/domains-web-hosting' => 'services.web-cloud-solutions.domains-web-hosting.index',
+    'our-services/ict-consultancy-training' => 'services.ict-consultancy-training.index',
+    'our-services/infrastructure-networking' => 'services.infrastructure-networking.index',
+    'our-services/infrastructure-networking/dark-fiber' => 'services.infrastructure-networking.dark-fiber.index',
+    'our-services/internet-services' => 'services.internet-services.index',
+    'our-services/smart-home-security-solutions' => 'services.smart-home-security-solutions.index',
+    'our-services/software-hardware' => 'services.software-hardware.index',
+    'our-services/web-cloud-solutions' => 'services.web-cloud-solutions.index',
+];
+
+foreach ($legacyServiceViews as $uri => $view) {
+    Route::get('/' . $uri, fn () => view($view));
+}
+
 // Internet services
 Route::get('/kemnet-home-wireless', function () {
     return view('kemnet-home-wireless.index');
@@ -120,3 +135,74 @@ Route::get('/web-and-cloud-services', function () {
 Route::get('/kemnet-home-fiber-wireless', function () {
     return view('kemnet-home-fiber-wireless.index');
 });
+Route::get('/shop', function () {
+    return view('services.index');
+});
+
+Route::get('/kemnet.co.ke/{path?}', function (?string $path = '') {
+    $path = trim((string) $path, '/');
+
+    if ($path === '') {
+        return view('index');
+    }
+
+    $viewPath = resource_path('views/' . $path . '/index.blade.php');
+
+    if (file_exists($viewPath)) {
+        return view()->file($viewPath);
+    }
+
+    abort(404);
+})->where('path', '.*');
+
+// Blog and content pages
+Route::get('/feed', function () {
+    return view('feed.index');
+});
+Route::get('/testimonial', function () {
+    return view('testimonial.index');
+});
+
+// How-to guides
+Route::get('/how-to-choose-a-domain-name', function () {
+    return view('how-to-choose-a-domain-name.index');
+});
+Route::get('/how-to-optimize-your-wifi', function () {
+    return view('how-to-optimize-your-wifi.index');
+});
+Route::get('/how-to-position-your-router', function () {
+    return view('how-to-position-your-router.index');
+});
+Route::get('/how-to-stay-safe-online', function () {
+    return view('how-to-stay-safe-online.index');
+});
+
+// Information pages
+Route::get('/what-is-latency', function () {
+    return view('what-is-latency.index');
+});
+Route::get('/what-is-web-hosting', function () {
+    return view('what-is-web-hosting.index');
+});
+Route::get('/the-unstoppable-wave-of-internet-of-things', function () {
+    return view('the-unstoppable-wave-of-internet-of-things.index');
+});
+Route::get('/understanding-redundancy-the-backbone-of-reliable-internet', function () {
+    return view('understanding-redundancy-the-backbone-of-reliable-internet.index');
+});
+
+Route::get('/{path}', function (string $path) {
+    $path = trim($path, '/');
+
+    if ($path === '') {
+        return view('index');
+    }
+
+    $viewPath = resource_path('views/' . $path . '/index.blade.php');
+
+    if (file_exists($viewPath)) {
+        return view()->file($viewPath);
+    }
+
+    abort(404);
+})->where('path', '.*');

@@ -2,19 +2,22 @@
 
 @section('title', 'Kemnet Technologies Limited - Driven by Technology')
 
-@section('content')
+@section('head')
+@verbatim
+<title>Kemnet Technologies Limited - Driven by Technology</title>
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
 img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=wp-img-auto-sizes-contain-inline-css */
 </style>
 <link rel='stylesheet' id='ht_ctc_main_css-css'
-	href='wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/css/main.css' type='text/css' media='all' />
+	href='/wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/css/main.css' type='text/css' media='all' />
 <link rel='stylesheet' id='image-hover-css'
-	href='wp-content/plugins/satenet-core/elementor-supports/assets/css/image-hover.min.css' type='text/css'
+	href='/wp-content/plugins/satenet-core/elementor-supports/assets/css/image-hover.min.css' type='text/css'
 	media='all' />
 <link rel='stylesheet' id='font-awesome-css'
-	href='wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
+	href='/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='satenet-core-style-css'
-	href='wp-content/plugins/satenet-core/elementor-supports/assets/css/style.css' type='text/css' media='all' />
+	href='/wp-content/plugins/satenet-core/elementor-supports/assets/css/style.css' type='text/css' media='all' />
 <style id='classic-theme-styles-inline-css' type='text/css'>
 	/*! This file is auto-generated */
 	.wp-block-button__link {
@@ -33,16 +36,16 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 		text-decoration: none
 	}
 
-	/*# sourceURL=wp-includes/css/classic-themes.min.css */
+	/*# sourceURL=/wp-includes/css/classic-themes.min.css */
 </style>
-<link rel='stylesheet' id='contact-form-7-css' href='wp-content/plugins/contact-form-7/includes/css/styles.css'
+<link rel='stylesheet' id='contact-form-7-css' href='/wp-content/plugins/contact-form-7/includes/css/styles.css'
 	type='text/css' media='all' />
 <link rel='stylesheet' id='woocommerce-layout-css'
-	href='wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css' type='text/css' media='all' />
+	href='/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css' type='text/css' media='all' />
 <link rel='stylesheet' id='woocommerce-smallscreen-css'
-	href='wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css' type='text/css'
+	href='/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css' type='text/css'
 	media='only screen and (max-width: 768px)' />
-<link rel='stylesheet' id='woocommerce-general-css' href='wp-content/plugins/woocommerce/assets/css/woocommerce.css'
+<link rel='stylesheet' id='woocommerce-general-css' href='/wp-content/plugins/woocommerce/assets/css/woocommerce.css'
 	type='text/css' media='all' />
 <style id='woocommerce-inline-inline-css' type='text/css'>
 	.woocommerce form .form-row .required {
@@ -51,17 +54,17 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 	/*# sourceURL=woocommerce-inline-inline-css */
 </style>
-<link rel='stylesheet' id='brands-styles-css' href='wp-content/plugins/woocommerce/assets/css/brands.css'
+<link rel='stylesheet' id='brands-styles-css' href='/wp-content/plugins/woocommerce/assets/css/brands.css'
 	type='text/css' media='all' />
-<link rel='stylesheet' id='bootstrap-css' href='wp-content/themes/satenet-wp/satenet/assets/css/bootstrap.min.css'
+<link rel='stylesheet' id='bootstrap-css' href='/wp-content/themes/satenet-wp/satenet/assets/css/bootstrap.min.css'
 	type='text/css' media='all' />
-<link rel='stylesheet' id='themify-icons-css' href='wp-content/themes/satenet-wp/satenet/assets/css/themify-icons.css'
+<link rel='stylesheet' id='themify-icons-css' href='/wp-content/themes/satenet-wp/satenet/assets/css/themify-icons.css'
 	type='text/css' media='all' />
-<link rel='stylesheet' id='animate-css' href='wp-content/themes/satenet-wp/satenet/assets/css/animate.min.css'
+<link rel='stylesheet' id='animate-css' href='/wp-content/themes/satenet-wp/satenet/assets/css/animate.min.css'
 	type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-frontend-css' href='wp-content/plugins/elementor/assets/css/frontend.min.css'
+<link rel='stylesheet' id='elementor-frontend-css' href='/wp-content/plugins/elementor/assets/css/frontend.min.css'
 	type='text/css' media='all' />
-<link rel='stylesheet' id='satenet-style-css' href='wp-content/themes/satenet-wp/satenet/style.css' type='text/css'
+<link rel='stylesheet' id='satenet-style-css' href='/wp-content/themes/satenet-wp/satenet/style.css' type='text/css'
 	media='all' />
 <style id='satenet-style-inline-css' type='text/css'>
 	body {
@@ -498,7 +501,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 	.satenet-single-post .page-title-wrap-inner {
 		color: #ffffff;
-		background-image: url(wp-content/uploads/2019/11/page-title-bgn.jpg);
+		background-image: url(/wp-content/uploads/2019/11/page-title-bgn.jpg);
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: cover;
@@ -524,7 +527,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 	.satenet-blog .page-title-wrap-inner {
 		color: #ffffff;
-		background-image: url(wp-content/uploads/2024/06/page-title-bgn.jpg);
+		background-image: url(/wp-content/uploads/2024/06/page-title-bgn.jpg);
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: cover
@@ -548,7 +551,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 	.satenet-page .page-title-wrap-inner {
 		color: #ffffff;
-		background-image: url(wp-content/uploads/2019/11/page-title-bgn.jpg);
+		background-image: url(/wp-content/uploads/2019/11/page-title-bgn.jpg);
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: cover;
@@ -605,7 +608,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 	.satenet-single-product .page-title-wrap-inner {
 		color: #ffffff;
-		background-image: url(wp-content/uploads/2019/11/page-title-bgn.jpg);
+		background-image: url(/wp-content/uploads/2019/11/page-title-bgn.jpg);
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: cover;
@@ -689,7 +692,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 	.site-footer {
 		background-color: #004682;
-		background-image: url(wp-content/uploads/2020/01/pattern-1.jpg);
+		background-image: url(/wp-content/uploads/2020/01/pattern-1.jpg);
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: cover
@@ -1360,7 +1363,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 	}
 
 	.testimonial-list .testimonial-list-item .testimonial-excerpt::before {
-		background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
+		background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/quote.png)
 	}
 
 	.events-date {
@@ -1701,7 +1704,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 	}
 
 	.ct-lt .feature-box-inner>*.feature-box-btn a::before {
-		background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
+		background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/long-arrow.png)
 	}
 
 	[class^='imghvr-shutter-out-']:before,
@@ -1854,7 +1857,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 	}
 
 	select.wpcf7-form-control {
-		background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
+		background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/arrow-select.png)
 	}
 
 	.content-carousel-wrapper .owl-nav>*:hover {
@@ -1972,7 +1975,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 	}
 
 	.woo-top-meta select {
-		background-image: url(wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
+		background-image: url(/wp-content/themes/satenet-wp/satenet/assets/images/icon-select.png)
 	}
 
 	.woocommerce ul.products li.product .loop-product-wrap .woo-thumb-wrap .product-icons-pack>a {
@@ -2114,7 +2117,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 		color: #897eb5
 	}
 
-	@media only screen and (max-width:991px) {
+	@@media only screen and (max-width:991px) {
 		.bg-after-991 {
 			background: #897eb5
 		}
@@ -2197,25 +2200,25 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 	/*# sourceURL=satenet-style-inline-css */
 </style>
-<link rel='stylesheet' id='satenet-woo-style-css' href='wp-content/themes/satenet-wp/satenet/assets/css/woo-styles.css'
+<link rel='stylesheet' id='satenet-woo-style-css' href='/wp-content/themes/satenet-wp/satenet/assets/css/woo-styles.css'
 	type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-6-css' href='wp-content/uploads/elementor/css/post-6.css'
+<link rel='stylesheet' id='elementor-post-6-css' href='/wp-content/uploads/elementor/css/post-6.css'
 	type='text/css' media='all' />
-<link rel='stylesheet' id='e-shapes-css' href='wp-content/plugins/elementor/assets/css/conditionals/shapes.min.css'
+<link rel='stylesheet' id='e-shapes-css' href='/wp-content/plugins/elementor/assets/css/conditionals/shapes.min.css'
 	type='text/css' media='all' />
 <link rel='stylesheet' id='magnific-popup-css'
-	href='wp-content/plugins/satenet-core/elementor-supports/assets/css/magnific-popup.min.css' type='text/css'
+	href='/wp-content/plugins/satenet-core/elementor-supports/assets/css/magnific-popup.min.css' type='text/css'
 	media='all' />
-<link rel='stylesheet' id='widget-image-css' href='wp-content/plugins/elementor/assets/css/widget-image.min.css'
+<link rel='stylesheet' id='widget-image-css' href='/wp-content/plugins/elementor/assets/css/widget-image.min.css'
 	type='text/css' media='all' />
-<link rel='stylesheet' id='owl-carousel-css' href='wp-content/themes/satenet-wp/satenet/assets/css/owl-carousel.min.css'
+<link rel='stylesheet' id='owl-carousel-css' href='/wp-content/themes/satenet-wp/satenet/assets/css/owl-carousel.min.css'
 	type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-6829-css'
-	href='wp-content/uploads/elementor/css/post-6829.css' type='text/css' media='all' />
+	href='/wp-content/uploads/elementor/css/post-6829.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-gf-local-roboto-css'
-	href='wp-content/uploads/elementor/google-fonts/css/roboto.css' type='text/css' media='all' />
+	href='/wp-content/uploads/elementor/google-fonts/css/roboto.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-gf-local-robotoslab-css'
-	href='wp-content/uploads/elementor/google-fonts/css/robotoslab.css' type='text/css'
+	href='/wp-content/uploads/elementor/google-fonts/css/robotoslab.css' type='text/css'
 	media='all' />
 <script type="text/javascript" id="woocommerce-google-analytics-integration-gtag-js-after">
 	/* <![CDATA[ */
@@ -2235,11 +2238,11 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <script type="text/javascript" id="wpo_min-header-0-js-extra">
 	/* <![CDATA[ */
 	var _ckyConfig = { "_ipData": [], "_assetsURL": "/wp-content/plugins/cookie-law-info/lite/frontend/images/", "_publicURL": "", "_expiry": "365", "_categories": [{ "name": "Necessary", "slug": "necessary", "isNecessary": true, "ccpaDoNotSell": true, "cookies": [], "active": true, "defaultConsent": { "gdpr": true, "ccpa": true } }, { "name": "Functional", "slug": "functional", "isNecessary": false, "ccpaDoNotSell": true, "cookies": [], "active": true, "defaultConsent": { "gdpr": false, "ccpa": false } }, { "name": "Analytics", "slug": "analytics", "isNecessary": false, "ccpaDoNotSell": true, "cookies": [], "active": true, "defaultConsent": { "gdpr": false, "ccpa": false } }, { "name": "Performance", "slug": "performance", "isNecessary": false, "ccpaDoNotSell": true, "cookies": [], "active": true, "defaultConsent": { "gdpr": false, "ccpa": false } }, { "name": "Advertisement", "slug": "advertisement", "isNecessary": false, "ccpaDoNotSell": true, "cookies": [], "active": true, "defaultConsent": { "gdpr": false, "ccpa": false } }], "_activeLaw": "gdpr", "_rootDomain": "", "_block": "1", "_showBanner": "1", "_bannerConfig": { "settings": { "type": "box", "preferenceCenterType": "popup", "position": "bottom-left", "applicableLaw": "gdpr" }, "behaviours": { "reloadBannerOnAccept": false, "loadAnalyticsByDefault": false, "animations": { "onLoad": "animate", "onHide": "sticky" } }, "config": { "revisitConsent": { "status": true, "tag": "revisit-consent", "position": "bottom-left", "meta": { "url": "#" }, "styles": { "background-color": "#0056A7" }, "elements": { "title": { "type": "text", "tag": "revisit-consent-title", "status": true, "styles": { "color": "#0056a7" } } } }, "preferenceCenter": { "toggle": { "status": true, "tag": "detail-category-toggle", "type": "toggle", "states": { "active": { "styles": { "background-color": "#1863DC" } }, "inactive": { "styles": { "background-color": "#D0D5D2" } } } } }, "categoryPreview": { "status": false, "toggle": { "status": true, "tag": "detail-category-preview-toggle", "type": "toggle", "states": { "active": { "styles": { "background-color": "#1863DC" } }, "inactive": { "styles": { "background-color": "#D0D5D2" } } } } }, "videoPlaceholder": { "status": true, "styles": { "background-color": "#000000", "border-color": "#000000", "color": "#ffffff" } }, "readMore": { "status": false, "tag": "readmore-button", "type": "link", "meta": { "noFollow": true, "newTab": true }, "styles": { "color": "#1863DC", "background-color": "transparent", "border-color": "transparent" } }, "auditTable": { "status": true }, "optOption": { "status": true, "toggle": { "status": true, "tag": "optout-option-toggle", "type": "toggle", "states": { "active": { "styles": { "background-color": "#1863dc" } }, "inactive": { "styles": { "background-color": "#FFFFFF" } } } } } } }, "_version": "3.2.9", "_logConsent": "1", "_tags": [{ "tag": "accept-button", "styles": { "color": "#FFFFFF", "background-color": "#1863DC", "border-color": "#1863DC" } }, { "tag": "reject-button", "styles": { "color": "#1863DC", "background-color": "transparent", "border-color": "#1863DC" } }, { "tag": "settings-button", "styles": { "color": "#1863DC", "background-color": "transparent", "border-color": "#1863DC" } }, { "tag": "readmore-button", "styles": { "color": "#1863DC", "background-color": "transparent", "border-color": "transparent" } }, { "tag": "donotsell-button", "styles": { "color": "#1863DC", "background-color": "transparent", "border-color": "transparent" } }, { "tag": "accept-button", "styles": { "color": "#FFFFFF", "background-color": "#1863DC", "border-color": "#1863DC" } }, { "tag": "revisit-consent", "styles": { "background-color": "#0056A7" } }], "_shortCodes": [{ "key": "cky_readmore", "content": "\u003Ca href=\"#\" class=\"cky-policy\" aria-label=\"Cookie Policy\" target=\"_blank\" rel=\"noopener\" data-cky-tag=\"readmore-button\"\u003ECookie Policy\u003C/a\u003E", "tag": "readmore-button", "status": false, "attributes": { "rel": "nofollow", "target": "_blank" } }, { "key": "cky_show_desc", "content": "\u003Cbutton class=\"cky-show-desc-btn\" data-cky-tag=\"show-desc-button\" aria-label=\"Show more\"\u003EShow more\u003C/button\u003E", "tag": "show-desc-button", "status": true, "attributes": [] }, { "key": "cky_hide_desc", "content": "\u003Cbutton class=\"cky-show-desc-btn\" data-cky-tag=\"hide-desc-button\" aria-label=\"Show less\"\u003EShow less\u003C/button\u003E", "tag": "hide-desc-button", "status": true, "attributes": [] }, { "key": "cky_category_toggle_label", "content": "[cky_@{{status}}_category_label] [cky_preference_@{{category_slug}}_title]", "tag": "", "status": true, "attributes": [] }, { "key": "cky_enable_category_label", "content": "Enable", "tag": "", "status": true, "attributes": [] }, { "key": "cky_disable_category_label", "content": "Disable", "tag": "", "status": true, "attributes": [] }, { "key": "cky_video_placeholder", "content": "\u003Cdiv class=\"video-placeholder-normal\" data-cky-tag=\"video-placeholder\" id=\"[UNIQUEID]\"\u003E\u003Cp class=\"video-placeholder-text-normal\" data-cky-tag=\"placeholder-title\"\u003EPlease accept cookies to access this content\u003C/p\u003E\u003C/div\u003E", "tag": "", "status": true, "attributes": [] }, { "key": "cky_enable_optout_label", "content": "Enable", "tag": "", "status": true, "attributes": [] }, { "key": "cky_disable_optout_label", "content": "Disable", "tag": "", "status": true, "attributes": [] }, { "key": "cky_optout_toggle_label", "content": "[cky_@{{status}}_optout_label] [cky_optout_option_title]", "tag": "", "status": true, "attributes": [] }, { "key": "cky_optout_option_title", "content": "Do Not Sell or Share My Personal Information", "tag": "", "status": true, "attributes": [] }, { "key": "cky_optout_close_label", "content": "Close", "tag": "", "status": true, "attributes": [] }], "_rtl": "", "_language": "en", "_providersToBlock": [] };
-	var _ckyStyles = { "css": ".cky-overlay{background: #000000; opacity: 0.4; position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 99999999;}.cky-hide{display: none;}.cky-btn-revisit-wrapper{display: flex; align-items: center; justify-content: center; background: #0056a7; width: 45px; height: 45px; border-radius: 50%; position: fixed; z-index: 999999; cursor: pointer;}.cky-revisit-bottom-left{bottom: 15px; left: 15px;}.cky-revisit-bottom-right{bottom: 15px; right: 15px;}.cky-btn-revisit-wrapper .cky-btn-revisit{display: flex; align-items: center; justify-content: center; background: none; border: none; cursor: pointer; position: relative; margin: 0; padding: 0;}.cky-btn-revisit-wrapper .cky-btn-revisit img{max-width: fit-content; margin: 0; height: 30px; width: 30px;}.cky-revisit-bottom-left:hover::before{content: attr(data-tooltip); position: absolute; background: #4e4b66; color: #ffffff; left: calc(100% + 7px); font-size: 12px; line-height: 16px; width: max-content; padding: 4px 8px; border-radius: 4px;}.cky-revisit-bottom-left:hover::after{position: absolute; content: \"\"; border: 5px solid transparent; left: calc(100% + 2px); border-left-width: 0; border-right-color: #4e4b66;}.cky-revisit-bottom-right:hover::before{content: attr(data-tooltip); position: absolute; background: #4e4b66; color: #ffffff; right: calc(100% + 7px); font-size: 12px; line-height: 16px; width: max-content; padding: 4px 8px; border-radius: 4px;}.cky-revisit-bottom-right:hover::after{position: absolute; content: \"\"; border: 5px solid transparent; right: calc(100% + 2px); border-right-width: 0; border-left-color: #4e4b66;}.cky-revisit-hide{display: none;}.cky-consent-container{position: fixed; width: 440px; box-sizing: border-box; z-index: 9999999; border-radius: 6px;}.cky-consent-container .cky-consent-bar{background: #ffffff; border: 1px solid; padding: 20px 26px; box-shadow: 0 -1px 10px 0 #acabab4d; border-radius: 6px;}.cky-box-bottom-left{bottom: 40px; left: 40px;}.cky-box-bottom-right{bottom: 40px; right: 40px;}.cky-box-top-left{top: 40px; left: 40px;}.cky-box-top-right{top: 40px; right: 40px;}.cky-custom-brand-logo-wrapper .cky-custom-brand-logo{width: 100px; height: auto; margin: 0 0 12px 0;}.cky-notice .cky-title{color: #212121; font-weight: 700; font-size: 18px; line-height: 24px; margin: 0 0 12px 0;}.cky-notice-des *,.cky-preference-content-wrapper *,.cky-accordion-header-des *,.cky-gpc-wrapper .cky-gpc-desc *{font-size: 14px;}.cky-notice-des{color: #212121; font-size: 14px; line-height: 24px; font-weight: 400;}.cky-notice-des img{height: 25px; width: 25px;}.cky-consent-bar .cky-notice-des p,.cky-gpc-wrapper .cky-gpc-desc p,.cky-preference-body-wrapper .cky-preference-content-wrapper p,.cky-accordion-header-wrapper .cky-accordion-header-des p,.cky-cookie-des-table li div:last-child p{color: inherit; margin-top: 0; overflow-wrap: break-word;}.cky-notice-des P:last-child,.cky-preference-content-wrapper p:last-child,.cky-cookie-des-table li div:last-child p:last-child,.cky-gpc-wrapper .cky-gpc-desc p:last-child{margin-bottom: 0;}.cky-notice-des a.cky-policy,.cky-notice-des button.cky-policy{font-size: 14px; color: #1863dc; white-space: nowrap; cursor: pointer; background: transparent; border: 1px solid; text-decoration: underline;}.cky-notice-des button.cky-policy{padding: 0;}.cky-notice-des a.cky-policy:focus-visible,.cky-notice-des button.cky-policy:focus-visible,.cky-preference-content-wrapper .cky-show-desc-btn:focus-visible,.cky-accordion-header .cky-accordion-btn:focus-visible,.cky-preference-header .cky-btn-close:focus-visible,.cky-switch input[type=\"checkbox\"]:focus-visible,.cky-footer-wrapper a:focus-visible,.cky-btn:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}.cky-btn:focus:not(:focus-visible),.cky-accordion-header .cky-accordion-btn:focus:not(:focus-visible),.cky-preference-content-wrapper .cky-show-desc-btn:focus:not(:focus-visible),.cky-btn-revisit-wrapper .cky-btn-revisit:focus:not(:focus-visible),.cky-preference-header .cky-btn-close:focus:not(:focus-visible),.cky-consent-bar .cky-banner-btn-close:focus:not(:focus-visible){outline: 0;}button.cky-show-desc-btn:not(:hover):not(:active){color: #1863dc; background: transparent;}button.cky-accordion-btn:not(:hover):not(:active),button.cky-banner-btn-close:not(:hover):not(:active),button.cky-btn-revisit:not(:hover):not(:active),button.cky-btn-close:not(:hover):not(:active){background: transparent;}.cky-consent-bar button:hover,.cky-modal.cky-modal-open button:hover,.cky-consent-bar button:focus,.cky-modal.cky-modal-open button:focus{text-decoration: none;}.cky-notice-btn-wrapper{display: flex; justify-content: flex-start; align-items: center; flex-wrap: wrap; margin-top: 16px;}.cky-notice-btn-wrapper .cky-btn{text-shadow: none; box-shadow: none;}.cky-btn{flex: auto; max-width: 100%; font-size: 14px; font-family: inherit; line-height: 24px; padding: 8px; font-weight: 500; margin: 0 8px 0 0; border-radius: 2px; cursor: pointer; text-align: center; text-transform: none; min-height: 0;}.cky-btn:hover{opacity: 0.8;}.cky-btn-customize{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-btn-reject{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-btn-accept{background: #1863dc; color: #ffffff; border: 2px solid #1863dc;}.cky-btn:last-child{margin-right: 0;}@media (max-width: 576px){.cky-box-bottom-left{bottom: 0; left: 0;}.cky-box-bottom-right{bottom: 0; right: 0;}.cky-box-top-left{top: 0; left: 0;}.cky-box-top-right{top: 0; right: 0;}}@media (max-width: 440px){.cky-box-bottom-left, .cky-box-bottom-right, .cky-box-top-left, .cky-box-top-right{width: 100%; max-width: 100%;}.cky-consent-container .cky-consent-bar{padding: 20px 0;}.cky-custom-brand-logo-wrapper, .cky-notice .cky-title, .cky-notice-des, .cky-notice-btn-wrapper{padding: 0 24px;}.cky-notice-des{max-height: 40vh; overflow-y: scroll;}.cky-notice-btn-wrapper{flex-direction: column; margin-top: 0;}.cky-btn{width: 100%; margin: 10px 0 0 0;}.cky-notice-btn-wrapper .cky-btn-customize{order: 2;}.cky-notice-btn-wrapper .cky-btn-reject{order: 3;}.cky-notice-btn-wrapper .cky-btn-accept{order: 1; margin-top: 16px;}}@media (max-width: 352px){.cky-notice .cky-title{font-size: 16px;}.cky-notice-des *{font-size: 12px;}.cky-notice-des, .cky-btn{font-size: 12px;}}.cky-modal.cky-modal-open{display: flex; visibility: visible; -webkit-transform: translate(-50%, -50%); -moz-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); -o-transform: translate(-50%, -50%); transform: translate(-50%, -50%); top: 50%; left: 50%; transition: all 1s ease;}.cky-modal{box-shadow: 0 32px 68px rgba(0, 0, 0, 0.3); margin: 0 auto; position: fixed; max-width: 100%; background: #ffffff; top: 50%; box-sizing: border-box; border-radius: 6px; z-index: 999999999; color: #212121; -webkit-transform: translate(-50%, 100%); -moz-transform: translate(-50%, 100%); -ms-transform: translate(-50%, 100%); -o-transform: translate(-50%, 100%); transform: translate(-50%, 100%); visibility: hidden; transition: all 0s ease;}.cky-preference-center{max-height: 79vh; overflow: hidden; width: 845px; overflow: hidden; flex: 1 1 0; display: flex; flex-direction: column; border-radius: 6px;}.cky-preference-header{display: flex; align-items: center; justify-content: space-between; padding: 22px 24px; border-bottom: 1px solid;}.cky-preference-header .cky-preference-title{font-size: 18px; font-weight: 700; line-height: 24px;}.cky-preference-header .cky-btn-close{margin: 0; cursor: pointer; vertical-align: middle; padding: 0; background: none; border: none; width: auto; height: auto; min-height: 0; line-height: 0; text-shadow: none; box-shadow: none;}.cky-preference-header .cky-btn-close img{margin: 0; height: 10px; width: 10px;}.cky-preference-body-wrapper{padding: 0 24px; flex: 1; overflow: auto; box-sizing: border-box;}.cky-preference-content-wrapper,.cky-gpc-wrapper .cky-gpc-desc{font-size: 14px; line-height: 24px; font-weight: 400; padding: 12px 0;}.cky-preference-content-wrapper{border-bottom: 1px solid;}.cky-preference-content-wrapper img{height: 25px; width: 25px;}.cky-preference-content-wrapper .cky-show-desc-btn{font-size: 14px; font-family: inherit; color: #1863dc; text-decoration: none; line-height: 24px; padding: 0; margin: 0; white-space: nowrap; cursor: pointer; background: transparent; border-color: transparent; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.cky-accordion-wrapper{margin-bottom: 10px;}.cky-accordion{border-bottom: 1px solid;}.cky-accordion:last-child{border-bottom: none;}.cky-accordion .cky-accordion-item{display: flex; margin-top: 10px;}.cky-accordion .cky-accordion-body{display: none;}.cky-accordion.cky-accordion-active .cky-accordion-body{display: block; padding: 0 22px; margin-bottom: 16px;}.cky-accordion-header-wrapper{cursor: pointer; width: 100%;}.cky-accordion-item .cky-accordion-header{display: flex; justify-content: space-between; align-items: center;}.cky-accordion-header .cky-accordion-btn{font-size: 16px; font-family: inherit; color: #212121; line-height: 24px; background: none; border: none; font-weight: 700; padding: 0; margin: 0; cursor: pointer; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.cky-accordion-header .cky-always-active{color: #008000; font-weight: 600; line-height: 24px; font-size: 14px;}.cky-accordion-header-des{font-size: 14px; line-height: 24px; margin: 10px 0 16px 0;}.cky-accordion-chevron{margin-right: 22px; position: relative; cursor: pointer;}.cky-accordion-chevron-hide{display: none;}.cky-accordion .cky-accordion-chevron i::before{content: \"\"; position: absolute; border-right: 1.4px solid; border-bottom: 1.4px solid; border-color: inherit; height: 6px; width: 6px; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -ms-transform: rotate(-45deg); -o-transform: rotate(-45deg); transform: rotate(-45deg); transition: all 0.2s ease-in-out; top: 8px;}.cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg);}.cky-audit-table{background: #f4f4f4; border-radius: 6px;}.cky-audit-table .cky-empty-cookies-text{color: inherit; font-size: 12px; line-height: 24px; margin: 0; padding: 10px;}.cky-audit-table .cky-cookie-des-table{font-size: 12px; line-height: 24px; font-weight: normal; padding: 15px 10px; border-bottom: 1px solid; border-bottom-color: inherit; margin: 0;}.cky-audit-table .cky-cookie-des-table:last-child{border-bottom: none;}.cky-audit-table .cky-cookie-des-table li{list-style-type: none; display: flex; padding: 3px 0;}.cky-audit-table .cky-cookie-des-table li:first-child{padding-top: 0;}.cky-cookie-des-table li div:first-child{width: 100px; font-weight: 600; word-break: break-word; word-wrap: break-word;}.cky-cookie-des-table li div:last-child{flex: 1; word-break: break-word; word-wrap: break-word; margin-left: 8px;}.cky-footer-shadow{display: block; width: 100%; height: 40px; background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #ffffff 100%); position: absolute; bottom: calc(100% - 1px);}.cky-footer-wrapper{position: relative;}.cky-prefrence-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px; border-top: 1px solid;}.cky-prefrence-btn-wrapper .cky-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.cky-btn-preferences{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-preference-header,.cky-preference-body-wrapper,.cky-preference-content-wrapper,.cky-accordion-wrapper,.cky-accordion,.cky-accordion-wrapper,.cky-footer-wrapper,.cky-prefrence-btn-wrapper{border-color: inherit;}@media (max-width: 845px){.cky-modal{max-width: calc(100% - 16px);}}@media (max-width: 576px){.cky-modal{max-width: 100%;}.cky-preference-center{max-height: 100vh;}.cky-prefrence-btn-wrapper{flex-direction: column;}.cky-accordion.cky-accordion-active .cky-accordion-body{padding-right: 0;}.cky-prefrence-btn-wrapper .cky-btn{width: 100%; margin: 10px 0 0 0;}.cky-prefrence-btn-wrapper .cky-btn-reject{order: 3;}.cky-prefrence-btn-wrapper .cky-btn-accept{order: 1; margin-top: 0;}.cky-prefrence-btn-wrapper .cky-btn-preferences{order: 2;}}@media (max-width: 425px){.cky-accordion-chevron{margin-right: 15px;}.cky-notice-btn-wrapper{margin-top: 0;}.cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 15px;}}@media (max-width: 352px){.cky-preference-header .cky-preference-title{font-size: 16px;}.cky-preference-header{padding: 16px 24px;}.cky-preference-content-wrapper *, .cky-accordion-header-des *{font-size: 12px;}.cky-preference-content-wrapper, .cky-preference-content-wrapper .cky-show-more, .cky-accordion-header .cky-always-active, .cky-accordion-header-des, .cky-preference-content-wrapper .cky-show-desc-btn, .cky-notice-des a.cky-policy{font-size: 12px;}.cky-accordion-header .cky-accordion-btn{font-size: 14px;}}.cky-switch{display: flex;}.cky-switch input[type=\"checkbox\"]{position: relative; width: 44px; height: 24px; margin: 0; background: #d0d5d2; -webkit-appearance: none; border-radius: 50px; cursor: pointer; outline: 0; border: none; top: 0;}.cky-switch input[type=\"checkbox\"]:checked{background: #1863dc;}.cky-switch input[type=\"checkbox\"]:before{position: absolute; content: \"\"; height: 20px; width: 20px; left: 2px; bottom: 2px; border-radius: 50%; background-color: white; -webkit-transition: 0.4s; transition: 0.4s; margin: 0;}.cky-switch input[type=\"checkbox\"]:after{display: none;}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(20px); -ms-transform: translateX(20px); transform: translateX(20px);}@media (max-width: 425px){.cky-switch input[type=\"checkbox\"]{width: 38px; height: 21px;}.cky-switch input[type=\"checkbox\"]:before{height: 17px; width: 17px;}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(17px); -ms-transform: translateX(17px); transform: translateX(17px);}}.cky-consent-bar .cky-banner-btn-close{position: absolute; right: 9px; top: 5px; background: none; border: none; cursor: pointer; padding: 0; margin: 0; min-height: 0; line-height: 0; height: auto; width: auto; text-shadow: none; box-shadow: none;}.cky-consent-bar .cky-banner-btn-close img{height: 9px; width: 9px; margin: 0;}.cky-notice-group{font-size: 14px; line-height: 24px; font-weight: 400; color: #212121;}.cky-notice-btn-wrapper .cky-btn-do-not-sell{font-size: 14px; line-height: 24px; padding: 6px 0; margin: 0; font-weight: 500; background: none; border-radius: 2px; border: none; cursor: pointer; text-align: left; color: #1863dc; background: transparent; border-color: transparent; box-shadow: none; text-shadow: none;}.cky-consent-bar .cky-banner-btn-close:focus-visible,.cky-notice-btn-wrapper .cky-btn-do-not-sell:focus-visible,.cky-opt-out-btn-wrapper .cky-btn:focus-visible,.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}@media (max-width: 440px){.cky-consent-container{width: 100%;}}@media (max-width: 352px){.cky-notice-des a.cky-policy, .cky-notice-btn-wrapper .cky-btn-do-not-sell{font-size: 12px;}}.cky-opt-out-wrapper{padding: 12px 0;}.cky-opt-out-wrapper .cky-opt-out-checkbox-wrapper{display: flex; align-items: center;}.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size: 16px; font-weight: 700; line-height: 24px; margin: 0 0 0 12px; cursor: pointer;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox{background-color: #ffffff; border: 1px solid black; width: 20px; height: 18.5px; margin: 0; -webkit-appearance: none; position: relative; display: flex; align-items: center; justify-content: center; border-radius: 2px; cursor: pointer;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked{background-color: #1863dc; border: none;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked::after{left: 6px; bottom: 4px; width: 7px; height: 13px; border: solid #ffffff; border-width: 0 3px 3px 0; border-radius: 2px; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); content: \"\"; position: absolute; box-sizing: border-box;}.cky-opt-out-checkbox-wrapper.cky-disabled .cky-opt-out-checkbox-label,.cky-opt-out-checkbox-wrapper.cky-disabled input[type=\"checkbox\"].cky-opt-out-checkbox{cursor: no-drop;}.cky-gpc-wrapper{margin: 0 0 0 32px;}.cky-footer-wrapper .cky-opt-out-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px;}.cky-opt-out-btn-wrapper .cky-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.cky-opt-out-btn-wrapper .cky-btn-cancel{border: 1px solid #dedfe0; background: transparent; color: #858585;}.cky-opt-out-btn-wrapper .cky-btn-confirm{background: #1863dc; color: #ffffff; border: 1px solid #1863dc;}@media (max-width: 352px){.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size: 14px;}.cky-gpc-wrapper .cky-gpc-desc, .cky-gpc-wrapper .cky-gpc-desc *{font-size: 12px;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox{width: 16px; height: 16px;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked::after{left: 5px; bottom: 4px; width: 3px; height: 9px;}.cky-gpc-wrapper{margin: 0 0 0 28px;}}.video-placeholder-youtube{background-size: 100% 100%; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: center; justify-content: center; max-width: 100%;}.video-placeholder-text-youtube{text-align: center; align-items: center; padding: 10px 16px; background-color: #000000cc; color: #ffffff; border: 1px solid; border-radius: 2px; cursor: pointer;}.video-placeholder-normal{background-image: url(\"/wp-content/plugins/cookie-law-info/lite/frontend/images/placeholder.svg\"); background-size: 80px; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: flex-end; justify-content: center; max-width: 100%;}.video-placeholder-text-normal{align-items: center; padding: 10px 16px; text-align: center; border: 1px solid; border-radius: 2px; cursor: pointer;}.cky-rtl{direction: rtl; text-align: right;}.cky-rtl .cky-banner-btn-close{left: 9px; right: auto;}.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right: 8px;}.cky-rtl .cky-notice-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-notice-btn-wrapper{margin-left: 0; margin-right: 15px;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right: 8px;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-accordion .cky-accordion-chevron i::before{border: none; border-left: 1.4px solid; border-top: 1.4px solid; left: 12px;}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform: rotate(-135deg); -moz-transform: rotate(-135deg); -ms-transform: rotate(-135deg); -o-transform: rotate(-135deg); transform: rotate(-135deg);}@media (max-width: 768px){.cky-rtl .cky-notice-btn-wrapper{margin-right: 0;}}@media (max-width: 576px){.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right: 0;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right: 0;}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 22px 0 0;}}@media (max-width: 425px){.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 15px 0 0;}}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn{margin-right: 12px;}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{margin: 0 12px 0 0;}" };
+	var _ckyStyles = { "css": ".cky-overlay{background: #000000; opacity: 0.4; position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 99999999;}.cky-hide{display: none;}.cky-btn-revisit-wrapper{display: flex; align-items: center; justify-content: center; background: #0056a7; width: 45px; height: 45px; border-radius: 50%; position: fixed; z-index: 999999; cursor: pointer;}.cky-revisit-bottom-left{bottom: 15px; left: 15px;}.cky-revisit-bottom-right{bottom: 15px; right: 15px;}.cky-btn-revisit-wrapper .cky-btn-revisit{display: flex; align-items: center; justify-content: center; background: none; border: none; cursor: pointer; position: relative; margin: 0; padding: 0;}.cky-btn-revisit-wrapper .cky-btn-revisit img{max-width: fit-content; margin: 0; height: 30px; width: 30px;}.cky-revisit-bottom-left:hover::before{content: attr(data-tooltip); position: absolute; background: #4e4b66; color: #ffffff; left: calc(100% + 7px); font-size: 12px; line-height: 16px; width: max-content; padding: 4px 8px; border-radius: 4px;}.cky-revisit-bottom-left:hover::after{position: absolute; content: \"\"; border: 5px solid transparent; left: calc(100% + 2px); border-left-width: 0; border-right-color: #4e4b66;}.cky-revisit-bottom-right:hover::before{content: attr(data-tooltip); position: absolute; background: #4e4b66; color: #ffffff; right: calc(100% + 7px); font-size: 12px; line-height: 16px; width: max-content; padding: 4px 8px; border-radius: 4px;}.cky-revisit-bottom-right:hover::after{position: absolute; content: \"\"; border: 5px solid transparent; right: calc(100% + 2px); border-right-width: 0; border-left-color: #4e4b66;}.cky-revisit-hide{display: none;}.cky-consent-container{position: fixed; width: 440px; box-sizing: border-box; z-index: 9999999; border-radius: 6px;}.cky-consent-container .cky-consent-bar{background: #ffffff; border: 1px solid; padding: 20px 26px; box-shadow: 0 -1px 10px 0 #acabab4d; border-radius: 6px;}.cky-box-bottom-left{bottom: 40px; left: 40px;}.cky-box-bottom-right{bottom: 40px; right: 40px;}.cky-box-top-left{top: 40px; left: 40px;}.cky-box-top-right{top: 40px; right: 40px;}.cky-custom-brand-logo-wrapper .cky-custom-brand-logo{width: 100px; height: auto; margin: 0 0 12px 0;}.cky-notice .cky-title{color: #212121; font-weight: 700; font-size: 18px; line-height: 24px; margin: 0 0 12px 0;}.cky-notice-des *,.cky-preference-content-wrapper *,.cky-accordion-header-des *,.cky-gpc-wrapper .cky-gpc-desc *{font-size: 14px;}.cky-notice-des{color: #212121; font-size: 14px; line-height: 24px; font-weight: 400;}.cky-notice-des img{height: 25px; width: 25px;}.cky-consent-bar .cky-notice-des p,.cky-gpc-wrapper .cky-gpc-desc p,.cky-preference-body-wrapper .cky-preference-content-wrapper p,.cky-accordion-header-wrapper .cky-accordion-header-des p,.cky-cookie-des-table li div:last-child p{color: inherit; margin-top: 0; overflow-wrap: break-word;}.cky-notice-des P:last-child,.cky-preference-content-wrapper p:last-child,.cky-cookie-des-table li div:last-child p:last-child,.cky-gpc-wrapper .cky-gpc-desc p:last-child{margin-bottom: 0;}.cky-notice-des a.cky-policy,.cky-notice-des button.cky-policy{font-size: 14px; color: #1863dc; white-space: nowrap; cursor: pointer; background: transparent; border: 1px solid; text-decoration: underline;}.cky-notice-des button.cky-policy{padding: 0;}.cky-notice-des a.cky-policy:focus-visible,.cky-notice-des button.cky-policy:focus-visible,.cky-preference-content-wrapper .cky-show-desc-btn:focus-visible,.cky-accordion-header .cky-accordion-btn:focus-visible,.cky-preference-header .cky-btn-close:focus-visible,.cky-switch input[type=\"checkbox\"]:focus-visible,.cky-footer-wrapper a:focus-visible,.cky-btn:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}.cky-btn:focus:not(:focus-visible),.cky-accordion-header .cky-accordion-btn:focus:not(:focus-visible),.cky-preference-content-wrapper .cky-show-desc-btn:focus:not(:focus-visible),.cky-btn-revisit-wrapper .cky-btn-revisit:focus:not(:focus-visible),.cky-preference-header .cky-btn-close:focus:not(:focus-visible),.cky-consent-bar .cky-banner-btn-close:focus:not(:focus-visible){outline: 0;}button.cky-show-desc-btn:not(:hover):not(:active){color: #1863dc; background: transparent;}button.cky-accordion-btn:not(:hover):not(:active),button.cky-banner-btn-close:not(:hover):not(:active),button.cky-btn-revisit:not(:hover):not(:active),button.cky-btn-close:not(:hover):not(:active){background: transparent;}.cky-consent-bar button:hover,.cky-modal.cky-modal-open button:hover,.cky-consent-bar button:focus,.cky-modal.cky-modal-open button:focus{text-decoration: none;}.cky-notice-btn-wrapper{display: flex; justify-content: flex-start; align-items: center; flex-wrap: wrap; margin-top: 16px;}.cky-notice-btn-wrapper .cky-btn{text-shadow: none; box-shadow: none;}.cky-btn{flex: auto; max-width: 100%; font-size: 14px; font-family: inherit; line-height: 24px; padding: 8px; font-weight: 500; margin: 0 8px 0 0; border-radius: 2px; cursor: pointer; text-align: center; text-transform: none; min-height: 0;}.cky-btn:hover{opacity: 0.8;}.cky-btn-customize{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-btn-reject{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-btn-accept{background: #1863dc; color: #ffffff; border: 2px solid #1863dc;}.cky-btn:last-child{margin-right: 0;}@@media (max-width: 576px){.cky-box-bottom-left{bottom: 0; left: 0;}.cky-box-bottom-right{bottom: 0; right: 0;}.cky-box-top-left{top: 0; left: 0;}.cky-box-top-right{top: 0; right: 0;}}@@media (max-width: 440px){.cky-box-bottom-left, .cky-box-bottom-right, .cky-box-top-left, .cky-box-top-right{width: 100%; max-width: 100%;}.cky-consent-container .cky-consent-bar{padding: 20px 0;}.cky-custom-brand-logo-wrapper, .cky-notice .cky-title, .cky-notice-des, .cky-notice-btn-wrapper{padding: 0 24px;}.cky-notice-des{max-height: 40vh; overflow-y: scroll;}.cky-notice-btn-wrapper{flex-direction: column; margin-top: 0;}.cky-btn{width: 100%; margin: 10px 0 0 0;}.cky-notice-btn-wrapper .cky-btn-customize{order: 2;}.cky-notice-btn-wrapper .cky-btn-reject{order: 3;}.cky-notice-btn-wrapper .cky-btn-accept{order: 1; margin-top: 16px;}}@@media (max-width: 352px){.cky-notice .cky-title{font-size: 16px;}.cky-notice-des *{font-size: 12px;}.cky-notice-des, .cky-btn{font-size: 12px;}}.cky-modal.cky-modal-open{display: flex; visibility: visible; -webkit-transform: translate(-50%, -50%); -moz-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); -o-transform: translate(-50%, -50%); transform: translate(-50%, -50%); top: 50%; left: 50%; transition: all 1s ease;}.cky-modal{box-shadow: 0 32px 68px rgba(0, 0, 0, 0.3); margin: 0 auto; position: fixed; max-width: 100%; background: #ffffff; top: 50%; box-sizing: border-box; border-radius: 6px; z-index: 999999999; color: #212121; -webkit-transform: translate(-50%, 100%); -moz-transform: translate(-50%, 100%); -ms-transform: translate(-50%, 100%); -o-transform: translate(-50%, 100%); transform: translate(-50%, 100%); visibility: hidden; transition: all 0s ease;}.cky-preference-center{max-height: 79vh; overflow: hidden; width: 845px; overflow: hidden; flex: 1 1 0; display: flex; flex-direction: column; border-radius: 6px;}.cky-preference-header{display: flex; align-items: center; justify-content: space-between; padding: 22px 24px; border-bottom: 1px solid;}.cky-preference-header .cky-preference-title{font-size: 18px; font-weight: 700; line-height: 24px;}.cky-preference-header .cky-btn-close{margin: 0; cursor: pointer; vertical-align: middle; padding: 0; background: none; border: none; width: auto; height: auto; min-height: 0; line-height: 0; text-shadow: none; box-shadow: none;}.cky-preference-header .cky-btn-close img{margin: 0; height: 10px; width: 10px;}.cky-preference-body-wrapper{padding: 0 24px; flex: 1; overflow: auto; box-sizing: border-box;}.cky-preference-content-wrapper,.cky-gpc-wrapper .cky-gpc-desc{font-size: 14px; line-height: 24px; font-weight: 400; padding: 12px 0;}.cky-preference-content-wrapper{border-bottom: 1px solid;}.cky-preference-content-wrapper img{height: 25px; width: 25px;}.cky-preference-content-wrapper .cky-show-desc-btn{font-size: 14px; font-family: inherit; color: #1863dc; text-decoration: none; line-height: 24px; padding: 0; margin: 0; white-space: nowrap; cursor: pointer; background: transparent; border-color: transparent; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.cky-accordion-wrapper{margin-bottom: 10px;}.cky-accordion{border-bottom: 1px solid;}.cky-accordion:last-child{border-bottom: none;}.cky-accordion .cky-accordion-item{display: flex; margin-top: 10px;}.cky-accordion .cky-accordion-body{display: none;}.cky-accordion.cky-accordion-active .cky-accordion-body{display: block; padding: 0 22px; margin-bottom: 16px;}.cky-accordion-header-wrapper{cursor: pointer; width: 100%;}.cky-accordion-item .cky-accordion-header{display: flex; justify-content: space-between; align-items: center;}.cky-accordion-header .cky-accordion-btn{font-size: 16px; font-family: inherit; color: #212121; line-height: 24px; background: none; border: none; font-weight: 700; padding: 0; margin: 0; cursor: pointer; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.cky-accordion-header .cky-always-active{color: #008000; font-weight: 600; line-height: 24px; font-size: 14px;}.cky-accordion-header-des{font-size: 14px; line-height: 24px; margin: 10px 0 16px 0;}.cky-accordion-chevron{margin-right: 22px; position: relative; cursor: pointer;}.cky-accordion-chevron-hide{display: none;}.cky-accordion .cky-accordion-chevron i::before{content: \"\"; position: absolute; border-right: 1.4px solid; border-bottom: 1.4px solid; border-color: inherit; height: 6px; width: 6px; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -ms-transform: rotate(-45deg); -o-transform: rotate(-45deg); transform: rotate(-45deg); transition: all 0.2s ease-in-out; top: 8px;}.cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg);}.cky-audit-table{background: #f4f4f4; border-radius: 6px;}.cky-audit-table .cky-empty-cookies-text{color: inherit; font-size: 12px; line-height: 24px; margin: 0; padding: 10px;}.cky-audit-table .cky-cookie-des-table{font-size: 12px; line-height: 24px; font-weight: normal; padding: 15px 10px; border-bottom: 1px solid; border-bottom-color: inherit; margin: 0;}.cky-audit-table .cky-cookie-des-table:last-child{border-bottom: none;}.cky-audit-table .cky-cookie-des-table li{list-style-type: none; display: flex; padding: 3px 0;}.cky-audit-table .cky-cookie-des-table li:first-child{padding-top: 0;}.cky-cookie-des-table li div:first-child{width: 100px; font-weight: 600; word-break: break-word; word-wrap: break-word;}.cky-cookie-des-table li div:last-child{flex: 1; word-break: break-word; word-wrap: break-word; margin-left: 8px;}.cky-footer-shadow{display: block; width: 100%; height: 40px; background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #ffffff 100%); position: absolute; bottom: calc(100% - 1px);}.cky-footer-wrapper{position: relative;}.cky-prefrence-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px; border-top: 1px solid;}.cky-prefrence-btn-wrapper .cky-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.cky-btn-preferences{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-preference-header,.cky-preference-body-wrapper,.cky-preference-content-wrapper,.cky-accordion-wrapper,.cky-accordion,.cky-accordion-wrapper,.cky-footer-wrapper,.cky-prefrence-btn-wrapper{border-color: inherit;}@@media (max-width: 845px){.cky-modal{max-width: calc(100% - 16px);}}@@media (max-width: 576px){.cky-modal{max-width: 100%;}.cky-preference-center{max-height: 100vh;}.cky-prefrence-btn-wrapper{flex-direction: column;}.cky-accordion.cky-accordion-active .cky-accordion-body{padding-right: 0;}.cky-prefrence-btn-wrapper .cky-btn{width: 100%; margin: 10px 0 0 0;}.cky-prefrence-btn-wrapper .cky-btn-reject{order: 3;}.cky-prefrence-btn-wrapper .cky-btn-accept{order: 1; margin-top: 0;}.cky-prefrence-btn-wrapper .cky-btn-preferences{order: 2;}}@@media (max-width: 425px){.cky-accordion-chevron{margin-right: 15px;}.cky-notice-btn-wrapper{margin-top: 0;}.cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 15px;}}@@media (max-width: 352px){.cky-preference-header .cky-preference-title{font-size: 16px;}.cky-preference-header{padding: 16px 24px;}.cky-preference-content-wrapper *, .cky-accordion-header-des *{font-size: 12px;}.cky-preference-content-wrapper, .cky-preference-content-wrapper .cky-show-more, .cky-accordion-header .cky-always-active, .cky-accordion-header-des, .cky-preference-content-wrapper .cky-show-desc-btn, .cky-notice-des a.cky-policy{font-size: 12px;}.cky-accordion-header .cky-accordion-btn{font-size: 14px;}}.cky-switch{display: flex;}.cky-switch input[type=\"checkbox\"]{position: relative; width: 44px; height: 24px; margin: 0; background: #d0d5d2; -webkit-appearance: none; border-radius: 50px; cursor: pointer; outline: 0; border: none; top: 0;}.cky-switch input[type=\"checkbox\"]:checked{background: #1863dc;}.cky-switch input[type=\"checkbox\"]:before{position: absolute; content: \"\"; height: 20px; width: 20px; left: 2px; bottom: 2px; border-radius: 50%; background-color: white; -webkit-transition: 0.4s; transition: 0.4s; margin: 0;}.cky-switch input[type=\"checkbox\"]:after{display: none;}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(20px); -ms-transform: translateX(20px); transform: translateX(20px);}@@media (max-width: 425px){.cky-switch input[type=\"checkbox\"]{width: 38px; height: 21px;}.cky-switch input[type=\"checkbox\"]:before{height: 17px; width: 17px;}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(17px); -ms-transform: translateX(17px); transform: translateX(17px);}}.cky-consent-bar .cky-banner-btn-close{position: absolute; right: 9px; top: 5px; background: none; border: none; cursor: pointer; padding: 0; margin: 0; min-height: 0; line-height: 0; height: auto; width: auto; text-shadow: none; box-shadow: none;}.cky-consent-bar .cky-banner-btn-close img{height: 9px; width: 9px; margin: 0;}.cky-notice-group{font-size: 14px; line-height: 24px; font-weight: 400; color: #212121;}.cky-notice-btn-wrapper .cky-btn-do-not-sell{font-size: 14px; line-height: 24px; padding: 6px 0; margin: 0; font-weight: 500; background: none; border-radius: 2px; border: none; cursor: pointer; text-align: left; color: #1863dc; background: transparent; border-color: transparent; box-shadow: none; text-shadow: none;}.cky-consent-bar .cky-banner-btn-close:focus-visible,.cky-notice-btn-wrapper .cky-btn-do-not-sell:focus-visible,.cky-opt-out-btn-wrapper .cky-btn:focus-visible,.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}@@media (max-width: 440px){.cky-consent-container{width: 100%;}}@@media (max-width: 352px){.cky-notice-des a.cky-policy, .cky-notice-btn-wrapper .cky-btn-do-not-sell{font-size: 12px;}}.cky-opt-out-wrapper{padding: 12px 0;}.cky-opt-out-wrapper .cky-opt-out-checkbox-wrapper{display: flex; align-items: center;}.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size: 16px; font-weight: 700; line-height: 24px; margin: 0 0 0 12px; cursor: pointer;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox{background-color: #ffffff; border: 1px solid black; width: 20px; height: 18.5px; margin: 0; -webkit-appearance: none; position: relative; display: flex; align-items: center; justify-content: center; border-radius: 2px; cursor: pointer;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked{background-color: #1863dc; border: none;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked::after{left: 6px; bottom: 4px; width: 7px; height: 13px; border: solid #ffffff; border-width: 0 3px 3px 0; border-radius: 2px; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); content: \"\"; position: absolute; box-sizing: border-box;}.cky-opt-out-checkbox-wrapper.cky-disabled .cky-opt-out-checkbox-label,.cky-opt-out-checkbox-wrapper.cky-disabled input[type=\"checkbox\"].cky-opt-out-checkbox{cursor: no-drop;}.cky-gpc-wrapper{margin: 0 0 0 32px;}.cky-footer-wrapper .cky-opt-out-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px;}.cky-opt-out-btn-wrapper .cky-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.cky-opt-out-btn-wrapper .cky-btn-cancel{border: 1px solid #dedfe0; background: transparent; color: #858585;}.cky-opt-out-btn-wrapper .cky-btn-confirm{background: #1863dc; color: #ffffff; border: 1px solid #1863dc;}@@media (max-width: 352px){.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size: 14px;}.cky-gpc-wrapper .cky-gpc-desc, .cky-gpc-wrapper .cky-gpc-desc *{font-size: 12px;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox{width: 16px; height: 16px;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked::after{left: 5px; bottom: 4px; width: 3px; height: 9px;}.cky-gpc-wrapper{margin: 0 0 0 28px;}}.video-placeholder-youtube{background-size: 100% 100%; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: center; justify-content: center; max-width: 100%;}.video-placeholder-text-youtube{text-align: center; align-items: center; padding: 10px 16px; background-color: #000000cc; color: #ffffff; border: 1px solid; border-radius: 2px; cursor: pointer;}.video-placeholder-normal{background-image: url(\"/wp-content/plugins/cookie-law-info/lite/frontend/images/placeholder.svg\"); background-size: 80px; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: flex-end; justify-content: center; max-width: 100%;}.video-placeholder-text-normal{align-items: center; padding: 10px 16px; text-align: center; border: 1px solid; border-radius: 2px; cursor: pointer;}.cky-rtl{direction: rtl; text-align: right;}.cky-rtl .cky-banner-btn-close{left: 9px; right: auto;}.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right: 8px;}.cky-rtl .cky-notice-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-notice-btn-wrapper{margin-left: 0; margin-right: 15px;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right: 8px;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-accordion .cky-accordion-chevron i::before{border: none; border-left: 1.4px solid; border-top: 1.4px solid; left: 12px;}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform: rotate(-135deg); -moz-transform: rotate(-135deg); -ms-transform: rotate(-135deg); -o-transform: rotate(-135deg); transform: rotate(-135deg);}@@media (max-width: 768px){.cky-rtl .cky-notice-btn-wrapper{margin-right: 0;}}@@media (max-width: 576px){.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right: 0;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right: 0;}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 22px 0 0;}}@@media (max-width: 425px){.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 15px 0 0;}}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn{margin-right: 12px;}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{margin: 0 12px 0 0;}" };
 	//# sourceURL=wpo_min-header-0-js-extra
 	/* ]]> */
 </script>
-<script type="text/javascript" src="wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-header-80dc161c.min.js"
+<script type="text/javascript" src="/wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-header-80dc161c.min.js"
 	id="wpo_min-header-0-js"></script>
 <script type="text/javascript" id="wpo_min-header-2-js-extra">
 	/* <![CDATA[ */
@@ -2248,10 +2251,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 	//# sourceURL=wpo_min-header-2-js-extra
 	/* ]]> */
 </script>
-<script type="text/javascript" src="wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-header-b4c93216.min.js"
+<script type="text/javascript" src="/wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-header-b4c93216.min.js"
 	id="wpo_min-header-2-js" defer="defer" data-wp-strategy="defer"></script>
-<link rel="https://api.w.org/" href="wp-json/index.html" />
-<link rel="alternate" title="JSON" type="application/json" href="wp-json/wp/v2/pages/6829.json" />
+<link rel="https://api.w.org/" href="/wp-json/index.html" />
+<link rel="alternate" title="JSON" type="application/json" href="/wp-json/wp/v2/pages/6829.json" />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
 <meta name="generator" content="WordPress 6.9" />
 <meta name="generator" content="WooCommerce 9.8.6" />
@@ -2302,7 +2305,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 		background-image: none !important;
 	}
 
-	@media screen and (max-height: 1024px) {
+	@@media screen and (max-height: 1024px) {
 
 		.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
 		.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
@@ -2310,7 +2313,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 		}
 	}
 
-	@media screen and (max-height: 640px) {
+	@@media screen and (max-height: 640px) {
 
 		.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
 		.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
@@ -2325,12 +2328,12 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </style>
 <meta name="generator"
 	content="Powered by Slider Revolution 6.6.15 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-<link rel="icon" href="wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD-32x32.png"
+<link rel="icon" href="/wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD-32x32.png"
 	sizes="32x32" />
-<link rel="icon" href="wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD-180x180.png" />
+<link rel="icon" href="/wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="/wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD-180x180.png" />
 <meta name="msapplication-TileImage"
-	content="wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD-270x270.png" />
+	content="/wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD-270x270.png" />
 <script>function setREVStartSize(e) {
 		//window.requestAnimationFrame(function() {
 		window.RSIW = window.RSIW === undefined ? window.innerWidth : window.RSIW;
@@ -2395,7 +2398,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 		/* Adjust the minimum width of each column */
 	}
 </style>
-<link rel='stylesheet' id='wc-blocks-style-css' href='wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css'
+<link rel='stylesheet' id='wc-blocks-style-css' href='/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css'
 	type='text/css' media='all' />
 <style id='global-styles-inline-css' type='text/css'>
 	:root {
@@ -2705,7 +2708,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 	/*# sourceURL=global-styles-inline-css */
 </style>
-<link rel='stylesheet' id='rs-plugin-settings-css' href='wp-content/plugins/revslider/public/assets/css/rs6.css'
+<link rel='stylesheet' id='rs-plugin-settings-css' href='/wp-content/plugins/revslider/public/assets/css/rs6.css'
 	type='text/css' media='all' />
 <style id='rs-plugin-settings-inline-css' type='text/css'>
 	.rs-layer.Concept-Content a,
@@ -2932,7 +2935,21 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 <body
 	class="home wp-singular page-template-default page page-id-6829 custom-background wp-custom-logo wp-embed-responsive wp-theme-satenet-wpsatenet theme-satenet-wp/satenet opacity-zero woocommerce-no-js elementor-default elementor-kit-6 elementor-page elementor-page-6829">
-	<div class="mobile-header">
+<style>
+	#rev_slider_1_1_wrapper,
+	#rev_slider_1_1 {
+		background-image: url('/wp-content/uploads/2023/09/Home-Fiber.jpg') !important;
+		background-size: cover !important;
+		background-position: center top !important;
+		background-repeat: no-repeat !important;
+	}
+</style>
+@endverbatim
+@endsection
+
+@section('content')
+@verbatim
+<div class="mobile-header">
 		<div class="mobile-header-inner">
 			<div class="sticky-outer">
 				<div class="sticky-head">
@@ -2947,9 +2964,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 						<ul class="mobile-header-items nav pull-center">
 							<li class="nav-item">
 								<div class="nav-item-inner">
-									<div class="mobile-logo"><a href="index.html"
+									<div class="mobile-logo"><a href="/"
 											title="Kemnet Technologies Limited"><img class="img-responsive"
-												src="wp-content/uploads/2023/08/KEMNET-LOGO-TECHNOLOGIES.png"
+												src="/wp-content/uploads/2023/08/KEMNET-LOGO-TECHNOLOGIES.png"
 												alt="Kemnet Technologies Limited"
 												title="Kemnet Technologies Limited" /></a></div>
 								</div>
@@ -2974,9 +2991,9 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 				<ul class="mobile-bar-items nav flex-column mobile-bar-top">
 					<li class="nav-item">
 						<div class="nav-item-inner">
-							<div class="mobile-logo"><a href="index.html" title="Kemnet Technologies Limited"><img
+							<div class="mobile-logo"><a href="/" title="Kemnet Technologies Limited"><img
 										class="img-responsive"
-										src="wp-content/uploads/2023/08/KEMNET-LOGO-TECHNOLOGIES.png"
+										src="/wp-content/uploads/2023/08/KEMNET-LOGO-TECHNOLOGIES.png"
 										alt="Kemnet Technologies Limited" title="Kemnet Technologies Limited" /></a>
 							</div>
 						</div>
@@ -3058,15 +3075,15 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 								<div class="nav-item-inner">
 
 									<div class="main-logo">
-										<a href="index.html" title="Kemnet Technologies Limited"><img
+										<a href="/" title="Kemnet Technologies Limited"><img
 												class="custom-logo img-responsive"
-												src="wp-content/uploads/2023/08/KEMNET-LOGO-TECHNOLOGIES.png"
+												src="/wp-content/uploads/2023/08/KEMNET-LOGO-TECHNOLOGIES.png"
 												alt="Kemnet Technologies Limited"
 												title="Kemnet Technologies Limited" /></a>
 									</div>
-									<div class="sticky-logo"><a href="index.html"
+									<div class="sticky-logo"><a href="/"
 											title="Kemnet Technologies Limited"><img class="img-responsive"
-												src="wp-content/uploads/2023/08/KEMNET-LOGO-TECHNOLOGIES.png"
+												src="/wp-content/uploads/2023/08/KEMNET-LOGO-TECHNOLOGIES.png"
 												alt="Kemnet Technologies Limited"
 												title="Kemnet Technologies Limited" /></a></div>
 								</div>
@@ -3118,47 +3135,47 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 									<ul id="satenet-main-menu" class="nav satenet-main-menu">
 										<li id="menu-item-11692"
 											class="cus-img-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6829 current_page_item nav-item menu-item-11692">
-											<a href="index.html" class="nav-link">Home</a>
+											<a href="/" class="nav-link">Home</a>
 										</li>
 										<li id="menu-item-11693"
 											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav-item menu-item-11693 dropdown">
-											<a href="about-us/index.html" class="nav-link dropdown-toggle">About Us</a>
+											<a href="/about-us" class="nav-link dropdown-toggle">About Us</a>
 											<ul role="menu" class=" dropdown-menu">
 												<li id="menu-item-14535"
 													class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-14535">
-													<a href="vision-and-mission/index.html" class="nav-link">Vision and
+													<a href="/vision-and-mission" class="nav-link">Vision and
 														Mission</a>
 												</li>
 												<li id="menu-item-11703"
 													class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-11703">
-													<a href="partners-memberships/index.html" class="nav-link">Partners
+													<a href="/partners-memberships" class="nav-link">Partners
 														&#038; Memberships</a>
 												</li>
 												<li id="menu-item-11696"
 													class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-11696">
-													<a href="careers/index.html" class="nav-link">Careers</a>
+													<a href="/careers" class="nav-link">Careers</a>
 												</li>
 
 											</ul>
 										</li>
 										<li id="menu-item-14602"
 											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav-item menu-item-14602 dropdown">
-											<a href="services/index.html" class="nav-link dropdown-toggle">Our
+											<a href="/services" class="nav-link dropdown-toggle">Our
 												Services</a>
 											<ul role="menu" class=" dropdown-menu">
 												<li id="menu-item-15075"
 													class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav-item menu-item-15075 dropdown">
-													<a href="services/infrastructure-networking/index.html"
+													<a href="/services/infrastructure-networking"
 														class="nav-link">Infrastructure &amp; Networking</a>
 													<ul role="menu" class=" dropdown-menu">
 														<li id="menu-item-14896"
 															class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-14896">
-															<a href="services/infrastructure-networking/dark-fiber/index.html"
+															<a href="/services/infrastructure-networking/dark-fiber"
 																class="nav-link">Dark Fiber</a>
 														</li>
 														<li id="menu-item-15906"
 															class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-15906">
-															<a href="services/fiber-optic-cabling/index.html"
+															<a href="/services/fiber-optic-cabling"
 																class="nav-link">Fiber Optic Cabling</a>
 														</li>
 
@@ -3166,17 +3183,17 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 												</li>
 												<li id="menu-item-15037"
 													class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav-item menu-item-15037 dropdown">
-													<a href="services/software-hardware/index.html"
+													<a href="/services/software-hardware"
 														class="nav-link">Software &#038; Hardware</a>
 													<ul role="menu" class=" dropdown-menu">
 														<li id="menu-item-14788"
 															class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-14788">
-															<a href="services/software-hardware/custom-software-solutions/index.html"
+															<a href="/services/software-hardware/custom-software-solutions"
 																class="nav-link">Custom Software Solutions</a>
 														</li>
 														<li id="menu-item-15036"
 															class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-15036">
-															<a href="services/software-hardware/hardware-solutions/index.html"
+															<a href="/services/software-hardware/hardware-solutions"
 																class="nav-link">Hardware Solutions</a>
 														</li>
 
@@ -3184,22 +3201,22 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 												</li>
 												<li id="menu-item-14974"
 													class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav-item menu-item-14974 dropdown">
-													<a href="services/web-cloud-solutions/index.html"
+													<a href="/services/web-cloud-solutions"
 														class="nav-link">Web &amp; Cloud Solutions</a>
 													<ul role="menu" class=" dropdown-menu">
 														<li id="menu-item-14794"
 															class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-14794">
-															<a href="services/web-cloud-solutions/domains-web-hosting/index.html"
+															<a href="/services/web-cloud-solutions/domains-web-hosting"
 																class="nav-link">Domains &#038; Web Hosting</a>
 														</li>
 														<li id="menu-item-14889"
 															class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-14889">
-															<a href="services/web-cloud-solutions/cloud-hosting-solutions/index.html"
+															<a href="/services/web-cloud-solutions/cloud-hosting-solutions"
 																class="nav-link">Cloud Hosting Solutions</a>
 														</li>
 														<li id="menu-item-14995"
 															class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-14995">
-															<a href="services/web-cloud-solutions/google-integrated-solutions/index.html"
+															<a href="/services/web-cloud-solutions/google-integrated-solutions"
 																class="nav-link">Google Integrated Solutions</a>
 														</li>
 
@@ -3207,22 +3224,22 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 												</li>
 												<li id="menu-item-15065"
 													class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav-item menu-item-15065 dropdown">
-													<a href="services/smart-home-security-solutions/index.html"
+													<a href="/services/smart-home-security-solutions"
 														class="nav-link">Smart Home &#038; Security Solutions</a>
 													<ul role="menu" class=" dropdown-menu">
 														<li id="menu-item-15066"
 															class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-15066">
-															<a href="services/smart-home-security-solutions/cctv-installation/index.html"
+															<a href="/services/smart-home-security-solutions/cctv-installation"
 																class="nav-link">CCTV Installation</a>
 														</li>
 														<li id="menu-item-15094"
 															class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-15094">
-															<a href="services/smart-home-security-solutions/access-control/index.html"
+															<a href="/services/smart-home-security-solutions/access-control"
 																class="nav-link">Access Control</a>
 														</li>
 														<li id="menu-item-15119"
 															class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-15119">
-															<a href="services/smart-home-security-solutions/home-automation/index.html"
+															<a href="/services/smart-home-security-solutions/home-automation"
 																class="nav-link">Home Automation</a>
 														</li>
 
@@ -3230,7 +3247,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 												</li>
 												<li id="menu-item-15318"
 													class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-15318">
-													<a href="services/ict-consultancy-training/index.html"
+													<a href="/services/ict-consultancy-training"
 														class="nav-link">AI &#038; ICT Consultancy &#038; Training</a>
 												</li>
 
@@ -3238,22 +3255,22 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 										</li>
 										<li id="menu-item-14707"
 											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children nav-item menu-item-14707 dropdown">
-											<a href="services/internet-services/index.html"
+											<a href="/services/internet-services"
 												class="nav-link dropdown-toggle">Internet Services</a>
 											<ul role="menu" class=" dropdown-menu">
 												<li id="menu-item-15742"
 													class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-15742">
-													<a href="kemnet-home-wireless/index.html" class="nav-link">Home
+													<a href="/kemnet-home-wireless" class="nav-link">Home
 														Wireless</a>
 												</li>
 												<li id="menu-item-11707"
 													class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-11707">
-													<a href="kemnet-home-fiber/index.html" class="nav-link">Home
+													<a href="/kemnet-home-fiber" class="nav-link">Home
 														Fiber</a>
 												</li>
 												<li id="menu-item-15874"
 													class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-15874">
-													<a href="kemnet-business-internet/index.html"
+													<a href="/kemnet-business-internet"
 														class="nav-link">Business Internet</a>
 												</li>
 
@@ -3261,16 +3278,16 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 										</li>
 										<li id="menu-item-16422"
 											class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-16422">
-											<a href="web-and-cloud-services/index.html" class="nav-link">Web &#038;
+											<a href="/web-and-cloud-services" class="nav-link">Web &#038;
 												Cloud Services</a>
 										</li>
 										<li id="menu-item-14034"
 											class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-14034">
-											<a href="faq/index.html" class="nav-link">FAQs</a>
+											<a href="/faq" class="nav-link">FAQs</a>
 										</li>
 										<li id="menu-item-11695"
 											class="menu-item menu-item-type-post_type menu-item-object-page nav-item menu-item-11695">
-											<a href="contact-us/index.html" class="nav-link">Contact Us</a>
+											<a href="/contact-us" class="nav-link">Contact Us</a>
 										</li>
 									</ul>
 								</div>
@@ -3304,7 +3321,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 
 				<style>
-					@media (min-width: 768px) and (max-width: 1280px) {
+					@@media (min-width: 768px) and (max-width: 1280px) {
 
 						.header-slider-wrapper {
 							height: auto;
@@ -3325,7 +3342,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 									data-thumb="/wp-content/uploads/2023/09/Home-Fiber-100x100.jpg"
 									data-anim="e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);" data-out="a:false;">
 									<img fetchpriority="high"
-										src="wp-content/plugins/revslider/public/assets/assets/dummy.png"
+										src="/wp-content/plugins/revslider/public/assets/assets/dummy.png"
 										alt="Family Smiling Watching TV using Kemnet Home Fiber" title="Home-Fiber"
 										width="1987" height="1338" class="rev-slidebg tp-rs-img rs-lazyload"
 										data-lazyload="/wp-content/uploads/2023/09/Home-Fiber.jpg"
@@ -3362,7 +3379,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 										Internet
 									</rs-layer><!--
 
-							--><a id="slider-1-slide-1-layer-16" class="rs-layer pop rev-btn" href="kemnet.co.ke/contact-us/"
+							--><a id="slider-1-slide-1-layer-16" class="rs-layer pop rev-btn" href="/contact-us"
 										target="_self" rel="nofollow" data-type="button"
 										data-color="rgba(255,255,255,1)"
 										data-xy="x:l,l,c,c;xo:51px,51px,0,0;y:m;yo:150px,150px,127px,122px;"
@@ -3378,7 +3395,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 								<rs-slide style="position: absolute;" data-key="rs-2" data-title="Office Internet"
 									data-thumb="/wp-content/uploads/2023/09/Internet-solutions-for-your-business-100x100.jpg"
 									data-anim="e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);" data-out="a:false;">
-									<img src="wp-content/plugins/revslider/public/assets/assets/dummy.png"
+									<img src="/wp-content/plugins/revslider/public/assets/assets/dummy.png"
 										alt="Internet solutions for your business"
 										title="Internet-solutions-for-your-business" width="1987" height="1338"
 										class="rev-slidebg tp-rs-img rs-lazyload"
@@ -3414,7 +3431,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 										Internet
 									</rs-layer><!--
 
-							--><a id="slider-1-slide-2-layer-16" class="rs-layer pop rev-btn" href="kemnet.co.ke/contact-us/"
+							--><a id="slider-1-slide-2-layer-16" class="rs-layer pop rev-btn" href="/contact-us"
 										target="_self" rel="nofollow" data-type="button"
 										data-color="rgba(255,255,255,1)"
 										data-xy="x:l,l,c,c;xo:51px,51px,0,0;y:m;yo:150px,150px,127px,122px;"
@@ -3430,7 +3447,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 								<rs-slide style="position: absolute;" data-key="rs-30" data-title="Cloud Storage"
 									data-thumb="/wp-content/uploads/2023/09/cloud-hosting--100x100.jpg"
 									data-anim="e:slidingoverlay;ms:2000;" data-in="o:1;x:(100%);" data-out="a:false;">
-									<img src="wp-content/plugins/revslider/public/assets/assets/dummy.png" alt=""
+									<img src="/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt=""
 										title="cloud-hosting-" width="2212" height="1219"
 										class="rev-slidebg tp-rs-img rs-lazyload"
 										data-lazyload="/wp-content/uploads/2023/09/cloud-hosting-.jpg"
@@ -3459,7 +3476,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 										Hosting
 									</rs-layer><!--
 
-							--><a id="slider-1-slide-30-layer-16" class="rs-layer pop rev-btn" href="kemnet.co.ke/contact-us/"
+							--><a id="slider-1-slide-30-layer-16" class="rs-layer pop rev-btn" href="/contact-us"
 										target="_self" rel="nofollow" data-type="button"
 										data-color="rgba(255,255,255,1)"
 										data-xy="x:l,l,c,c;xo:51px,51px,0,0;y:m;yo:150px,150px,127px,122px;"
@@ -3564,7 +3581,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																						<div class="media-body">
 																							<h6
 																								class="feature-box-title">
-																								<a href="our-services/internet-services/index.html"
+																								<a href="/our-services/internet-services"
 																									title="Internet Services"
 																									target="_blank">Internet
 																									Services</a>
@@ -3596,14 +3613,14 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								class="feature-box-image squared fbox-img-overlay-none">
 																								<img decoding="async"
 																									class="img-fluid"
-																									src="wp-content/uploads/2019/11/4k-gd-1.png"
+																									src="/wp-content/uploads/2019/11/4k-gd-1.png"
 																									alt="Feature Box Image">
 																							</div>
 																						</div>
 																						<div class="media-body">
 																							<h6
 																								class="feature-box-title">
-																								<a href="our-services/infrastructure-networking/index.html"
+																								<a href="/our-services/infrastructure-networking"
 																									title="Infrastructure &amp; Networking"
 																									target="_blank">Infrastructure
 																									&amp; Networking</a>
@@ -3641,7 +3658,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																						<div class="media-body">
 																							<h6
 																								class="feature-box-title">
-																								<a href="our-services/software-hardware/index.html"
+																								<a href="/our-services/software-hardware"
 																									title="Hardware &amp; Software"
 																									target="_blank">Hardware
 																									&amp; Software</a>
@@ -3680,14 +3697,14 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								class="feature-box-image squared fbox-img-overlay-none">
 																								<img decoding="async"
 																									class="img-fluid"
-																									src="wp-content/uploads/2020/04/smart-tv-70.png"
+																									src="/wp-content/uploads/2020/04/smart-tv-70.png"
 																									alt="Feature Box Image">
 																							</div>
 																						</div>
 																						<div class="media-body">
 																							<h6
 																								class="feature-box-title">
-																								<a href="our-services/web-cloud-solutions/index.html"
+																								<a href="/our-services/web-cloud-solutions"
 																									title="Web &amp; Cloud Solutions"
 																									target="_blank">Web
 																									&amp; Cloud
@@ -3719,14 +3736,14 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								class="feature-box-image squared fbox-img-overlay-none">
 																								<img decoding="async"
 																									class="img-fluid"
-																									src="wp-content/uploads/2023/08/Domain-Hosting-and-Registration-1.png"
+																									src="/wp-content/uploads/2023/08/Domain-Hosting-and-Registration-1.png"
 																									alt="Feature Box Image">
 																							</div>
 																						</div>
 																						<div class="media-body">
 																							<h6
 																								class="feature-box-title">
-																								<a href="our-services/smart-home-security-solutions/index.html"
+																								<a href="/our-services/smart-home-security-solutions"
 																									title="Smart home &amp; Security"
 																									target="_blank">Smart
 																									home &amp;
@@ -3759,14 +3776,14 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								class="feature-box-image squared fbox-img-overlay-none">
 																								<img decoding="async"
 																									class="img-fluid"
-																									src="wp-content/uploads/2023/08/Dark-Fiber.png"
+																									src="/wp-content/uploads/2023/08/Dark-Fiber.png"
 																									alt="Feature Box Image">
 																							</div>
 																						</div>
 																						<div class="media-body">
 																							<h6
 																								class="feature-box-title">
-																								<a href="our-services/ict-consultancy-training/index.html"
+																								<a href="/our-services/ict-consultancy-training"
 																									title="ICT Consultancy &amp; Training"
 																									target="_blank">ICT
 																									Consultancy &amp;
@@ -3851,7 +3868,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																					class="elementor-widget-container popup-anything-wrapper anim">
 
 																					<a class="popup-video-post popup-trigger-icon icon-theme-color"
-																						href="about-us/index.html"><span
+																						href="/about-us"><span
 																							class="ti-control-play"></span></a>
 																				</div>
 																			</div>
@@ -3899,10 +3916,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																				<div class="elementor-widget-container">
 																					<img loading="lazy" decoding="async"
 																						width="985" height="948"
-																						src="wp-content/uploads/2023/08/about-image2.png"
+																						src="/wp-content/uploads/2023/08/about-image2.png"
 																						class="attachment-full size-full wp-image-13206"
 																						alt=""
-																						srcset="wp-content/uploads/2023/08/about-image2.png 985w, wp-content/uploads/2023/08/about-image2-768x739.png 768w, wp-content/uploads/2023/08/about-image2-600x577.png 600w"
+																						srcset="/wp-content/uploads/2023/08/about-image2.png 985w, /wp-content/uploads/2023/08/about-image2-768x739.png 768w, /wp-content/uploads/2023/08/about-image2-600x577.png 600w"
 																						sizes="(max-width: 985px) 100vw, 985px" />
 																				</div>
 																			</div>
@@ -4643,10 +4660,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																							loading="lazy"
 																							decoding="async" width="504"
 																							height="504"
-																							src="wp-content/uploads/2019/07/happy-kemnet-africa-1.png"
+																							src="/wp-content/uploads/2019/07/happy-kemnet-africa-1.png"
 																							class="img-fluid rounded-circle wp-post-image"
 																							alt=""
-																							srcset="wp-content/uploads/2019/07/happy-kemnet-africa-1.png 504w, wp-content/uploads/2019/07/happy-kemnet-africa-1-80x80.png 80w, wp-content/uploads/2019/07/happy-kemnet-africa-1-300x300.png 300w, wp-content/uploads/2019/07/happy-kemnet-africa-1-100x100.png 100w"
+																							srcset="/wp-content/uploads/2019/07/happy-kemnet-africa-1.png 504w, /wp-content/uploads/2019/07/happy-kemnet-africa-1-80x80.png 80w, /wp-content/uploads/2019/07/happy-kemnet-africa-1-300x300.png 300w, /wp-content/uploads/2019/07/happy-kemnet-africa-1-100x100.png 100w"
 																							sizes="(max-width: 504px) 100vw, 504px" />
 																					</div><!-- .testimonial-thumb -->
 																					<div class="media-body">
@@ -4673,7 +4690,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																						<!-- .testimonial-rating -->
 																						<div class="testimonial-info">
 																							<p>
-																							<h5><a href="testimonial/hildah-thuranira/index.html"
+																							<h5><a href="/testimonial/hildah-thuranira"
 																									class="client-name">Hildah
 																									Thuranira</a></h5>
 																							</p>
@@ -4688,10 +4705,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																							loading="lazy"
 																							decoding="async" width="504"
 																							height="504"
-																							src="wp-content/uploads/2019/07/happy-kemnet-africa-1.png"
+																							src="/wp-content/uploads/2019/07/happy-kemnet-africa-1.png"
 																							class="img-fluid rounded-circle wp-post-image"
 																							alt=""
-																							srcset="wp-content/uploads/2019/07/happy-kemnet-africa-1.png 504w, wp-content/uploads/2019/07/happy-kemnet-africa-1-80x80.png 80w, wp-content/uploads/2019/07/happy-kemnet-africa-1-300x300.png 300w, wp-content/uploads/2019/07/happy-kemnet-africa-1-100x100.png 100w"
+																							srcset="/wp-content/uploads/2019/07/happy-kemnet-africa-1.png 504w, /wp-content/uploads/2019/07/happy-kemnet-africa-1-80x80.png 80w, /wp-content/uploads/2019/07/happy-kemnet-africa-1-300x300.png 300w, /wp-content/uploads/2019/07/happy-kemnet-africa-1-100x100.png 100w"
 																							sizes="(max-width: 504px) 100vw, 504px" />
 																					</div><!-- .testimonial-thumb -->
 																					<div class="media-body">
@@ -4719,7 +4736,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																						<!-- .testimonial-rating -->
 																						<div class="testimonial-info">
 																							<p>
-																							<h5><a href="testimonial/hillary-oluoch/index.html"
+																							<h5><a href="/testimonial/hillary-oluoch"
 																									class="client-name">Hillary
 																									Oluoch</a></h5>
 																							</p>
@@ -4734,10 +4751,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																							loading="lazy"
 																							decoding="async" width="504"
 																							height="504"
-																							src="wp-content/uploads/2019/07/happy-kemnet-africa-1.png"
+																							src="/wp-content/uploads/2019/07/happy-kemnet-africa-1.png"
 																							class="img-fluid rounded-circle wp-post-image"
 																							alt=""
-																							srcset="wp-content/uploads/2019/07/happy-kemnet-africa-1.png 504w, wp-content/uploads/2019/07/happy-kemnet-africa-1-80x80.png 80w, wp-content/uploads/2019/07/happy-kemnet-africa-1-300x300.png 300w, wp-content/uploads/2019/07/happy-kemnet-africa-1-100x100.png 100w"
+																							srcset="/wp-content/uploads/2019/07/happy-kemnet-africa-1.png 504w, /wp-content/uploads/2019/07/happy-kemnet-africa-1-80x80.png 80w, /wp-content/uploads/2019/07/happy-kemnet-africa-1-300x300.png 300w, /wp-content/uploads/2019/07/happy-kemnet-africa-1-100x100.png 100w"
 																							sizes="(max-width: 504px) 100vw, 504px" />
 																					</div><!-- .testimonial-thumb -->
 																					<div class="media-body">
@@ -4764,7 +4781,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																						<!-- .testimonial-rating -->
 																						<div class="testimonial-info">
 																							<p>
-																							<h5><a href="testimonial/mbugua-karuga/index.html"
+																							<h5><a href="/testimonial/mbugua-karuga"
 																									class="client-name">Mbugua
 																									Karuga</a></h5>
 																							</p>
@@ -4797,7 +4814,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																<div class="elementor-widget-container">
 																	<img loading="lazy" decoding="async" width="377"
 																		height="360"
-																		src="wp-content/uploads/2023/08/servers.png"
+																		src="/wp-content/uploads/2023/08/servers.png"
 																		class="attachment-large size-large wp-image-12050"
 																		alt="" />
 																</div>
@@ -4870,7 +4887,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								class="feature-box-image squared fbox-img-overlay-none">
 																								<img decoding="async"
 																									class="img-fluid"
-																									src="wp-content/uploads/2023/08/001-settings.png"
+																									src="/wp-content/uploads/2023/08/001-settings.png"
 																									alt="Feature Box Image">
 																							</div>
 																						</div>
@@ -4899,7 +4916,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								class="feature-box-image squared fbox-img-overlay-none">
 																								<img decoding="async"
 																									class="img-fluid"
-																									src="wp-content/uploads/2023/08/004-customer-service.png"
+																									src="/wp-content/uploads/2023/08/004-customer-service.png"
 																									alt="Feature Box Image">
 																							</div>
 																						</div>
@@ -4933,7 +4950,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								class="feature-box-image squared fbox-img-overlay-none">
 																								<img decoding="async"
 																									class="img-fluid"
-																									src="wp-content/uploads/2023/08/002-watching-tv.png"
+																									src="/wp-content/uploads/2023/08/002-watching-tv.png"
 																									alt="Feature Box Image">
 																							</div>
 																						</div>
@@ -4962,7 +4979,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								class="feature-box-image squared fbox-img-overlay-none">
 																								<img decoding="async"
 																									class="img-fluid"
-																									src="wp-content/uploads/2023/08/005-lock.png"
+																									src="/wp-content/uploads/2023/08/005-lock.png"
 																									alt="Feature Box Image">
 																							</div>
 																						</div>
@@ -5165,7 +5182,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																										width="600"
 																										class="img-fluid"
 																										alt="What is Latency"
-																										src="wp-content/uploads/2024/05/What-is-latency-1-600x526.png" />
+																										src="/wp-content/uploads/2024/05/What-is-latency-1-600x526.png" />
 																								</div>
 																								<!-- .post-thumb -->
 																								<div
@@ -5178,7 +5195,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																												<div
 																													class="post-author">
 																													<a
-																														href="author/patton/index.html"><span
+																														href="/author/patton"><span
 																															class="author-img"><img
 																																alt=''
 																																src='/avatar/4d8af0c88c97fcf6ca6aca755cfeb2d6206e913801c566e6e3751d7522131da9?s=30&amp;d=mm&amp;r=g'
@@ -5193,7 +5210,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																												<div
 																													class="post-date">
 																													<a
-																														href="2024/05/14/index.html"><i
+																														href="/2024/05/14"><i
 																															class="ti-calendar"></i>
 																														May
 																														14,
@@ -5206,7 +5223,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																										class="entry-title">
 																										<h5
 																											class="post-title-head">
-																											<a href="what-is-latency/index.html"
+																											<a href="/what-is-latency"
 																												class="post-title">What
 																												is
 																												Latency</a>
@@ -5227,7 +5244,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																										width="600"
 																										class="img-fluid"
 																										alt="What is web hosting"
-																										src="wp-content/uploads/2024/04/what-is-webhosting-600x526.png" />
+																										src="/wp-content/uploads/2024/04/what-is-webhosting-600x526.png" />
 																								</div>
 																								<!-- .post-thumb -->
 																								<div
@@ -5240,7 +5257,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																												<div
 																													class="post-author">
 																													<a
-																														href="author/patton/index.html"><span
+																														href="/author/patton"><span
 																															class="author-img"><img
 																																alt=''
 																																src='/avatar/4d8af0c88c97fcf6ca6aca755cfeb2d6206e913801c566e6e3751d7522131da9?s=30&amp;d=mm&amp;r=g'
@@ -5255,7 +5272,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																												<div
 																													class="post-date">
 																													<a
-																														href="2024/04/27/index.html"><i
+																														href="/2024/04/27"><i
 																															class="ti-calendar"></i>
 																														April
 																														27,
@@ -5268,7 +5285,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																										class="entry-title">
 																										<h5
 																											class="post-title-head">
-																											<a href="what-is-web-hosting/index.html"
+																											<a href="/what-is-web-hosting"
 																												class="post-title">What
 																												is web
 																												hosting</a>
@@ -5289,7 +5306,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																										width="600"
 																										class="img-fluid"
 																										alt="How to stay safe online"
-																										src="wp-content/uploads/2024/04/Copy-of-Selecting-right-domain-name-600x526.png" />
+																										src="/wp-content/uploads/2024/04/Copy-of-Selecting-right-domain-name-600x526.png" />
 																								</div>
 																								<!-- .post-thumb -->
 																								<div
@@ -5302,7 +5319,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																												<div
 																													class="post-author">
 																													<a
-																														href="author/patton/index.html"><span
+																														href="/author/patton"><span
 																															class="author-img"><img
 																																alt=''
 																																src='/avatar/4d8af0c88c97fcf6ca6aca755cfeb2d6206e913801c566e6e3751d7522131da9?s=30&amp;d=mm&amp;r=g'
@@ -5317,7 +5334,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																												<div
 																													class="post-date">
 																													<a
-																														href="2024/04/20/index.html"><i
+																														href="/2024/04/20"><i
 																															class="ti-calendar"></i>
 																														April
 																														20,
@@ -5330,7 +5347,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																										class="entry-title">
 																										<h5
 																											class="post-title-head">
-																											<a href="how-to-stay-safe-online/index.html"
+																											<a href="/how-to-stay-safe-online"
 																												class="post-title">How
 																												to stay
 																												safe
@@ -5352,7 +5369,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																										width="600"
 																										class="img-fluid"
 																										alt="How to optimize your WiFi"
-																										src="wp-content/uploads/2024/04/Selecting-right-domain-name-600x526.png" />
+																										src="/wp-content/uploads/2024/04/Selecting-right-domain-name-600x526.png" />
 																								</div>
 																								<!-- .post-thumb -->
 																								<div
@@ -5365,7 +5382,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																												<div
 																													class="post-author">
 																													<a
-																														href="author/patton/index.html"><span
+																														href="/author/patton"><span
 																															class="author-img"><img
 																																alt=''
 																																src='/avatar/4d8af0c88c97fcf6ca6aca755cfeb2d6206e913801c566e6e3751d7522131da9?s=30&amp;d=mm&amp;r=g'
@@ -5380,7 +5397,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																												<div
 																													class="post-date">
 																													<a
-																														href="2024/04/13/index.html"><i
+																														href="/2024/04/13"><i
 																															class="ti-calendar"></i>
 																														April
 																														13,
@@ -5393,7 +5410,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																										class="entry-title">
 																										<h5
 																											class="post-title-head">
-																											<a href="how-to-optimize-your-wifi/index.html"
+																											<a href="/how-to-optimize-your-wifi"
 																												class="post-title">How
 																												to
 																												optimize
@@ -5416,7 +5433,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																										width="600"
 																										class="img-fluid"
 																										alt="How to choose a domain name"
-																										src="wp-content/uploads/2024/04/howtoselectadomain-Kemnet-600x526.png" />
+																										src="/wp-content/uploads/2024/04/howtoselectadomain-Kemnet-600x526.png" />
 																								</div>
 																								<!-- .post-thumb -->
 																								<div
@@ -5429,7 +5446,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																												<div
 																													class="post-author">
 																													<a
-																														href="author/patton/index.html"><span
+																														href="/author/patton"><span
 																															class="author-img"><img
 																																alt=''
 																																src='/avatar/4d8af0c88c97fcf6ca6aca755cfeb2d6206e913801c566e6e3751d7522131da9?s=30&amp;d=mm&amp;r=g'
@@ -5444,7 +5461,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																												<div
 																													class="post-date">
 																													<a
-																														href="2024/04/07/index.html"><i
+																														href="/2024/04/07"><i
 																															class="ti-calendar"></i>
 																														April
 																														7,
@@ -5457,7 +5474,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																										class="entry-title">
 																										<h5
 																											class="post-title-head">
-																											<a href="how-to-choose-a-domain-name/index.html"
+																											<a href="/how-to-choose-a-domain-name"
 																												class="post-title">How
 																												to
 																												choose a
@@ -5480,7 +5497,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																										width="600"
 																										class="img-fluid"
 																										alt="How to position your Router"
-																										src="wp-content/uploads/2023/10/wifi-router-table-smart-connection-600x526.jpg" />
+																										src="/wp-content/uploads/2023/10/wifi-router-table-smart-connection-600x526.jpg" />
 																								</div>
 																								<!-- .post-thumb -->
 																								<div
@@ -5493,7 +5510,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																												<div
 																													class="post-author">
 																													<a
-																														href="author/patton/index.html"><span
+																														href="/author/patton"><span
 																															class="author-img"><img
 																																alt=''
 																																src='/avatar/4d8af0c88c97fcf6ca6aca755cfeb2d6206e913801c566e6e3751d7522131da9?s=30&amp;d=mm&amp;r=g'
@@ -5508,7 +5525,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																												<div
 																													class="post-date">
 																													<a
-																														href="2023/11/08/index.html"><i
+																														href="/2023/11/08"><i
 																															class="ti-calendar"></i>
 																														November
 																														8,
@@ -5521,7 +5538,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																										class="entry-title">
 																										<h5
 																											class="post-title-head">
-																											<a href="how-to-position-your-router/index.html"
+																											<a href="/how-to-position-your-router"
 																												class="post-title">How
 																												to
 																												position
@@ -5623,7 +5640,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								<img loading="lazy"
 																									decoding="async"
 																									class="img-fluid client-img"
-																									src="wp-content/uploads/2023/08/shell.jpg"
+																									src="/wp-content/uploads/2023/08/shell.jpg"
 																									width="200"
 																									height="200"
 																									alt="Shell Logo" />
@@ -5634,7 +5651,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								<img loading="lazy"
 																									decoding="async"
 																									class="img-fluid client-img"
-																									src="wp-content/uploads/2023/08/2a.jpg"
+																									src="/wp-content/uploads/2023/08/2a.jpg"
 																									width="200"
 																									height="200"
 																									alt="Samsung Logo" />
@@ -5645,7 +5662,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								<img loading="lazy"
 																									decoding="async"
 																									class="img-fluid client-img"
-																									src="wp-content/uploads/2023/08/Greatwall-Gardens.jpg"
+																									src="/wp-content/uploads/2023/08/Greatwall-Gardens.jpg"
 																									width="200"
 																									height="200"
 																									alt="Greatwall Gardens Logo" />
@@ -5656,7 +5673,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								<img loading="lazy"
 																									decoding="async"
 																									class="img-fluid client-img"
-																									src="wp-content/uploads/2023/08/3a.jpg"
+																									src="/wp-content/uploads/2023/08/3a.jpg"
 																									width="200"
 																									height="200"
 																									alt="PPOA Logo" />
@@ -5667,7 +5684,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								<img loading="lazy"
 																									decoding="async"
 																									class="img-fluid client-img"
-																									src="wp-content/uploads/2023/08/care.jpg"
+																									src="/wp-content/uploads/2023/08/care.jpg"
 																									width="200"
 																									height="200"
 																									alt="Image" />
@@ -5678,7 +5695,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								<img loading="lazy"
 																									decoding="async"
 																									class="img-fluid client-img"
-																									src="wp-content/uploads/2023/08/Mavuno-Church.jpg"
+																									src="/wp-content/uploads/2023/08/Mavuno-Church.jpg"
 																									width="200"
 																									height="200"
 																									alt="Mavuno Church Logo" />
@@ -5689,7 +5706,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								<img loading="lazy"
 																									decoding="async"
 																									class="img-fluid client-img"
-																									src="wp-content/uploads/2023/08/Kimisitu-Sacco.jpg"
+																									src="/wp-content/uploads/2023/08/Kimisitu-Sacco.jpg"
 																									width="200"
 																									height="200"
 																									alt="Kimisitu Sacco Logo" />
@@ -5700,7 +5717,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								<img loading="lazy"
 																									decoding="async"
 																									class="img-fluid client-img"
-																									src="wp-content/uploads/2023/08/bata.jpg"
+																									src="/wp-content/uploads/2023/08/bata.jpg"
 																									width="200"
 																									height="200"
 																									alt="Bata Logo" />
@@ -5711,7 +5728,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								<img loading="lazy"
 																									decoding="async"
 																									class="img-fluid client-img"
-																									src="wp-content/uploads/2023/08/Galvmed.jpg"
+																									src="/wp-content/uploads/2023/08/Galvmed.jpg"
 																									width="200"
 																									height="200"
 																									alt="Galvmed Logo" />
@@ -5722,7 +5739,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								<img loading="lazy"
 																									decoding="async"
 																									class="img-fluid client-img"
-																									src="wp-content/uploads/2023/08/Tysons-Limited.jpg"
+																									src="/wp-content/uploads/2023/08/Tysons-Limited.jpg"
 																									width="200"
 																									height="200"
 																									alt="Tysons Limited Logo" />
@@ -5733,7 +5750,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								<img loading="lazy"
 																									decoding="async"
 																									class="img-fluid client-img"
-																									src="wp-content/uploads/2023/08/kitui-county-government.png"
+																									src="/wp-content/uploads/2023/08/kitui-county-government.png"
 																									width="200"
 																									height="200"
 																									alt="Kitui County Government Logo" />
@@ -5744,7 +5761,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								<img loading="lazy"
 																									decoding="async"
 																									class="img-fluid client-img"
-																									src="wp-content/uploads/2023/08/intel.jpg"
+																									src="/wp-content/uploads/2023/08/intel.jpg"
 																									width="200"
 																									height="200"
 																									alt="intel Logo" />
@@ -5755,7 +5772,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								<img loading="lazy"
 																									decoding="async"
 																									class="img-fluid client-img"
-																									src="wp-content/uploads/2023/08/Kenya-Institute-of-curriculumn-Development-KICD.jpg"
+																									src="/wp-content/uploads/2023/08/Kenya-Institute-of-curriculumn-Development-KICD.jpg"
 																									width="200"
 																									height="200"
 																									alt="Kenya Institute of curriculumn Development Logo" />
@@ -5766,7 +5783,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								<img loading="lazy"
 																									decoding="async"
 																									class="img-fluid client-img"
-																									src="wp-content/uploads/2023/08/government.jpg"
+																									src="/wp-content/uploads/2023/08/government.jpg"
 																									width="200"
 																									height="200"
 																									alt="GOK Logo" />
@@ -5777,7 +5794,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								<img loading="lazy"
 																									decoding="async"
 																									class="img-fluid client-img"
-																									src="wp-content/uploads/2023/08/meru-county-government.jpg"
+																									src="/wp-content/uploads/2023/08/meru-county-government.jpg"
 																									width="200"
 																									height="200"
 																									alt="Meru County Government Logo" />
@@ -5788,7 +5805,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								<img loading="lazy"
 																									decoding="async"
 																									class="img-fluid client-img"
-																									src="wp-content/uploads/2023/08/Fargo.jpg"
+																									src="/wp-content/uploads/2023/08/Fargo.jpg"
 																									width="200"
 																									height="200"
 																									alt="Wells Fargo Logo" />
@@ -5799,7 +5816,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								<img loading="lazy"
 																									decoding="async"
 																									class="img-fluid client-img"
-																									src="wp-content/uploads/2023/08/swara-acacia-lodge.jpg"
+																									src="/wp-content/uploads/2023/08/swara-acacia-lodge.jpg"
 																									width="200"
 																									height="200"
 																									alt="Swara Acacia Lodge Logo" />
@@ -5810,7 +5827,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								<img loading="lazy"
 																									decoding="async"
 																									class="img-fluid client-img"
-																									src="wp-content/uploads/2023/08/lotos-inn-suites.jpg"
+																									src="/wp-content/uploads/2023/08/lotos-inn-suites.jpg"
 																									width="200"
 																									height="200"
 																									alt="Lotos Inn &amp; Suites Logo" />
@@ -5821,7 +5838,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																								<img loading="lazy"
 																									decoding="async"
 																									class="img-fluid client-img"
-																									src="wp-content/uploads/2023/08/Kitengela-International-Schools.jpg"
+																									src="/wp-content/uploads/2023/08/Kitengela-International-Schools.jpg"
 																									width="200"
 																									height="200"
 																									alt="Kitengela International Schools Logo" />
@@ -5873,7 +5890,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																									<img loading="lazy"
 																										decoding="async"
 																										class="img-fluid"
-																										src="wp-content/uploads/2023/08/wifi-router-sh-70-1.png"
+																										src="/wp-content/uploads/2023/08/wifi-router-sh-70-1.png"
 																										width="70"
 																										height="70"
 																										alt="" />
@@ -5926,7 +5943,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																									<img loading="lazy"
 																										decoding="async"
 																										class="img-fluid"
-																										src="wp-content/uploads/2023/08/smart-tv-70.png"
+																										src="/wp-content/uploads/2023/08/smart-tv-70.png"
 																										width="70"
 																										height="70"
 																										alt="" />
@@ -5980,7 +5997,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 																									<img loading="lazy"
 																										decoding="async"
 																										class="img-fluid"
-																										src="wp-content/uploads/2023/08/satellite-dish-sec.png"
+																										src="/wp-content/uploads/2023/08/satellite-dish-sec.png"
 																										width="64"
 																										height="64"
 																										alt="" />
@@ -6154,27 +6171,27 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 										<ul id="menu-footer1" class="menu">
 											<li id="menu-item-14086"
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14086">
-												<a href="coverage/index.html">Coverage</a>
+												<a href="/coverage">Coverage</a>
 											</li>
 											<li id="menu-item-14087"
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14087">
-												<a href="careers/index.html">Careers</a>
+												<a href="/careers">Careers</a>
 											</li>
 											<li id="menu-item-14104"
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14104">
-												<a href="faq/index.html">FAQs</a>
+												<a href="/faq">FAQs</a>
 											</li>
 											<li id="menu-item-14337"
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14337">
-												<a href="shop/index.html">Shop</a>
+												<a href="/shop">Shop</a>
 											</li>
 											<li id="menu-item-14340"
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14340">
-												<a href="contact-us/index.html">Contact Us</a>
+												<a href="/contact-us">Contact Us</a>
 											</li>
 											<li id="menu-item-14342"
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14342">
-												<a href="blog/index.html">Blog</a>
+												<a href="/blog">Blog</a>
 											</li>
 										</ul>
 									</div>
@@ -6189,36 +6206,36 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 										<ul id="menu-footer2-services" class="menu">
 											<li id="menu-item-14898"
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14898">
-												<a href="services/index.html">Our Services</a>
+												<a href="/services">Our Services</a>
 												<ul class="sub-menu">
 													<li id="menu-item-15320"
 														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15320">
-														<a href="services/internet-services/index.html">Internet
+														<a href="/services/internet-services">Internet
 															Services</a>
 													</li>
 													<li id="menu-item-15324"
 														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15324">
-														<a href="services/infrastructure-networking/index.html">Infrastructure
+														<a href="/services/infrastructure-networking">Infrastructure
 															&amp; Networking</a>
 													</li>
 													<li id="menu-item-15321"
 														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15321">
-														<a href="services/web-cloud-solutions/index.html">Web &amp;
+														<a href="/services/web-cloud-solutions">Web &amp;
 															Cloud Solutions</a>
 													</li>
 													<li id="menu-item-15325"
 														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15325">
-														<a href="services/software-hardware/index.html">Software &#038;
+														<a href="/services/software-hardware">Software &#038;
 															Hardware</a>
 													</li>
 													<li id="menu-item-15322"
 														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15322">
-														<a href="services/smart-home-security-solutions/index.html">Smart
+														<a href="/services/smart-home-security-solutions">Smart
 															Home &#038; Security Solutions</a>
 													</li>
 													<li id="menu-item-15323"
 														class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15323">
-														<a href="services/ict-consultancy-training/index.html">ICT
+														<a href="/services/ict-consultancy-training">ICT
 															Consultancy &amp; Training</a>
 													</li>
 												</ul>
@@ -6236,15 +6253,15 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 										<ul id="menu-footer3-packages" class="menu">
 											<li id="menu-item-15741"
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15741">
-												<a href="kemnet-home-wireless/index.html">Kemnet Home Wireless</a>
+												<a href="/kemnet-home-wireless">Kemnet Home Wireless</a>
 											</li>
 											<li id="menu-item-14100"
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14100">
-												<a href="kemnet-home-fiber/index.html">Kemnet Home Fiber</a>
+												<a href="/kemnet-home-fiber">Kemnet Home Fiber</a>
 											</li>
 											<li id="menu-item-15896"
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15896">
-												<a href="kemnet-business-internet/index.html">Kemnet Business
+												<a href="/kemnet-business-internet">Kemnet Business
 													Internet</a>
 											</li>
 										</ul>
@@ -6290,7 +6307,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 									<div class="nav-item-inner">
 										<div class="copyright-text-wrap">Copyrights ©
 											<script>document.write(new Date().getFullYear());</script> <a
-												href="index.html" class="theme-color" target="_blank">KEMNET
+												href="/" class="theme-color" target="_blank">KEMNET
 												TECHNOLOGIES</a>, driven by TECHNOLOGY, powered by SERVICE, All Rights
 											Reserved.
 										</div>
@@ -6397,7 +6414,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 		</div>
 	</div>
 	<span class="ht_ctc_chat_data" data-no_number=""
-		data-settings="{&quot;number&quot;:&quot;254700638585&quot;,&quot;pre_filled&quot;:&quot;Hello Kemnet,\r\n\r\nLike to know more information about your services at https:\/\/kemnet.co.ke\/&quot;,&quot;dis_m&quot;:&quot;show&quot;,&quot;dis_d&quot;:&quot;show&quot;,&quot;css&quot;:&quot;display: none; cursor: pointer; z-index: 99999999;&quot;,&quot;pos_d&quot;:&quot;position: fixed; bottom: 15%; right: 2.3%;&quot;,&quot;pos_m&quot;:&quot;position: fixed; bottom: 15%; right: 2.3%;&quot;,&quot;schedule&quot;:&quot;no&quot;,&quot;se&quot;:150,&quot;ani&quot;:&quot;no-animation&quot;,&quot;url_target_d&quot;:&quot;_blank&quot;,&quot;ga&quot;:&quot;yes&quot;,&quot;fb&quot;:&quot;yes&quot;,&quot;g_init&quot;:&quot;default&quot;,&quot;g_an_event_name&quot;:&quot;chat: {number}&quot;,&quot;pixel_event_name&quot;:&quot;Click to Chat by HoliThemes&quot;}"></span>
+		data-settings="{&quot;number&quot;:&quot;254700638585&quot;,&quot;pre_filled&quot;:&quot;Hello Kemnet,\r\n\r\nLike to know more information about your services at \/&quot;,&quot;dis_m&quot;:&quot;show&quot;,&quot;dis_d&quot;:&quot;show&quot;,&quot;css&quot;:&quot;display: none; cursor: pointer; z-index: 99999999;&quot;,&quot;pos_d&quot;:&quot;position: fixed; bottom: 15%; right: 2.3%;&quot;,&quot;pos_m&quot;:&quot;position: fixed; bottom: 15%; right: 2.3%;&quot;,&quot;schedule&quot;:&quot;no&quot;,&quot;se&quot;:150,&quot;ani&quot;:&quot;no-animation&quot;,&quot;url_target_d&quot;:&quot;_blank&quot;,&quot;ga&quot;:&quot;yes&quot;,&quot;fb&quot;:&quot;yes&quot;,&quot;g_init&quot;:&quot;default&quot;,&quot;g_an_event_name&quot;:&quot;chat: {number}&quot;,&quot;pixel_event_name&quot;:&quot;Click to Chat by HoliThemes&quot;}"></span>
 	<script>
 		const lazyloadRunObserver = () => {
 			const lazyloadBackgrounds = document.querySelectorAll(`.e-con.e-parent:not(.e-lazyloaded)`);
@@ -6438,10 +6455,10 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 		if (typeof revslider_showDoubleJqueryError === "undefined") { function revslider_showDoubleJqueryError(sliderID) { console.log("You have some jquery.js library include that comes after the Slider Revolution files js inclusion."); console.log("To fix this, you can:"); console.log("1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on"); console.log("2. Find the double jQuery.js inclusion and remove it"); return "Double Included jQuery Library"; } }
 	</script>
 	<link rel="preload" as="font" id="rs-icon-set-fa-icon-woff" type="font/woff2" crossorigin="anonymous"
-		href="wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0"
+		href="/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0"
 		media="all" />
 	<link rel="stylesheet" property="stylesheet" id="rs-icon-set-fa-icon-css"
-		href="wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/font-awesome.css" type="text/css"
+		href="/wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/font-awesome.css" type="text/css"
 		media="all" />
 	<script type="text/javascript" id="woocommerce-google-analytics-integration-data-js-after">
 		/* <![CDATA[ */
@@ -6456,29 +6473,29 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 		//# sourceURL=wpo_min-footer-0-js-extra
 		/* ]]> */
 	</script>
-	<script type="text/javascript" src="wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-0c9a1ccf.min.js"
+	<script type="text/javascript" src="/wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-0c9a1ccf.min.js"
 		id="wpo_min-footer-0-js"></script>
 	<script type="text/javascript" src="/gtag/js?id=G-3R3FWM6ELV"
 		id="google-tag-manager-js" data-wp-strategy="async"></script>
-	<script type="text/javascript" src="wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-034d157f.min.js"
+	<script type="text/javascript" src="/wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-034d157f.min.js"
 		id="wpo_min-footer-2-js"></script>
 	<script type="text/javascript" id="wpo_min-footer-3-js-extra">
 		/* <![CDATA[ */
-		var satenet_ajax_var = { "admin_ajax_url": "/wp-admin/admin-ajax.php", "like_nonce": "c0362a7da2", "fav_nonce": "5166e34209", "wishlist_remove": "e7d72c8df3", "product_view": "3167a6c9a6", "infinite_loader": { "id": "11741", "url": "wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD.png" }, "load_posts": "Loading next set of posts.", "no_posts": "No more posts to load.", "cmt_nonce": "38bc275b72", "mc_nounce": "368577ac9d", "wait": "Wait..", "must_fill": "Must Fill Required Details.", "valid_email": "Enter Valid Email ID.", "cart_update_pbm": "Cart Update Problem.", "gmap_stat": "1", "user_logged": "0", "add_to_cart": "eaaaf097dc", "remove_from_cart": "306fc4756a", "body_atts": { "scroll_time": "", "scroll_dist": "", "res_width": 1025, "core_stat": false, "menu_offset": 60, "mobile_menu_offset": 60 } };
+		var satenet_ajax_var = { "admin_ajax_url": "/wp-admin/admin-ajax.php", "like_nonce": "c0362a7da2", "fav_nonce": "5166e34209", "wishlist_remove": "e7d72c8df3", "product_view": "3167a6c9a6", "infinite_loader": { "id": "11741", "url": "/wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD.png" }, "load_posts": "Loading next set of posts.", "no_posts": "No more posts to load.", "cmt_nonce": "38bc275b72", "mc_nounce": "368577ac9d", "wait": "Wait..", "must_fill": "Must Fill Required Details.", "valid_email": "Enter Valid Email ID.", "cart_update_pbm": "Cart Update Problem.", "gmap_stat": "1", "user_logged": "0", "add_to_cart": "eaaaf097dc", "remove_from_cart": "306fc4756a", "body_atts": { "scroll_time": "", "scroll_dist": "", "res_width": 1025, "core_stat": false, "menu_offset": 60, "mobile_menu_offset": 60 } };
 		var wc_order_attribution = { "params": { "lifetime": 1.0e-5, "session": 30, "base64": false, "ajaxurl": "/wp-admin/admin-ajax.php", "prefix": "wc_order_attribution_", "allowTracking": true }, "fields": { "source_type": "current.typ", "referrer": "current_add.rf", "utm_campaign": "current.cmp", "utm_source": "current.src", "utm_medium": "current.mdm", "utm_content": "current.cnt", "utm_id": "current.id", "utm_term": "current.trm", "utm_source_platform": "current.plt", "utm_creative_format": "current.fmt", "utm_marketing_tactic": "current.tct", "session_entry": "current_add.ep", "session_start_time": "current_add.fd", "session_pages": "session.pgs", "session_count": "udata.vst", "user_agent": "udata.uag" } };
 		//# sourceURL=wpo_min-footer-3-js-extra
 		/* ]]> */
 	</script>
-	<script type="text/javascript" src="wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-ae994d4f.min.js"
+	<script type="text/javascript" src="/wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-ae994d4f.min.js"
 		id="wpo_min-footer-3-js"></script>
 	<script type="text/javascript"
 		src="../www.google.com/recaptcha/api7f37.js?render=6Lfn4X0qAAAAAOvFqOP4V_3SLg_r9OKF6yhrRQnm&amp;ver=3.0"
 		id="google-recaptcha-js"></script>
-	<script type="text/javascript" src="wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-52fa0690.min.js"
+	<script type="text/javascript" src="/wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-52fa0690.min.js"
 		id="wpo_min-footer-5-js"></script>
-	<script type="text/javascript" src="wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-b7c157fe.min.js"
+	<script type="text/javascript" src="/wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-b7c157fe.min.js"
 		id="wpo_min-footer-6-js"></script>
-	<script type="text/javascript" src="wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-9a4b0961.min.js"
+	<script type="text/javascript" src="/wp-content/cache/wpo-minify/1764737221/assets/wpo-minify-footer-9a4b0961.min.js"
 		id="wpo_min-footer-7-js"></script>
 	<script id="rs-initialisation-scripts">
 		var tpj = jQuery;
@@ -6547,8 +6564,6 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 
 		if (window.RS_MODULES.checkMinimal !== undefined) { window.RS_MODULES.checkMinimal(); };
 	</script>
-</body>
+@endverbatim
+@endsection
 
-<!-- Mirrored from kemnet.co.ke/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 25 Jan 2026 09:14:35 GMT -->
-
-</html>

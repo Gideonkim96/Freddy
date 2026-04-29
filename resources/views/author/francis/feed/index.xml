@@ -6,8 +6,8 @@
 
 	<channel>
 		<title>Francis, Author at Kemnet Technologies Limited</title>
-		<atom:link href="https://kemnet.co.ke/author/francis/feed/" rel="self" type="application/rss+xml" />
-		<link>https://kemnet.co.ke/author/francis/</link>
+		<atom:link href="/author/francis/feed/" rel="self" type="application/rss+xml" />
+		<link>/author/francis/</link>
 		<description>powered by TECHNOLOGY, driven by SERVICE</description>
 		<lastBuildDate>Thu, 02 Nov 2023 04:10:07 +0000</lastBuildDate>
 		<language>en-US</language>
@@ -18,16 +18,16 @@
 		<generator>https://wordpress.org/?v=6.9</generator>
 
 		<image>
-			<url>https://kemnet.co.ke/wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD-32x32.png</url>
+			<url>/wp-content/uploads/2023/08/cropped-KEMNET-LOGO-PSD-32x32.png</url>
 			<title>Francis, Author at Kemnet Technologies Limited</title>
-			<link>https://kemnet.co.ke/author/francis/</link>
+			<link>/author/francis/</link>
 			<width>32</width>
 			<height>32</height>
 		</image>
 		<item>
 			<title>Understanding Redundancy : The Backbone of Reliable Internet</title>
-			<link>https://kemnet.co.ke/understanding-redundancy-the-backbone-of-reliable-internet/</link>
-			<comments>https://kemnet.co.ke/understanding-redundancy-the-backbone-of-reliable-internet/#respond
+			<link>/understanding-redundancy-the-backbone-of-reliable-internet/</link>
+			<comments>/understanding-redundancy-the-backbone-of-reliable-internet/#respond
 			</comments>
 
 			<dc:creator>
@@ -37,11 +37,11 @@
 			<category>
 				<![CDATA[Internet]]>
 			</category>
-			<guid isPermaLink="false">http://kemnet.co.ke/?p=15227</guid>
+			<guid isPermaLink="false">/?p=15227</guid>
 
 			<description>
 				<![CDATA[<p>Understanding Redundancy : The Backbone of Reliable Internet Understanding Redundancy: The Backbone of Reliable Internet Understanding Redundancy At KEMNET, we have put in place a robust redundancy strategy. At KEMNET, we have put in place a robust redundancy strategy In an increasingly digital age, reliable internet connectivity is not just a luxury; it&#8217;s a necessity.</p>
-<p>The post <a href="https://kemnet.co.ke/understanding-redundancy-the-backbone-of-reliable-internet/">Understanding Redundancy : The Backbone of Reliable Internet</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+<p>The post <a href="/understanding-redundancy-the-backbone-of-reliable-internet/">Understanding Redundancy : The Backbone of Reliable Internet</a> appeared first on <a href="/">Kemnet Technologies Limited</a>.</p>
 ]]>
 			</description>
 			<content:encoded>
@@ -140,11 +140,11 @@ Ongoing road constructions, sometimes pose potential threats to the physical net
 </p></div><!-- .section-description --></div><!-- .section-title-wrapper -->				</div>
 				</div>
 					</div>
-				</div>		</div><p>The post <a href="https://kemnet.co.ke/understanding-redundancy-the-backbone-of-reliable-internet/">Understanding Redundancy : The Backbone of Reliable Internet</a> appeared first on <a href="https://kemnet.co.ke">Kemnet Technologies Limited</a>.</p>
+				</div>		</div><p>The post <a href="/understanding-redundancy-the-backbone-of-reliable-internet/">Understanding Redundancy : The Backbone of Reliable Internet</a> appeared first on <a href="/">Kemnet Technologies Limited</a>.</p>
 ]]>
 			</content:encoded>
 
-			<wfw:commentRss>https://kemnet.co.ke/understanding-redundancy-the-backbone-of-reliable-internet/feed/
+			<wfw:commentRss>/understanding-redundancy-the-backbone-of-reliable-internet/feed/
 			</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 
