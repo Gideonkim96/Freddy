@@ -2,6 +2,13 @@
 
 @section('title', 'Careers - Join Kemnet‚ Kenya\'s Leading ICT Team')
 
+@section('head')
+@include('partials.wp-page-head', [
+    'title' => 'Careers - Join Kemnet‚ Kenya\'s Leading ICT Team',
+    'postId' => '6298',
+])
+@endsection
+
 @section('content')
 @verbatim
 <div class="mobile-header">

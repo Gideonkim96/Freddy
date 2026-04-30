@@ -2,6 +2,13 @@
 
 @section('title', 'Frequently Asked Questions - Kemnet Technologies Limited')
 
+@section('head')
+@include('partials.wp-page-head', [
+    'title' => 'Frequently Asked Questions - Kemnet Technologies Limited',
+    'postId' => '6228',
+])
+@endsection
+
 @section('content')
 @verbatim
 <div class="mobile-header">

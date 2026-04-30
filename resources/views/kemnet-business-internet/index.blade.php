@@ -2,6 +2,13 @@
 
 @section('title', 'Best Business Internet Services in Nairobi & Environs | Kemnet')
 
+@section('head')
+@include('partials.wp-page-head', [
+    'title' => 'Best Business Internet Services in Nairobi & Environs | Kemnet',
+    'postId' => '15860',
+])
+@endsection
+
 @section('content')
 @verbatim
 <div class="mobile-header">

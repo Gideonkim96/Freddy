@@ -7,9 +7,17 @@
     @else
         <title>@yield('title', 'Kemnet Technologies Limited')</title>
     @endif
-    @yield('head')
+    {!! preg_replace(
+        "/\\s*@(extends\\(['\"][^'\"]+['\"]\\)|section\\(['\"](?:head|title|content)['\"](?:\\s*,\\s*[^\\)]*)?\\)|endsection|verbatim|endverbatim)\\s*/",
+        '',
+        $__env->yieldContent('head')
+    ) !!}
 </head>
 <body>
-    @yield('content')
+    {!! preg_replace(
+        "/\\s*@(extends\\(['\"][^'\"]+['\"]\\)|section\\(['\"](?:head|title|content)['\"](?:\\s*,\\s*[^\\)]*)?\\)|endsection|verbatim|endverbatim)\\s*/",
+        '',
+        $__env->yieldContent('content')
+    ) !!}
 </body>
 </html>

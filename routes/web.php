@@ -31,6 +31,27 @@ Route::get('/careers', function () {
     return view('careers.index');
 });
 
+$pageAliases = [
+    'career' => 'careers.index',
+    'business-internet' => 'kemnet-business-internet.index',
+    'business-fiber' => 'kemnet-business-internet.index',
+    'business-fibre' => 'kemnet-business-internet.index',
+    'kemnet-business-fiber' => 'kemnet-business-internet.index',
+    'kemnet-business-fibre' => 'kemnet-business-internet.index',
+    'web-and-cloud' => 'web-and-cloud-services.index',
+    'weband-cloud' => 'web-and-cloud-services.index',
+    'web-cloud' => 'web-and-cloud-services.index',
+    'web-cloud-services' => 'web-and-cloud-services.index',
+    'ict-consultancy-training' => 'services.ict-consultancy-training.index',
+    'ai' => 'services.ict-consultancy-training.index',
+    'ai-ict-consultancy-training' => 'services.ict-consultancy-training.index',
+    'ai-and-ict-consultancy-training' => 'services.ict-consultancy-training.index',
+];
+
+foreach ($pageAliases as $uri => $view) {
+    Route::get('/' . $uri, fn () => view($view));
+}
+
 // Portfolio routes
 Route::prefix('portfolio')->group(function () {
     Route::get('/domain-registrations-web-hosting-web-design', function () {
@@ -107,10 +128,21 @@ $legacyServiceViews = [
     'our-services/ict-consultancy-training' => 'services.ict-consultancy-training.index',
     'our-services/infrastructure-networking' => 'services.infrastructure-networking.index',
     'our-services/infrastructure-networking/dark-fiber' => 'services.infrastructure-networking.dark-fiber.index',
+    'our-services/fiber-optic-cabling' => 'services.fiber-optic-cabling.index',
     'our-services/internet-services' => 'services.internet-services.index',
     'our-services/smart-home-security-solutions' => 'services.smart-home-security-solutions.index',
+    'our-services/smart-home-security-solutions/access-control' => 'services.smart-home-security-solutions.access-control.index',
+    'our-services/smart-home-security-solutions/cctv-installation' => 'services.smart-home-security-solutions.cctv-installation.index',
+    'our-services/smart-home-security-solutions/home-automation' => 'services.smart-home-security-solutions.home-automation.index',
+    'our-services/smart-home-security-solutions/structured-cabling-cctv' => 'services.smart-home-security-solutions.cctv-installation.index',
     'our-services/software-hardware' => 'services.software-hardware.index',
+    'our-services/software-hardware/custom-software-solutions' => 'services.software-hardware.custom-software-solutions.index',
+    'our-services/software-hardware/hardware-solutions' => 'services.software-hardware.hardware-solutions.index',
     'our-services/web-cloud-solutions' => 'services.web-cloud-solutions.index',
+    'our-services/web-cloud-solutions/cloud-hosting-solutions' => 'services.web-cloud-solutions.cloud-hosting-solutions.index',
+    'our-services/web-cloud-solutions/domains-web-hosting' => 'services.web-cloud-solutions.domains-web-hosting.index',
+    'our-services/web-cloud-solutions/google-integrated-solutions' => 'services.web-cloud-solutions.google-integrated-solutions.index',
+    'our-services/localized-cloud-hosting' => 'services.web-cloud-solutions.cloud-hosting-solutions.index',
 ];
 
 foreach ($legacyServiceViews as $uri => $view) {
